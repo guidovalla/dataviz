@@ -13,7 +13,7 @@
 <script>
 
     // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 30, bottom: 20, left: 50},
+    var margin = {top: 10, right: 30, bottom: 50, left: 50},
         width = 460 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
     
@@ -21,7 +21,8 @@
 
     
     //Parse the Data
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/first_stacked_bar_chart.csv", function(data) {
+    //"https://raw.githubusercontent.com/guidovalla/dataviz/main/first_stacked_bar_chart.csv"
+    d3.csv("processed_data/first_stacked_bar_chart.csv", function(data) {
     console.log(data)
     const svg = d3.select("#my_dataviz")
                   .append("svg")
@@ -34,15 +35,17 @@
 
     // List of subgroups = header of the csv files = soil condition here
 
-      var subgroups = data.columns.slice(1)
+      const subgroups = data.columns.slice(1)
+      console.log("subgroups", subgroups)   
       
     
       // List of groups = species here = value of the first column called group -> I show them on the X axis
       //var groups = d3.map(data, function(d){return(d.group)}).keys()
 //aaaaaaaaaaaaaa      
-      var groups = data.map(d => d.city);
+      const groups = data.map(d => d.City);
       var filteredGroups = groups.slice(0);
       var filteredData = data.slice(0);
+      
       var max = d3.max(filteredData, d => d3.sum(subgroups.map(key => +d[key]))); 
 //aaaaaaaaaaaaaa
       // Add y axis
@@ -56,7 +59,7 @@
     
       // Add x axis
       var x = d3.scaleLinear()
-        .domain([0, 1.2*(max)])
+        .domain([0, 1.1*max])
         .range([0, width ]);
     svg.append("g")
         .attr("transform", `translate(0, ${height})`)
@@ -68,17 +71,18 @@
       // color palette = one color per subgroup
       var color = d3.scaleOrdinal()
         .domain(subgroups)
-        .range(['#e41a1c','#377eb8','#4daf4a', '#f48d0a', '#800aee'])
+        .range(['#e41a1c','#377eb8','#4daf4a', '#f48d0a', '#800aee', '#a65628']);
         //CHANGE THIS TO THE COLORS YOU WANT
     
       //stack the data? --> stack per subgroup
+      console.log("fil_data", filteredData)
       var stackedData = d3.stack()
         .keys(subgroups)
         .value((d, key) => +d[key])
         .order(d3.stackOrderNone)
         .offset(d3.stackOffsetNone)
         (filteredData);
-    
+    console.log("stacked", stackedData)
       // Show the bars
       svg.append("g")
         .selectAll("g")
@@ -91,9 +95,9 @@
           .data(function(d) { return d; })
           .enter().append("rect")
             .attr("x", function(d) { return x(d[0]); })
-            .attr("y", function(d) { return y(d.data.city); })
+            .attr("y", function(d) { return y(d.data.City); })
             .attr("height", y.bandwidth())
-            .attr("width",function(d) { return x(d[1]-x(d[0])); })
+            .attr("width",function(d) { return x(d[1])-x(d[0]); })
     })
 
     </script>
