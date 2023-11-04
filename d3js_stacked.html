@@ -21,8 +21,7 @@
 
     
     //Parse the Data
-    //"https://raw.githubusercontent.com/guidovalla/dataviz/main/first_stacked_bar_chart.csv"
-    d3.csv("processed_data/first_stacked_bar_chart.csv", function(data) {
+    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/first_stacked_bar_chart.csv", function(data) {
     console.log(data)
     const svg = d3.select("#my_dataviz")
                   .append("svg")
