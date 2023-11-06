@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
+
+
+
+<script>
+console.log("test", 1);
+
+function makeSmallMultiple(colName, first) {
+    var margin = {top: 30, right: 10, bottom: 30, left: 30};
+    var width = 170 - margin.left - margin.right;
+    var height = 300 - margin.top - margin.bottom;
+    if (first) {
+      margin.left = 100;
+      margin.right = 0;
+    }
+    d3.csv("processed_data/first_stacked_bar_chart.csv", function(data) {
+      var subgroups = data.columns.slice(1);
+      
+      const sums = data.map(d => subgroups.map(colName => +d[colName]).reduce((el, r) => r + el, 0));
+      data.forEach((row, row_id) => row["Total"] = sums[row_id]);
+      subgroups.push("Total");
+      
+      var groups = data.map(d => d.City);
+      console.log("groups", groups);
+      var sumstat = subgroups.map(treeType => { 
+          return {"key": treeType, "value": Array.from(data.map(row => +row[treeType]))};
+      });
+      
+      console.log("sumstat", sumstat);
+      
+      var svg = d3.select("#my_dataviz")
+        .append("svg")
+        .style("border", "none")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      
+      var x = d3.scaleLinear()
+        .domain([0, d3.max(data, d => +d["Total"])])
+        .range([0, width]);
+      
+      var y = d3.scaleBand()
+        .domain(groups)
+        .range([height, 0]);
+      
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x).ticks(2));
+      
+      if (first) {
+        svg.append("g")
+          .call(d3.axisLeft(y).ticks(2));
+      } else {
+        svg.append("g")
+          .call(d3.axisLeft(y).tickValues([]));
+      }
+      
+      var color = d3.scaleOrdinal()
+        .domain(subgroups)
+        .range(['#93a9d0', '#37443b', '#6e8055', '#616369', '#9ea889', '#d9dfe9', '#e41a1c']);
+      
+      svg.append("text")
+        .attr("text-anchor", "start")
+        .attr("y", -5)
+        .attr("x", 0)
+        .text(colName)
+        //.style("fill", color(colName));
+      
+      let newData = data.map(row => {return{"key":row.City, "val":row[colName]}});
+      
+      svg.selectAll("g")
+        .data(newData, d => d)
+        .enter().append("rect")
+        .style("fill", color(colName))
+        .attr("y", d => y(d.key))
+        .attr("x", x(0) + 1)
+        .attr("width", d => x(d.val))
+        .attr("height", y.bandwidth() - 2);
+    });
+}
+
+
+  d3.csv("processed_data/first_stacked_bar_chart.csv", function(data) {
+      var subgroups = data.columns.slice(1);
+      console.log("subgroups", subgroups)
+      subgroups.push("Total");
+      subgroups.forEach((gr,id) =>  console.log("gr", gr));
+      subgroups.forEach((gr,id) => makeSmallMultiple(gr, id == 0));
+      console.log("test", 4);
+  });
+
+
+
+
+
+</script>
