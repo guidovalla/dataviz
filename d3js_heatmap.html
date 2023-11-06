@@ -24,7 +24,7 @@
                 "translate(" + margin.left + "," + margin.top + ")");
         
         // Labels of row and columns
-        d3.csv("processed_data/heatmap.csv", function(data) {
+        d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/heatmap.csv", function(data) {
 
 // Labels of row and columns -> unique identifier of the column called 'city' and 'Scientific_name'
         const myGroups = Array.from(new Set(data.map(d => d.City)))
