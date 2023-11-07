@@ -50,9 +50,46 @@
           .call(d3.axisLeft(y));
         
         // Build color scale
-        var myColor = d3.scaleLinear()
-          .range(["white", "#69b3a2"])
-          .domain([500,1000])        
+        // var myColor = d3.scaleLinear()
+        //   .range(["white", "#69b3a2"])
+        //   .domain([500,1000])
+    // Build color scale
+    var myColor = d3.scaleSequential()
+    .interpolator(d3.interpolateHcl("#90ee90", "#007C58"))
+    .domain([600,1000])
+          
+  // create a tooltip
+  var tooltip = d3.select("#my_dataviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(d) {
+    tooltip
+      .style("opacity", 1)
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+  }
+  var mousemove = function(d) {
+    tooltip
+      .html("The exact value of<br>this cell is: " + d.Count)
+      .style("left", (d3.mouse(this)[0]+70) + "px")
+      .style("top", (d3.mouse(this)[1]) + "px")
+  }
+  var mouseleave = function(d) {
+    tooltip
+      .style("opacity", 0)
+    d3.select(this)
+      .style("stroke", "none")
+      .style("opacity", 0.8)
+  }
           // add the squares
           svg.selectAll()
             .data(data, function(d) {return d.City+':'+d.Scientific_name;})
@@ -63,6 +100,9 @@
               .attr("width", x.bandwidth() )
               .attr("height", y.bandwidth() )
               .style("fill", function(d) { return myColor(d.Count)} )
+              .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave)
         })
         
         </script>
