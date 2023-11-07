@@ -8,7 +8,6 @@
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
-<div id="pippo"></div>
 
 
 
@@ -52,6 +51,41 @@
       .range([ height, 0]);
     svg.append("g")
       .call(d3.axisLeft(y));
+
+
+      // ----------------
+  // Create a tooltip
+  // ----------------
+  var tooltip = d3.select("#my_dataviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "10px")
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(d) {
+    //var tree_name = d3.select(this.parentNode).datum().key;
+    //var tree_name = d.Scientific_name;
+    var tree_value = d.Count;
+    tooltip
+        .html("Number of trees: " + tree_value)
+        .style("opacity", 1)
+        .style(fontFamily= "roboto");
+  }
+  var mousemove = function(d) {
+    tooltip
+      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]) + "px")
+  }
+  var mouseleave = function(d) {
+    tooltip
+      .style("opacity", 0)
+  }
+
     
     // Bars
     svg.selectAll("mybar")
@@ -63,20 +97,10 @@
         .attr("width", x.bandwidth())
         .attr("height", function(d) { return height - y(d.Count); })
         .attr("fill", "#69b3a2")
+        .on("mouseover", mouseover)
+        .on("mousemove", mousemove)
+        .on("mouseleave", mouseleave)
     
     })
 
-
-    // set the dimensions and margins of the graph
-    var margin2 = {top: 30, right: 30, bottom: 70, left: 60},
-    width2 = 460 - margin2.left - margin2.right,
-    height2 = 100 - margin2.top - margin2.bottom;
-
-    var svg2 = d3.select("#pippo")
-      .append("svg")
-        .attr("width", width2 + margin2.left + margin2.right)
-        .attr("height", height2 + margin2.top + margin2.bottom)
-      .append("g")
-        .attr("transform",
-              "translate(" + margin2.left + "," + margin2.top + ")");
  </script>
