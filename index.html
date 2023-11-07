@@ -1,15 +1,78 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@1,200&family=Fira+Sans:ital,wght@1,100&family=Roboto+Slab&display=swap" rel="stylesheet">
+    <title>Data Visualization</title>
+
     <link rel="stylesheet" href="custom.css">
-    <title>Homepage</title>
+    <style>
+        body {
+            font-family: 'Fira Sans', sans-serif;
+            background-color: #D9D9D6;
+            margin: 0;
+            padding: 0;
+        }
+        header{
+            font-family: 'Roboto Slab', serif;
+            background-color: #007C58;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #fff;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+
+        .button {
+            display: inline-block;
+            font-family: 'Roboto Slab', serif;
+            background-color: #002677;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-bottom: 500px;
+        }
+
+        .bottom-text {/*maybe not useful*/
+            text-align: center;
+            font-family: 'Fira Sans Condensed', sans-serif;
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+        }
+
+
+        h1 {
+            font-size: 24px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Data Visualisation Assignments</h1>
-    <p>Index:<p>
-    <ul>
-        <li><a href="1st_assignment.html">Trees Dataset</a></li>
-
-    </ul>
+    <header>
+        <h1>Data Visualization Assignments</h1>
+    </header>
+    <div class="container">
+        <div id="data-visualization">
+            <a href="second_page.html" class="button">First Assignment</a>
+            <hr>
+            <b>ZIG ZAG Group</b>
+            <p>Alberto Massa<br>
+                Zahra Kazemi<br>
+                Guido Vallarino</p>
+        </div>
+    </div>
+    
+    
 </body>
 </html>
