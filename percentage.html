@@ -52,7 +52,36 @@
         const x = d3.scaleLinear()
                     .domain([0, 100])
                     .range([0, width]);
-        
+         // ----------------
+  // Create a tooltip
+  // ----------------
+  var tooltip = d3.select("#my_dataviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "10px")
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(d) {
+    var subgroupName = d3.select(this.parentNode).datum().key;
+    var subgroupValue = d.data[subgroupName];
+    tooltip
+        .html("Trees: " + subgroupName + "<br>" + "percentage: " + subgroupValue+"%")
+        .style("opacity", 1)
+  }
+  var mousemove = function(d) {
+    tooltip
+      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]) + "px")
+  }
+  var mouseleave = function(d) {
+    tooltip
+      .style("opacity", 0)
+  }
         svg.append("g")
              .attr("transform", `translate(0, ${height})`)
            .call(d3.axisBottom(x))
@@ -110,6 +139,9 @@
                .attr("y", d => y(d.data.City))
                .attr("width", d => x(d[1]) - x(d[0]))
                .attr("height", y.bandwidth())
+               .on("mouseover", mouseover)
+            .on("mousemove", mousemove)
+            .on("mouseleave", mouseleave)
       })
       
 </script>
