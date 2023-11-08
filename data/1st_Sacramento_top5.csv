@@ -1,6 +1,6 @@
-Scientific_name,Count
-Platanus acerifolia,14111
-Pistacia chinensis,4580
-Pyrus calleryana,4285
-Lagerstroemia indica,4146
-Ulmus parvifolia,4047
+Scientific_name,Count,Avg_heigth
+Platanus acerifolia,14111,40.0
+Pistacia chinensis,4580,9.0
+Pyrus calleryana,4285,10.0
+Lagerstroemia indica,4146,6.0
+Ulmus parvifolia,4047,14.0
