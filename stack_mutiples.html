@@ -11,30 +11,18 @@
 
 
 <script>
-console.log("test", 1);
 
 function makeSmallMultiple(colName, first) {
     var margin = {top: 30, right: 10, bottom: 30, left: 30};
-    var width = 170 - margin.left - margin.right;
+    var width = 200 - margin.left - margin.right;
     var height = 300 - margin.top - margin.bottom;
     if (first) {
       margin.left = 100;
       margin.right = 0;
     }
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_WITHOUT_NAMES_chart.csv", function(data) {
+    d3.csv("2nd_bis_chart_data.csv", function(data) {
       var subgroups = data.columns.slice(1);
-      
-      const sums = data.map(d => subgroups.map(colName => +d[colName]).reduce((el, r) => r + el, 0));
-      data.forEach((row, row_id) => row["Total"] = sums[row_id]);
-      subgroups.push("Total");
-      
       var groups = data.map(d => d.City);
-      console.log("groups", groups);
-      var sumstat = subgroups.map(treeType => { 
-          return {"key": treeType, "value": Array.from(data.map(row => +row[treeType]))};
-      });
-      
-      console.log("sumstat", sumstat);
       
       var svg = d3.select("#my_dataviz")
         .append("svg")
@@ -44,8 +32,11 @@ function makeSmallMultiple(colName, first) {
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
       
+      //take the max value of the column
+      var max = d3.max(data, d => d[colName]);
+      console.log(max);
       var x = d3.scaleLinear()
-        .domain([0, d3.max(data, d => +d["Total"])])
+        .domain([0, 30000])
         .range([0, width]);
       
       var y = d3.scaleBand()
@@ -66,14 +57,13 @@ function makeSmallMultiple(colName, first) {
       
       var color = d3.scaleOrdinal()
         .domain(subgroups)
-        .range(['#93a9d0', '#37443b', '#6e8055', '#616369', '#9ea889', '#d9dfe9', '#e41a1c']);
+        .range(['#0061A0', '#00A7B5', '#9B3259', '#E0A4A1', '#574676']);
       
       svg.append("text")
         .attr("text-anchor", "start")
         .attr("y", -5)
         .attr("x", 0)
         .text(colName)
-        //.style("fill", color(colName));
       
       let newData = data.map(row => {return{"key":row.City, "val":row[colName]}});
       
@@ -89,13 +79,9 @@ function makeSmallMultiple(colName, first) {
 }
 
 
-  d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_WITHOUT_NAMES_chart.csv", function(data) {
+  d3.csv("2nd_bis_chart_data.csv", function(data) {
       var subgroups = data.columns.slice(1);
-      console.log("subgroups", subgroups)
-      subgroups.push("Total");
-      subgroups.forEach((gr,id) =>  console.log("gr", gr));
       subgroups.forEach((gr,id) => makeSmallMultiple(gr, id == 0));
-      console.log("test", 4);
   });
 
 
@@ -103,3 +89,4 @@ function makeSmallMultiple(colName, first) {
 
 
 </script>
+
