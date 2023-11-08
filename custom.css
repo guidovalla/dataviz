@@ -11,3 +11,13 @@ h1,h2,a{
 p{
     font-family: 'Fira Sans', sans-serif;
 }
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 1000px; 
+    height: 600px;
+}

@@ -5,24 +5,41 @@
 <script src="https://d3js.org/d3.v4.js"></script>
 <link rel="stylesheet" href="custom.css">
 
+<!-- Add 2 buttons -->
+<button onclick="update(link_A)">Anaheim</button>
+<button onclick="update(link_B)">Sacramento</button>
+<button onclick="update(link_C)">San Francisco</button>
+<button onclick="update(link_D)">San Jose</button>
+<button onclick="update(link_E)">Stockton</button>
+
+
 
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
-
+<div id="my_dataviz" class="centered"></div>
 
 
 
 
 <script>
 
+const link_A="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_Anaheim_top5.csv";
+const link_B="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_Sacramento_top5.csv";
+const link_C="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_SanFrancisco_top5.csv";
+const link_D="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_SanJose_top5.csv";
+const link_E="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_Stockton_top5.csv";
 
     // set the dimensions and margins of the graph
-    var margin = {top: 30, right: 30, bottom: 100, left: 60},
+    var margin = {top: 30, right: 30, bottom: 150, left: 60},
         width = 460 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
+        height = 500 - margin.top - margin.bottom;
     
-    // append the svg object to the body of the page
-    var svg = d3.select("#my_dataviz")
+
+
+
+function update(link){
+  d3.select("#my_dataviz").selectAll("*").remove();
+      // append the svg object to the body of the page
+      var svg = d3.select("#my_dataviz")
       .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -30,29 +47,39 @@
         .attr("transform",
               "translate(" + margin.left + "," + margin.top + ")");
     
-    // Parse the Data
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/1st_Anaheim_top5.csv", function(data) {
-        
     // X axis
     var x = d3.scaleBand()
       .range([ 0, width ])
-      .domain(data.map(function(d) { return d.Scientific_name; }))
       .padding(0.2);
-    svg.append("g")
+      var xAxis = svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+
+    
+    // Add Y axis
+    var y = d3.scaleLinear()
+      .range([ height, 0]);
+      var yAxis = svg.append("g")
+  .attr("class", "myYaxis")
+  
+
+    // Parse the Data
+    d3.csv(link, function(data) {
+      
+x.domain(data.map(function(d) { return d.Scientific_name; }))
+//xAxis.transition().duration(1000).call(d3.axisBottom(x))
+var max = d3.max(data, d => +d.Count);
+y.domain([0, 1.1*max]);
+//yAxis.transition().duration(1000).call(d3.axisLeft(y));
+
+svg.append("g")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x))
       .selectAll("text")
         .attr("transform", "translate(-10,0)rotate(-45)")
         .style("text-anchor", "end");
-    
-    // Add Y axis
-    var y = d3.scaleLinear()
-      .domain([0, 5500])
-      .range([ height, 0]);
-    svg.append("g")
+
+svg.append("g")
       .call(d3.axisLeft(y));
-
-
       // ----------------
   // Create a tooltip
   // ----------------
@@ -65,23 +92,23 @@
     .style("border-width", "1px")
     .style("border-radius", "5px")
     .style("padding", "10px")
-    .style("margin-top" , "50px")
-
 
   // Three function that change the tooltip when user hover / move / leave a cell
   var mouseover = function(d) {
     //var tree_name = d3.select(this.parentNode).datum().key;
     //var tree_name = d.Scientific_name;
     var tree_value = d.Count;
+    var tree_height = d.Avg_heigth;
+    console.log("height", tree_height)
     tooltip
-        .html("Number of trees: " + tree_value)
-        .style("opacity", 1)
-        .style(fontFamily= "roboto");
+        .html("Number of trees: " + tree_value + "<br>"+ "Average height: " + tree_height)
+        .style("opacity", 1);
   }
   var mousemove = function(d) {
     tooltip
-      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-      .style("top", (d3.mouse(this)[1]) + "px")
+      .style("left", (d3.mouse(this)[0]+300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]-10) + "px")
+      .style("position", "absolute")
   }
   var mouseleave = function(d) {
     tooltip
@@ -98,11 +125,13 @@
         .attr("y", function(d) { return y(d.Count); })
         .attr("width", x.bandwidth())
         .attr("height", function(d) { return height - y(d.Count); })
-        .attr("fill", "#69b3a2")
+        .attr("fill", "#166138")
         .on("mouseover", mouseover)
         .on("mousemove", mousemove)
         .on("mouseleave", mouseleave)
     
     })
+  }
 
+  update(link_A)
  </script>

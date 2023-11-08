@@ -3,9 +3,9 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
-
+<link rel="stylesheet" href="custom.css">
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
+<div id="my_dataviz" class="centered"></div>
 
 
 
@@ -13,8 +13,8 @@
 <script>
 
     // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 40, bottom: 50, left: 80},
-        width = 460 - margin.left - margin.right,
+    var margin = {top: 10, right: 30, bottom: 50, left: 100},
+        width = 600 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
     
     // append the svg object to the body of the page
@@ -32,20 +32,19 @@
         
 
     // List of subgroups = header of the csv files = soil condition here
-
-      const subgroups = data.columns.slice(1)
-      console.log("subgroups", subgroups)   
+        const temp_subgroups = data.columns.slice(1)
+        //delete the column with the names of the trees
+        const subgroups = temp_subgroups.filter(function(value, index, arr){
+            return index % 2 == 0;
+        });
+       
       
-    
       // List of groups = species here = value of the first column called group -> I show them on the X axis
-      //var groups = d3.map(data, function(d){return(d.group)}).keys()
-//aaaaaaaaaaaaaa      
       const groups = data.map(d => d.City);
       var filteredGroups = groups.slice(0);
       var filteredData = data.slice(0);
       
       var max = d3.max(filteredData, d => d3.sum(subgroups.map(key => +d[key]))); 
-//aaaaaaaaaaaaaa
       // Add y axis
       var y = d3.scaleBand()
           .domain(filteredGroups)
@@ -67,10 +66,9 @@
          .style("text-anchor", "end");
     
       // color palette = one color per subgroup
-      var color = d3.scaleOrdinal()
-        .domain(subgroups)
-        .range(['#e41a1c','#377eb8','#4daf4a', '#f48d0a', '#800aee', '#a65628']);
-        //CHANGE THIS TO THE COLORS YOU WANT
+      const color = d3.scaleOrdinal()
+                        .range(['#EF3340','#00A7B5','#F1C400', '#0061A0', '#007C58', '#A4BCC2'])
+                        .domain(subgroups);
     
       //stack the data? --> stack per subgroup
       console.log("fil_data", filteredData)
@@ -94,7 +92,7 @@
     .style("border", "solid")
     .style("border-width", "1px")
     .style("border-radius", "5px")
-    .style("padding", "10px")
+    .style("padding", "2px")
 
   // Three function that change the tooltip when user hover / move / leave a cell
   var mouseover = function(event, d) {
@@ -104,13 +102,14 @@
     var subgroupValue= Object.values(data[d])[subgroupNumber]; 
 
     tooltip
-        .html("subgroup: " + tree_name+ "<br>" + "number: " + subgroupValue)
+        .html(tree_name+ ",  number: " + subgroupValue)
         .style("opacity", 1)
   }
   var mousemove = function(d) {
     tooltip
-      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-      .style("top", (d3.mouse(this)[1]) + "px")
+    .style("left", (d3.mouse(this)[0]+300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]-10) + "px")
+      .style("position", "absolute")
   }
   var mouseleave = function(d) {
     tooltip

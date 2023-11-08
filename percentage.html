@@ -3,9 +3,9 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
-
+<link rel="stylesheet" href="custom.css">
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
+<div id="my_dataviz" class="centered"></div>
 
 
 
@@ -15,13 +15,12 @@
 
 
     // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 40, bottom: 50, left: 80},
+    var margin = {top: 10, right: 100, bottom: 50, left: 100},
         width = 460 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
     
     // append the svg object to the body of the page
-
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_WITHOUT_NAMES_chart.csv", function(data) {
+    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_chart.csv", function(data) {
       
         // append the svg object to the body of the page
         const svg = d3.select("#my_dataviz")
@@ -34,7 +33,13 @@
       
        
         // List of subgroups = header of the csv files = scientific name of the trees (here)
-        const subgroups = data.columns.slice(1);
+        //select the odd numbered columns
+
+        const temp_subgroups = data.columns.slice(1)
+        //delete the column with the names of the trees
+        const subgroups = temp_subgroups.filter(function(value, index, arr){
+            return index % 2 == 0;
+        });
       
         // List of groups = value of the first column = cities (here) -> on Y axis
         const groups = data.map(d => d.City);
@@ -63,20 +68,24 @@
     .style("border", "solid")
     .style("border-width", "1px")
     .style("border-radius", "5px")
-    .style("padding", "10px")
+    .style("padding", "2px")
 
   // Three function that change the tooltip when user hover / move / leave a cell
-  var mouseover = function(d) {
+    var mouseover = function(event, d) {
     var subgroupName = d3.select(this.parentNode).datum().key;
-    var subgroupValue = d.data[subgroupName];
+    var subgroupNumber = Object.keys(data[0]).indexOf(subgroupName);
+    var tree_name= Object.values(data[d])[subgroupNumber+1]; 
+    var subgroupValue= Object.values(data[d])[subgroupNumber]; 
+
     tooltip
-        .html("Trees: " + subgroupName + "<br>" + "percentage: " + subgroupValue+"%")
+        .html(tree_name+ ",  percentage: " + subgroupValue + "%")
         .style("opacity", 1)
   }
   var mousemove = function(d) {
     tooltip
-      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-      .style("top", (d3.mouse(this)[1]) + "px")
+    .style("left", (d3.mouse(this)[0]+300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]-10) + "px")
+      .style("position", "absolute")
   }
   var mouseleave = function(d) {
     tooltip
@@ -100,7 +109,7 @@
       
         // Color palette = one color per subgroup
         const color = d3.scaleOrdinal()
-                        .range(['#b51d14', '#ddb310', '#4053d3', '#fb49b0', '#00b25d','#cacaca'])
+                        .range(['#EF3340','#00A7B5','#F1C400', '#0061A0', '#007C58', '#A4BCC2'])
                         .domain(subgroups);
     
         // Normalize the data -> sum of each group must be 100!

@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 
+<head>   
+<link rel="stylesheet" href="custom.css">
+</head>
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
+<div id="my_dataviz" class="centered"></div>
 
     <script>
 
         // set the dimensions and margins of the graph
-        var margin = {top: 30, right: 100, bottom: 30, left: 150},
+        var margin = {top: 30, right: 20, bottom: 30, left: 120},
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom;
         
@@ -79,9 +82,10 @@
   }
   var mousemove = function(d) {
     tooltip
-      .html("The exact value of<br>this cell is: " + d.Count)
-      .style("left", (d3.mouse(this)[0]+70) + "px")
-      .style("top", (d3.mouse(this)[1]) + "px")
+      .html(d.Count + " trees")
+      .style("left", (d3.mouse(this)[0]+300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]-10) + "px")
+      .style("position", "absolute")
   }
   var mouseleave = function(d) {
     tooltip
@@ -101,8 +105,8 @@
               .attr("height", y.bandwidth() )
               .style("fill", function(d) { return myColor(d.Count)} )
               .on("mouseover", mouseover)
-    .on("mousemove", mousemove)
-    .on("mouseleave", mouseleave)
+              .on("mousemove", mousemove)
+              .on("mouseleave", mouseleave)
         })
         
         </script>
