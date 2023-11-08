@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>   
+<link rel="stylesheet" href="custom.css">
+</head>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz" class="centered"></div>
+
+    <script>
+
+        // set the dimensions and margins of the graph
+        var margin = {top: 30, right: 20, bottom: 30, left: 120},
+          width = 600 - margin.left - margin.right,
+          height = 450 - margin.top - margin.bottom;
+        
+        // append the svg object to the body of the page
+        var svg = d3.select("#my_dataviz")
+        .append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+          .attr("transform",
+                "translate(" + margin.left + "," + margin.top + ")");
+        
+        // Labels of row and columns
+        d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/3rd_hue_heatmap.csv", function(data) {
+
+// Labels of row and columns -> unique identifier of the column called 'city' and 'Scientific_name'
+        const myGroups = Array.from(new Set(data.map(d => d.City)))
+        console.log(myGroups)
+        const myVars = Array.from(new Set(data.map(d => d.Scientific_name)))
+        console.log(myVars)
+        
+        // Build X scales and axis:
+        var x = d3.scaleBand()
+          .range([ 0, width ])
+          .domain(myGroups)
+          .padding(0.01);
+        svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x))
+        
+        // Build X scales and axis:
+        var y = d3.scaleBand()
+          .range([ height, 0 ])
+          .domain(myVars)
+          .padding(0.01);
+        svg.append("g")
+          .call(d3.axisLeft(y));
+        
+        // Build color scale
+        // var myColor = d3.scaleLinear()
+        //   .range(["white", "#69b3a2"])
+        //   .domain([500,1000])
+    // Build color scale
+    var myColor = d3.scaleSequential()
+    .interpolator(d3.interpolateHcl("#ddee9a", "#0e180e"))
+    .domain([1,27000])
+          
+  // create a tooltip
+  var tooltip = d3.select("#my_dataviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(d) {
+    tooltip
+      .style("opacity", 1)
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+  }
+  var mousemove = function(d) {
+    tooltip
+      .html(d.Count + " trees")
+      .style("left", (d3.mouse(this)[0]+300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]-10) + "px")
+      .style("position", "absolute")
+  }
+  var mouseleave = function(d) {
+    tooltip
+      .style("opacity", 0)
+    d3.select(this)
+      .style("stroke", "none")
+      .style("opacity", 0.8)
+  }
+          // add the squares
+          svg.selectAll()
+            .data(data, function(d) {return d.City+':'+d.Scientific_name;})
+            .enter()
+            .append("rect")
+              .attr("x", function(d) { return x(d.City) })
+              .attr("y", function(d) { return y(d.Scientific_name) })
+              .attr("width", x.bandwidth() )
+              .attr("height", y.bandwidth() )
+              .style("fill", function(d) { return myColor(d.Count)} )
+              .on("mouseover", mouseover)
+              .on("mousemove", mousemove)
+              .on("mouseleave", mouseleave)
+        })
+        
+        </script>
