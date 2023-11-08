@@ -13,11 +13,11 @@
 <script>
 
 function makeSmallMultiple(colName, first) {
-    var margin = {top: 30, right: 10, bottom: 30, left: 30};
-    var width = 200 - margin.left - margin.right;
+    var margin = {top: 30, right: 5, bottom: 30, left: 5};
+    var width = 180 - margin.left - margin.right;
     var height = 300 - margin.top - margin.bottom;
     if (first) {
-      margin.left = 100;
+      margin.left = 80;
       margin.right = 0;
     }
     d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_bis_chart_data.csv", function(data) {
