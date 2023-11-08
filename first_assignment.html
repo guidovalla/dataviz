@@ -69,16 +69,23 @@
         <div id="data-visualization">
 
             <h1>Trees Dataset</h1>
-    <p>«Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna
-         aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea
-        commodi consequatur. Duis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-        pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id 
-        est laborum.»</p>
+    <p>We decided to analyze in our first few visualizations 5 large cities in California: Anaheim, Sacramento, San Francisco, San Jose and Stockton, to see how relatively close cities with a comparable amout of trees differ between each other. We did not select Los Angeles as it's green area is much larger than the others and hence belongs to a category of its own.</p>
 
+
+
+
+            <p>In the first vertical bar chart we decided to graph the 5 most abundant species of trees per city, sorting by scientific name. Each city has its own representation, selectable via 5 different buttons. By hovering the mouse on each bar chart a tooltip appears to show the exact number of the tree selected, its scientific name and the average height of that species. Sadly for the cities we considered the average tree height wasn't available, so we decided to fill in the missing information with an average heigth taken from Google.</p>
     <object data="vertical_chart.html"  class="box"></object>
+
+            <p>In the stacked bar chart we decided to chart the abundance of each of the top 5 tree of each city  and then aggregate the rest of the species under a different tag, "Other trees". By hovering the mouse over the bar chat, a simple tooltip appera, indicating the exact amount of trees of the species selected and the scientific name of the tree. It's possible to compare here the amount of trees in each city and their different variety and abundance among the 5 most common ones per city</p>
     <object data="d3js_stacked.html" class="box"></object>
+
+            <p>In the percentage bar chart we took the same trees as in the previous bar chart but on a percentage scale instead of an absolute one. By hovering the mouse over the bar chart a tooltip appears, indicating the exact percentage represented by a certain species among the trees of a city and its scientific name. Here it's possible to compare the different relative spread of the top 5 species inside each city, also compared to the percentage of less abundant trees still present.</p>
     <object data="percentage.html" class="box"></object>
+
+            <p>In the small multiples bar chart we decided to plot each single tree value among the top 5 trees in a different chart, to compare them in absolute value. The final chart also allows a direct comparison in the total number of trees in each city.</p>
     <object data="stack_mutiples.html" class="box"></object>
+            <p>In the heatmap we decided to plot all the trees that appear among the top 5 in any city in a single chart. A deeper green colour represents a larger abundance of a specific species in a certain city. A tooltip is available when hovering the chart with the mouse, indicating the exact abundance of the selected cell. Here we can see how certain trees appear multiple times in the top 5 of different cities and their relative abundance </p>
     <object data="d3js_heatmap.html" class="box"></object>
     <hr>
     <b>ZIG ZAG Group</b>
