@@ -20,7 +20,7 @@ function makeSmallMultiple(colName, first) {
       margin.left = 100;
       margin.right = 0;
     }
-    d3.csv("2nd_bis_chart_data.csv", function(data) {
+    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_bis_chart_data.csv", function(data) {
       var subgroups = data.columns.slice(1);
       var groups = data.map(d => d.City);
       
@@ -79,7 +79,7 @@ function makeSmallMultiple(colName, first) {
 }
 
 
-  d3.csv("2nd_bis_chart_data.csv", function(data) {
+  d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_bis_chart_data.csv", function(data) {
       var subgroups = data.columns.slice(1);
       subgroups.forEach((gr,id) => makeSmallMultiple(gr, id == 0));
   });
