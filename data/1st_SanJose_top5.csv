@@ -1,6 +1,6 @@
-Scientific_name,Count
-Platanus acerifolia,26291
-Pistacia chinensis,24316
-Lagerstroemia indica,21636
-Liquidambar styraciflua,14644
-Pyrus calleryana,9631
+Scientific_name,Count,Avg_heigth
+Platanus acerifolia,26291,40.0
+Pistacia chinensis,24316,9.0
+Lagerstroemia indica,21636,6.0
+Liquidambar styraciflua,14644,12.0
+Pyrus calleryana,9631,10.0

@@ -1,6 +1,6 @@
-Scientific_name,Count
-Pistacia chinensis,11392
-Platanus acerifolia,7552
-Lagerstroemia indica,7354
-Celtis sinensis,7179
-Pyrus calleryana,5296
+Scientific_name,Count,Avg_heigth
+Pistacia chinensis,11392,9.0
+Platanus acerifolia,7552,40.0
+Lagerstroemia indica,7354,6.0
+Celtis sinensis,7179,17.0
+Pyrus calleryana,5296,10.0

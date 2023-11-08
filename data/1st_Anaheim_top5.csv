@@ -1,6 +1,6 @@
-Scientific_name,Count
-Magnolia grandiflora,5266
-Washingtonia robusta,4379
-Lagerstroemia indica,3771
-Cinnamomum camphora,2567
-Pinus canariensis,2317
+Scientific_name,Count,Avg_heigth
+Magnolia grandiflora,5266,33.0
+Washingtonia robusta,4379,18.0
+Lagerstroemia indica,3771,6.0
+Cinnamomum camphora,2567,25.0
+Pinus canariensis,2317,20.0

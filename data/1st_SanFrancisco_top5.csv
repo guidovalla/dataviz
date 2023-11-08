@@ -1,6 +1,6 @@
-Scientific_name,Count
-Platanus acerifolia,11925
-Metrosideros excelsa,8681
-Tristaniopsis laurina,8509
-Lophostemon confertus,8236
-Magnolia grandiflora,7793
+Scientific_name,Count,Avg_heigth
+Platanus acerifolia,11925,40.0
+Metrosideros excelsa,8681,18.0
+Tristaniopsis laurina,8509,12.0
+Lophostemon confertus,8236,13.0
+Magnolia grandiflora,7793,33.0
