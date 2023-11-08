@@ -20,8 +20,9 @@
     // append the svg object to the body of the page
 
     
-    //Parse the Data
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_WITHOUT_NAMES_chart.csv", function(data) {
+    //Parse the Data /Users/guido/Documents/Computer_Science/DV/dataviz/data/2nd_chart_data.ipynb
+    //d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/2nd_chart.csv", function(data) {
+      d3.csv("data/data_charts/2nd_chart.csv", function(data) {
     console.log(data)
     const svg = d3.select("#my_dataviz")
                   .append("svg")
@@ -98,11 +99,14 @@
     .style("padding", "10px")
 
   // Three function that change the tooltip when user hover / move / leave a cell
-  var mouseover = function(d) {
+  var mouseover = function(event, d) {
     var subgroupName = d3.select(this.parentNode).datum().key;
-    var subgroupValue = d.data[subgroupName];
+    var subgroupNumber = Object.keys(data[0]).indexOf(subgroupName);
+    var tree_name= Object.values(data[d])[subgroupNumber+1]; 
+    var subgroupValue= Object.values(data[d])[subgroupNumber]; 
+
     tooltip
-        .html("subgroup: " + subgroupName + "<br>" + "Value: " + subgroupValue)
+        .html("subgroup: " + tree_name+ "<br>" + "number: " + subgroupValue)
         .style("opacity", 1)
   }
   var mousemove = function(d) {
