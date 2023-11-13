@@ -1,126 +1,126 @@
 source,target,value
-Anaheim,Magnolia grandiflora,5266
-Anaheim,Washingtonia robusta,4379
-Anaheim,Lagerstroemia indica,3771
-Anaheim,Cinnamomum camphora,2567
-Anaheim,Pinus canariensis,2317
-Anaheim,Lophostemon confertus,1609
-Anaheim,Liquidambar styraciflua,1491
-Anaheim,Platanus acerifolia,1264
-Anaheim,Pistacia chinensis,1123
-Anaheim,Ulmus parvifolia,852
-Anaheim,Celtis sinensis,335
-Anaheim,Tristaniopsis laurina,322
-Anaheim,Pyrus calleryana,320
-Anaheim,Metrosideros excelsa,179
-Anaheim,Prunus cerasifera,110
-Anaheim,Acer rubrum,15
+Anaheim,Magnolia,5266
+Anaheim,Washingtonia,4379
+Anaheim,Lagerstroemia,3771
+Anaheim,Cinnamomum,2567
+Anaheim,Pinus,2317
+Anaheim,Lophostemon,1609
+Anaheim,Liquidambar,1491
+Anaheim,Platanus,1264
+Anaheim,Pistacia,1123
+Anaheim,Ulmus,852
+Anaheim,Celtis,335
+Anaheim,Tristaniopsis,322
+Anaheim,Pyrus,320
+Anaheim,Metrosideros,179
+Anaheim,Prunus,110
+Anaheim,Acer,15
 Anaheim,Acer,3
 Anaheim,Pyrus,1
 California,Anaheim,25924
-SanJose,Platanus acerifolia,26291
-SanJose,Pistacia chinensis,24316
-SanJose,Lagerstroemia indica,21636
-SanJose,Liquidambar styraciflua,14644
-SanJose,Pyrus calleryana,9631
-SanJose,Magnolia grandiflora,7080
-SanJose,Prunus cerasifera,6999
-SanJose,Washingtonia robusta,5116
-SanJose,Cinnamomum camphora,4835
-SanJose,Acer platanoides,2868
-SanJose,Ulmus parvifolia,2607
-SanJose,Celtis sinensis,2356
-SanJose,Pinus canariensis,1582
-SanJose,Tristaniopsis laurina,1479
-SanJose,Acer rubrum,1282
+SanJose,Platanus,26291
+SanJose,Pistacia,24316
+SanJose,Lagerstroemia,21636
+SanJose,Liquidambar,14644
+SanJose,Pyrus,9631
+SanJose,Magnolia,7080
+SanJose,Prunus,6999
+SanJose,Washingtonia,5116
+SanJose,Cinnamomum,4835
+SanJose,Acer,2868
+SanJose,Ulmus,2607
+SanJose,Celtis,2356
+SanJose,Pinus,1582
+SanJose,Tristaniopsis,1479
+SanJose,Acer,1282
 SanJose,Prunus,775
 SanJose,Malus,542
 SanJose,Acer,388
 SanJose,Pyrus,363
-SanJose,Lophostemon confertus,289
-SanJose,Metrosideros excelsa,1
+SanJose,Lophostemon,289
+SanJose,Metrosideros,1
 California,SanJose,135080
-SanFrancisco,Platanus acerifolia,11925
-SanFrancisco,Metrosideros excelsa,8681
-SanFrancisco,Tristaniopsis laurina,8509
-SanFrancisco,Lophostemon confertus,8236
-SanFrancisco,Magnolia grandiflora,7793
-SanFrancisco,Prunus cerasifera,7113
-SanFrancisco,Pyrus calleryana,4036
-SanFrancisco,Ulmus parvifolia,2485
-SanFrancisco,Liquidambar styraciflua,1592
-SanFrancisco,Acer rubrum,987
-SanFrancisco,Washingtonia robusta,967
-SanFrancisco,Pistacia chinensis,412
-SanFrancisco,Pinus canariensis,350
-SanFrancisco,Celtis sinensis,222
+SanFrancisco,Platanus,11925
+SanFrancisco,Metrosideros,8681
+SanFrancisco,Tristaniopsis,8509
+SanFrancisco,Lophostemon,8236
+SanFrancisco,Magnolia,7793
+SanFrancisco,Prunus,7113
+SanFrancisco,Pyrus,4036
+SanFrancisco,Ulmus,2485
+SanFrancisco,Liquidambar,1592
+SanFrancisco,Acer,987
+SanFrancisco,Washingtonia,967
+SanFrancisco,Pistacia,412
+SanFrancisco,Pinus,350
+SanFrancisco,Celtis,222
 SanFrancisco,Prunus,207
-SanFrancisco,Cinnamomum camphora,141
+SanFrancisco,Cinnamomum,141
 SanFrancisco,Malus,133
-SanFrancisco,Lagerstroemia indica,102
+SanFrancisco,Lagerstroemia,102
 SanFrancisco,Pyrus,91
 SanFrancisco,Acer,26
-SanFrancisco,Acer platanoides,2
+SanFrancisco,Acer,2
 California,SanFrancisco,64010
-Sacramento,Platanus acerifolia,14111
-Sacramento,Pistacia chinensis,4580
-Sacramento,Pyrus calleryana,4285
-Sacramento,Lagerstroemia indica,4146
-Sacramento,Ulmus parvifolia,4047
-Sacramento,Liquidambar styraciflua,1933
-Sacramento,Acer rubrum,1924
-Sacramento,Washingtonia robusta,1535
-Sacramento,Prunus cerasifera,1354
-Sacramento,Magnolia grandiflora,1151
-Sacramento,Celtis sinensis,996
-Sacramento,Cinnamomum camphora,773
+Sacramento,Platanus,14111
+Sacramento,Pistacia,4580
+Sacramento,Pyrus,4285
+Sacramento,Lagerstroemia,4146
+Sacramento,Ulmus,4047
+Sacramento,Liquidambar,1933
+Sacramento,Acer,1924
+Sacramento,Washingtonia,1535
+Sacramento,Prunus,1354
+Sacramento,Magnolia,1151
+Sacramento,Celtis,996
+Sacramento,Cinnamomum,773
 Sacramento,Acer,667
 Sacramento,Prunus,530
 Sacramento,Malus,422
-Sacramento,Acer platanoides,79
+Sacramento,Acer,79
 California,Sacramento,42533
-Stockton,Pistacia chinensis,11392
-Stockton,Platanus acerifolia,7552
-Stockton,Lagerstroemia indica,7354
-Stockton,Celtis sinensis,7179
-Stockton,Pyrus calleryana,5296
-Stockton,Liquidambar styraciflua,4110
-Stockton,Magnolia grandiflora,3762
-Stockton,Acer rubrum,1812
-Stockton,Cinnamomum camphora,1670
-Stockton,Prunus cerasifera,1521
-Stockton,Washingtonia robusta,780
-Stockton,Pinus canariensis,779
-Stockton,Ulmus parvifolia,353
+Stockton,Pistacia,11392
+Stockton,Platanus,7552
+Stockton,Lagerstroemia,7354
+Stockton,Celtis,7179
+Stockton,Pyrus,5296
+Stockton,Liquidambar,4110
+Stockton,Magnolia,3762
+Stockton,Acer,1812
+Stockton,Cinnamomum,1670
+Stockton,Prunus,1521
+Stockton,Washingtonia,780
+Stockton,Pinus,779
+Stockton,Ulmus,353
 Stockton,Malus,173
-Stockton,Tristaniopsis laurina,164
-Stockton,Acer platanoides,123
+Stockton,Tristaniopsis,164
+Stockton,Acer,123
 Stockton,Prunus,117
 Stockton,Acer,113
-Stockton,Metrosideros excelsa,1
+Stockton,Metrosideros,1
 California,Stockton,54251
-Seattle,Prunus cerasifera,8244
-Seattle,Acer rubrum,7543
-Seattle,Acer platanoides,6304
+Seattle,Prunus,8244
+Seattle,Acer,7543
+Seattle,Acer,6304
 Seattle,Malus,5206
-Seattle,Prunus L.,4948
-Seattle,Pyrus calleryana,4467
+Seattle,Prunus,4948
+Seattle,Pyrus,4467
 Seattle,Prunus,3937
-Seattle,Liquidambar styraciflua,3377
-Seattle,Platanus acerifolia,1769
-Seattle,Magnolia grandiflora,1225
+Seattle,Liquidambar,3377
+Seattle,Platanus,1769
+Seattle,Magnolia,1225
 Seattle,Acer,605
 Seattle,Pyrus,428
-Seattle,Ulmus parvifolia,411
-Seattle,Lagerstroemia indica,406
-Seattle,Pistacia chinensis,78
+Seattle,Ulmus,411
+Seattle,Lagerstroemia,406
+Seattle,Pistacia,78
 Washington,Seattle,48948
 Portland,Prunus,25635
-Portland,Acer platanoides,19209
-Portland,Acer rubrum,15475
+Portland,Acer,19209
+Portland,Acer,15475
 Portland,Pyrus,11700
 Portland,Acer,10635
 Portland,Malus,6779
-Portland,Lagerstroemia indica,852
-Portland,Pistacia chinensis,258
+Portland,Lagerstroemia,852
+Portland,Pistacia,258
 Oregon,Portland,90543
