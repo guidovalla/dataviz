@@ -113,7 +113,9 @@ var margin = {top: 10, right: 10, bottom: 10, left: 10},
 // format variables
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
-    color = d3.scaleOrdinal(d3.schemeCategory10);
+
+
+    color2 = d3.scaleOrdinal(["#00FFFF", "#F0FFFF", "#89CFF0", "#097969", "#32de84","#4B5320","#4B5320","#4B5320"  ]);
 
 // append the svg object to the body of the page
 var svg = d3.select("body").append("svg")
@@ -203,7 +205,7 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/alluvial_
       .attr("height", function(d) { return d.dy; })
       .attr("width", sankey.nodeWidth())
       .style("fill", function(d) { 
-		  return d.color = color(d.name.replace(/ .*/, "")); })
+		  return d.color = color2(d.name.replace(/ .*/, "")); })
       .style("stroke", function(d) { 
 		  return d3.rgb(d.color).darker(2); })
     .append("title")
