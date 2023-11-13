@@ -1,7 +1,77 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>SANKEY Experiment</title>
-<style>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>West Coast Trees</title>
+
+    <link rel="stylesheet" href="custom.css">
+    <link rel="icon" href="icon.png" type="image/x-icon"/>
+
+    <style>
+        body {
+            font-family: 'Fira Sans', sans-serif;
+            background-color: #D9D9D6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            font-family: 'Roboto Slab', serif;
+            background-color: #007C58;
+            color: #fff;
+            padding: 20px;
+            text-align: left; 
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        
+
+        .button {
+            display: inline-block;
+            font-family: 'Fira Sans', sans-serif;
+            background-color: #002677;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            position: absolute;
+            top: 30px;
+            right: 20px; /* Position button in the top-right corner */
+        }
+
+        .centered-text {
+            text-align: center;
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+        }
+
+        h1 {
+            font-family: 'Fira Sans', sans-serif;
+            font-size: 24px;
+        }
+        p{
+            text-align: left;
+            margin: 20px;
+        }
+
+	    <header>
+        <a href="index.html" class="button">Home</a>
+        <h1>Section 2: Distributions</h1>
+    </header>
+    <div class="container">
+        <div id="data-visualization">
 
 .node rect {
   cursor: move;
@@ -23,10 +93,11 @@
 .link:hover {
   stroke-opacity: .5;
 }
-
-</style>
+    </style>
+</head>
+	
 <body>
-
+    
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="sankey.js"></script>
 <script>
