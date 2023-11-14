@@ -121,7 +121,35 @@ var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
 
 
-    color2 = d3.scaleOrdinal(["#00FFFF", "#F0FFFF", "#89CFF0", "#097969", "#32de84","#4B5320","#4B5320","#4B5320"  ]);
+    color2 = d3.scaleOrdinal([
+"#228c68",
+"#235b54",
+"#29bdab",
+"#3998f5",
+"#52615d",
+"#7f8f81",
+"#bfc7af",
+"#00A7B5",
+"#2a3a42",
+"#4d6476",
+"#7895ab",
+"#a8cfda",
+"#1f1a24",
+
+"#fe9494",
+"#fb6c6c",
+"#c16d4a",
+"#ffd3ad",
+"#f5ad67",
+"#808000",
+"#90cc90",
+"#c3ffc3",
+"#66cdaa",
+"#4682b4",
+"#3d438b",
+"#bebeff",
+"#825acd",
+"#dda0dd"]);
 
 // append the svg object to the body of the page
 var svg = d3.select("body").append("svg")
