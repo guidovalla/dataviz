@@ -1,4 +1,13 @@
 source,target,value
+Portland,Prunus,25635
+Portland,Acer,19209
+Portland,Acer,15475
+Portland,Pyrus,11700
+Portland,Acer,10635
+Portland,Malus,6779
+Portland,Lagerstroemia,852
+Portland,Pistacia,258
+Oregon,Portland,90543
 Seattle,Prunus,8244
 Seattle,Acer,7543
 Seattle,Acer,6304
@@ -15,12 +24,3 @@ Seattle,Ulmus,411
 Seattle,Lagerstroemia,406
 Seattle,Pistacia,78
 Washington,Seattle,48948
-Portland,Prunus,25635
-Portland,Acer,19209
-Portland,Acer,15475
-Portland,Pyrus,11700
-Portland,Acer,10635
-Portland,Malus,6779
-Portland,Lagerstroemia,852
-Portland,Pistacia,258
-Oregon,Portland,90543
