@@ -50,11 +50,6 @@
           .attr("value", function (d) { return d; }) // corresponding value returned by the button
     
    
-        // A blu  color scale
-        // var myColor = d3.scaleOrdinal()
-        //   .domain(allGroup)
-        //   //blue color for the first line red for the second
-        //  .range(["#4895ef", "#ff0000"]);
     
         // Add X axis --> it is a date format
         var x = d3.scalePoint()
@@ -96,14 +91,9 @@
         svg.append("g")
           .call(d3.axisLeft(y));
 
-          svg.selectAll("circle")
-        .data(scatterData)
-        .enter()
-        .append("circle")
-        .attr("cx", function(d) { return x(d.month); }) // x-coordinate
-        .attr("cy", function(d) { return y(d.temperature); }) // y-coordinate
-        .attr("r", 4) // radius of the circle
-        .attr("fill", "green");
+
+
+          
     
         // Initialize line with first group of the list
         var line = svg
@@ -156,6 +146,16 @@
                 .x(function(d) { return x(d.month) })
                 .y(function(d) { return y(+d.temperature) })
               )
+
+
+              svg.selectAll("circle")
+        .data(scatterData)
+        .enter()
+        .append("circle")
+        .attr("cx", function(d) { return x(d.month); }) // x-coordinate
+        .attr("cy", function(d) { return y(+d.temperature); }) // y-coordinate
+        .attr("r", 4) // radius of the circle
+        .attr("fill", "green");
         }
 
 
