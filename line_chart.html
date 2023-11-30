@@ -73,7 +73,7 @@
     
         // Add Y axis
         var y = d3.scaleLinear()
-          .domain([0, d3.max(data, function(d) { return +d.temperature; })])
+          .domain([d3.min(data, function(d) { return +d.temperature; }), d3.max(data, function(d) { return +d.temperature; })])
           .range([ height, 0 ]);
         svg.append("g")
           .call(d3.axisLeft(y));
@@ -82,10 +82,10 @@
         var line = svg
           .append('g')
           .append("path")
-            .datum(data.filter(function(d){return d.name==allGroup[0]}))
+            .datum(data.filter(function(d){return d.year==allGroup[0]}))
             .attr("d", d3.line()
-              .x(function(d) { return x(d.year) })
-              .y(function(d) { return y(+d.n) })
+              .x(function(d) { return x(d.month) })
+              .y(function(d) { return y(+d.temperature) })
             )
             .attr("stroke", function(d){ return myColor("valueA") })
             .style("stroke-width", 4)
@@ -95,7 +95,7 @@
         function update(selectedGroup) {
     
           // Create new data with the selection?
-          var dataFilter = data.filter(function(d){return d.name==selectedGroup})
+          var dataFilter = data.filter(function(d){return d.year==selectedGroup})
     
           // Give these new data to update line
           line
