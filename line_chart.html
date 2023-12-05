@@ -6,6 +6,8 @@
 
 <!-- Initialize a select button -->
 <select id="selectButton"></select>
+<!-- Initialize a states button -->
+<select id="statesButton"></select>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
@@ -39,6 +41,18 @@
     
         // List of groups (here I have one group per column)
         var allGroup = d3.map(data, function(d){return(d.year)}).keys()
+        // List of States
+        var allStates = d3.map(data, function(d){return(d.state_code)}).keys()
+
+        // add the options to the button
+        d3.select("#statesButton")
+          .selectAll('myOptions')
+             .data(allStates)
+          .enter()
+            .append('option')
+          .text(function (d) { return d; }) // text showed in the menu
+          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
     
         // add the options to the button
         d3.select("#selectButton")
@@ -99,7 +113,7 @@
         var line = svg
           .append('g')
           .append("path")
-            .datum(data.filter(function(d){return d.year==allGroup[0]}))
+            .datum(data.filter(function(d){return d.state_code==allStates[0]}).filter(function(d){return d.year==allGroup[0]}))
             .attr("d", d3.line()
               .x(function(d) { return x(d.month) })
               .y(function(d) { return y(+d.temperature) })
@@ -112,7 +126,7 @@
         var line2 = svg
         .append('g')
         .append("path")
-            .datum(secondData.filter(function(d){ return d.year == allGroup[0]; }))
+            .datum(secondData.filter(function(d){return d.state_code==allStates[0]}).filter(function(d){return d.year==allGroup[0]}))
             .attr("d", d3.line()
                 .x(function(d) { return x(d.month); })
                 .y(function(d) { return y(+d.temperature); })
@@ -122,7 +136,7 @@
             .style("fill", "none");
 
         var scatterPlot = svg.selectAll("circle")
-        .data(scatterData.filter(function(d) { return d.year === allGroup[0]; }))
+        .data(scatterData.filter(function(d){return d.state_code==allStates[0]}).filter(function(d){return d.year==allGroup[0]}))
         .enter()
         .append("circle")
         .attr("cx", function(d) { return x(d.month); }) // x-coordinate
@@ -131,12 +145,12 @@
         .attr("fill", "green");
     
         // A function that update the chart
-        function update(selectedGroup) {
+        function update(selectedGroup,selectedState) {
     
           // Create new data with the selection?
-          var dataFilter = data.filter(function(d){return d.year==selectedGroup})
-          var secondDataFilter=secondData.filter(function(d){ return d.year == selectedGroup})
-          var scatterFilter = scatterData.filter(function(d) { return d.year === selectedGroup; });
+          var dataFilter = data.filter(function(d){return d.state_code==selectedState}).filter(function(d){return d.year==selectedGroup})
+          var secondDataFilter=secondData.filter(function(d){return d.state_code==selectedState}).filter(function(d){return d.year==selectedGroup})
+          var scatterFilter = scatterData.filter(function(d){return d.state_code==selectedState}).filter(function(d){return d.year==selectedGroup});
           // Give these new data to update line
 
 
@@ -184,6 +198,8 @@ dots.enter()
 
              
         }
+        var Pippo = "Vermont"
+        var Pluto = "1978"
 
 
 
@@ -191,9 +207,15 @@ dots.enter()
         // When the button is changed, run the updateChart function
         d3.select("#selectButton").on("change", function(d) {
             // recover the option that has been chosen
-            var selectedOption = d3.select(this).property("value")
+            Pluto = d3.select(this).property("value")
             // run the updateChart function with this selected option
-            update(selectedOption)
+            update(Pluto,Pippo)
+        })
+        d3.select("#statesButton").on("change", function(d) {
+            // recover the option that has been chosen
+            Pippo = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update(Pluto,Pippo)
         })
     
     })
