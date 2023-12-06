@@ -9,6 +9,416 @@ Alabama,2008,Jan,6.11
 Alabama,2013,Jan,10.0
 Alabama,2018,Jan,4.67
 Alabama,2023,Jan,10.83
+Arizona,1978,Jan,6.17
+Arizona,1983,Jan,5.89
+Arizona,1988,Jan,4.61
+Arizona,1993,Jan,6.39
+Arizona,1998,Jan,6.56
+Arizona,2003,Jan,9.33
+Arizona,2008,Jan,4.33
+Arizona,2013,Jan,3.67
+Arizona,2018,Jan,8.67
+Arizona,2023,Jan,4.61
+Arkansas,1978,Jan,-1.44
+Arkansas,1983,Jan,3.44
+Arkansas,1988,Jan,1.56
+Arkansas,1993,Jan,4.11
+Arkansas,1998,Jan,6.83
+Arkansas,2003,Jan,2.67
+Arkansas,2008,Jan,3.89
+Arkansas,2013,Jan,5.61
+Arkansas,2018,Jan,2.06
+Arkansas,2023,Jan,8.0
+California,1978,Jan,7.44
+California,1983,Jan,6.78
+California,1988,Jan,5.94
+California,1993,Jan,5.17
+California,1998,Jan,7.28
+California,2003,Jan,10.0
+California,2008,Jan,5.06
+California,2013,Jan,5.61
+California,2018,Jan,9.39
+California,2023,Jan,5.94
+Colorado,1978,Jan,-4.78
+Colorado,1983,Jan,-2.33
+Colorado,1988,Jan,-7.22
+Colorado,1993,Jan,-4.61
+Colorado,1998,Jan,-2.11
+Colorado,2003,Jan,-0.22
+Colorado,2008,Jan,-6.17
+Colorado,2013,Jan,-5.06
+Colorado,2018,Jan,-1.28
+Colorado,2023,Jan,-4.44
+Connecticut,1978,Jan,-4.83
+Connecticut,1983,Jan,-2.78
+Connecticut,1988,Jan,-5.33
+Connecticut,1993,Jan,-1.5
+Connecticut,1998,Jan,0.61
+Connecticut,2003,Jan,-5.89
+Connecticut,2008,Jan,-1.28
+Connecticut,2013,Jan,-1.78
+Connecticut,2018,Jan,-3.67
+Connecticut,2023,Jan,2.89
+Delaware,1978,Jan,-1.33
+Delaware,1983,Jan,1.44
+Delaware,1988,Jan,-1.83
+Delaware,1993,Jan,3.39
+Delaware,1998,Jan,5.33
+Delaware,2003,Jan,-1.33
+Delaware,2008,Jan,2.61
+Delaware,2013,Jan,3.0
+Delaware,2018,Jan,0.44
+Delaware,2023,Jan,6.28
+Florida,1978,Jan,11.11
+Florida,1983,Jan,12.78
+Florida,1988,Jan,12.67
+Florida,1993,Jan,17.5
+Florida,1998,Jan,15.83
+Florida,2003,Jan,11.22
+Florida,2008,Jan,14.61
+Florida,2013,Jan,17.78
+Florida,2018,Jan,12.78
+Florida,2023,Jan,16.56
+Georgia,1978,Jan,3.44
+Georgia,1983,Jan,5.72
+Georgia,1988,Jan,5.11
+Georgia,1993,Jan,10.17
+Georgia,1998,Jan,9.72
+Georgia,2003,Jan,5.72
+Georgia,2008,Jan,7.22
+Georgia,2013,Jan,11.39
+Georgia,2018,Jan,5.83
+Georgia,2023,Jan,10.83
+Idaho,1978,Jan,-2.44
+Idaho,1983,Jan,-2.0
+Idaho,1988,Jan,-6.06
+Idaho,1993,Jan,-7.17
+Idaho,1998,Jan,-2.28
+Idaho,2003,Jan,-0.33
+Idaho,2008,Jan,-6.72
+Idaho,2013,Jan,-6.56
+Idaho,2018,Jan,-0.89
+Idaho,2023,Jan,-4.67
+Illinois,1978,Jan,-9.0
+Illinois,1983,Jan,-1.78
+Illinois,1988,Jan,-4.89
+Illinois,1993,Jan,-2.33
+Illinois,1998,Jan,-0.11
+Illinois,2003,Jan,-5.11
+Illinois,2008,Jan,-2.83
+Illinois,2013,Jan,-1.56
+Illinois,2018,Jan,-4.39
+Illinois,2023,Jan,1.33
+Indiana,1978,Jan,-8.39
+Indiana,1983,Jan,-1.39
+Indiana,1988,Jan,-4.44
+Indiana,1993,Jan,-0.94
+Indiana,1998,Jan,1.56
+Indiana,2003,Jan,-5.78
+Indiana,2008,Jan,-2.39
+Indiana,2013,Jan,-1.17
+Indiana,2018,Jan,-4.17
+Indiana,2023,Jan,2.44
+Iowa,1978,Jan,-13.33
+Iowa,1983,Jan,-4.83
+Iowa,1988,Jan,-9.11
+Iowa,1993,Jan,-8.0
+Iowa,1998,Jan,-4.72
+Iowa,2003,Jan,-7.17
+Iowa,2008,Jan,-8.56
+Iowa,2013,Jan,-5.56
+Iowa,2018,Jan,-7.89
+Iowa,2023,Jan,-4.33
+Kansas,1978,Jan,-7.17
+Kansas,1983,Jan,-0.56
+Kansas,1988,Jan,-3.67
+Kansas,1993,Jan,-4.0
+Kansas,1998,Jan,0.33
+Kansas,2003,Jan,-0.11
+Kansas,2008,Jan,-1.11
+Kansas,2013,Jan,0.17
+Kansas,2018,Jan,-1.17
+Kansas,2023,Jan,0.56
+Kentucky,1978,Jan,-5.28
+Kentucky,1983,Jan,0.94
+Kentucky,1988,Jan,-1.0
+Kentucky,1993,Jan,3.17
+Kentucky,1998,Jan,4.89
+Kentucky,2003,Jan,-2.0
+Kentucky,2008,Jan,0.72
+Kentucky,2013,Jan,2.61
+Kentucky,2018,Jan,-1.11
+Kentucky,2023,Jan,5.78
+Louisiana,1978,Jan,4.33
+Louisiana,1983,Jan,8.17
+Louisiana,1988,Jan,6.94
+Louisiana,1993,Jan,10.44
+Louisiana,1998,Jan,11.83
+Louisiana,2003,Jan,7.56
+Louisiana,2008,Jan,9.11
+Louisiana,2013,Jan,11.39
+Louisiana,2018,Jan,6.78
+Louisiana,2023,Jan,13.28
+Maine,1978,Jan,-10.61
+Maine,1983,Jan,-8.0
+Maine,1988,Jan,-10.0
+Maine,1993,Jan,-9.39
+Maine,1998,Jan,-7.89
+Maine,2003,Jan,-12.67
+Maine,2008,Jan,-7.44
+Maine,2013,Jan,-9.0
+Maine,2018,Jan,-9.44
+Maine,2023,Jan,-4.33
+Maryland,1978,Jan,-2.56
+Maryland,1983,Jan,0.83
+Maryland,1988,Jan,-2.33
+Maryland,1993,Jan,2.72
+Maryland,1998,Jan,4.61
+Maryland,2003,Jan,-1.89
+Maryland,2008,Jan,2.06
+Maryland,2013,Jan,2.39
+Maryland,2018,Jan,-0.56
+Maryland,2023,Jan,5.56
+Massachusetts,1978,Jan,-5.11
+Massachusetts,1983,Jan,-3.28
+Massachusetts,1988,Jan,-5.72
+Massachusetts,1993,Jan,-2.39
+Massachusetts,1998,Jan,-0.5
+Massachusetts,2003,Jan,-7.22
+Massachusetts,2008,Jan,-2.11
+Massachusetts,2013,Jan,-2.5
+Massachusetts,2018,Jan,-4.17
+Massachusetts,2023,Jan,1.83
+Michigan,1978,Jan,-9.39
+Michigan,1983,Jan,-5.28
+Michigan,1988,Jan,-8.0
+Michigan,1993,Jan,-5.89
+Michigan,1998,Jan,-4.0
+Michigan,2003,Jan,-8.5
+Michigan,2008,Jan,-5.11
+Michigan,2013,Jan,-5.0
+Michigan,2018,Jan,-6.67
+Michigan,2023,Jan,-2.11
+Minnesota,1978,Jan,-17.44
+Minnesota,1983,Jan,-9.78
+Minnesota,1988,Jan,-15.28
+Minnesota,1993,Jan,-13.33
+Minnesota,1998,Jan,-10.0
+Minnesota,2003,Jan,-12.17
+Minnesota,2008,Jan,-13.06
+Minnesota,2013,Jan,-11.44
+Minnesota,2018,Jan,-12.0
+Minnesota,2023,Jan,-9.33
+Mississippi,1978,Jan,1.89
+Mississippi,1983,Jan,5.94
+Mississippi,1988,Jan,4.5
+Mississippi,1993,Jan,8.72
+Mississippi,1998,Jan,9.28
+Mississippi,2003,Jan,4.72
+Mississippi,2008,Jan,6.39
+Mississippi,2013,Jan,9.5
+Mississippi,2018,Jan,4.5
+Mississippi,2023,Jan,11.44
+Missouri,1978,Jan,-7.0
+Missouri,1983,Jan,-0.17
+Missouri,1988,Jan,-2.39
+Missouri,1993,Jan,-1.33
+Missouri,1998,Jan,1.83
+Missouri,2003,Jan,-2.56
+Missouri,2008,Jan,-0.67
+Missouri,2013,Jan,1.0
+Missouri,2018,Jan,-2.22
+Missouri,2023,Jan,2.89
+Montana,1978,Jan,-12.22
+Montana,1983,Jan,-3.0
+Montana,1988,Jan,-8.11
+Montana,1993,Jan,-11.0
+Montana,1998,Jan,-7.22
+Montana,2003,Jan,-4.06
+Montana,2008,Jan,-7.72
+Montana,2013,Jan,-5.72
+Montana,2018,Jan,-5.72
+Montana,2023,Jan,-5.06
+Nebraska,1978,Jan,-11.17
+Nebraska,1983,Jan,-2.5
+Nebraska,1988,Jan,-8.11
+Nebraska,1993,Jan,-7.67
+Nebraska,1998,Jan,-3.0
+Nebraska,2003,Jan,-2.83
+Nebraska,2008,Jan,-5.94
+Nebraska,2013,Jan,-3.61
+Nebraska,2018,Jan,-5.0
+Nebraska,2023,Jan,-4.0
+Nevada,1978,Jan,1.17
+Nevada,1983,Jan,1.06
+Nevada,1988,Jan,-2.33
+Nevada,1993,Jan,-3.11
+Nevada,1998,Jan,1.78
+Nevada,2003,Jan,4.83
+Nevada,2008,Jan,-2.44
+Nevada,2013,Jan,-3.33
+Nevada,2018,Jan,3.61
+Nevada,2023,Jan,-1.5
+New Hampshire,1978,Jan,-8.78
+New Hampshire,1983,Jan,-6.72
+New Hampshire,1988,Jan,-8.78
+New Hampshire,1993,Jan,-6.11
+New Hampshire,1998,Jan,-4.89
+New Hampshire,2003,Jan,-11.39
+New Hampshire,2008,Jan,-5.56
+New Hampshire,2013,Jan,-6.56
+New Hampshire,2018,Jan,-7.61
+New Hampshire,2023,Jan,-1.56
+New Jersey,1978,Jan,-3.06
+New Jersey,1983,Jan,-0.28
+New Jersey,1988,Jan,-3.89
+New Jersey,1993,Jan,1.72
+New Jersey,1998,Jan,3.78
+New Jersey,2003,Jan,-3.11
+New Jersey,2008,Jan,1.28
+New Jersey,2013,Jan,1.06
+New Jersey,2018,Jan,-1.56
+New Jersey,2023,Jan,5.06
+New Mexico,1978,Jan,1.17
+New Mexico,1983,Jan,1.22
+New Mexico,1988,Jan,-0.56
+New Mexico,1993,Jan,2.67
+New Mexico,1998,Jan,2.83
+New Mexico,2003,Jan,4.56
+New Mexico,2008,Jan,0.28
+New Mexico,2013,Jan,0.0
+New Mexico,2018,Jan,2.78
+New Mexico,2023,Jan,2.06
+New York,1978,Jan,-8.39
+New York,1983,Jan,-5.44
+New York,1988,Jan,-7.11
+New York,1993,Jan,-4.28
+New York,1998,Jan,-2.5
+New York,2003,Jan,-9.67
+New York,2008,Jan,-3.39
+New York,2013,Jan,-4.28
+New York,2018,Jan,-7.17
+New York,2023,Jan,-0.83
+North Carolina,1978,Jan,0.83
+North Carolina,1983,Jan,3.39
+North Carolina,1988,Jan,1.33
+North Carolina,1993,Jan,6.44
+North Carolina,1998,Jan,6.83
+North Carolina,2003,Jan,2.44
+North Carolina,2008,Jan,4.5
+North Carolina,2013,Jan,6.72
+North Carolina,2018,Jan,2.17
+North Carolina,2023,Jan,8.11
+North Dakota,1978,Jan,-19.78
+North Dakota,1983,Jan,-7.28
+North Dakota,1988,Jan,-13.72
+North Dakota,1993,Jan,-14.5
+North Dakota,1998,Jan,-12.0
+North Dakota,2003,Jan,-11.83
+North Dakota,2008,Jan,-12.44
+North Dakota,2013,Jan,-11.44
+North Dakota,2018,Jan,-11.22
+North Dakota,2023,Jan,-10.44
+Ohio,1978,Jan,-7.78
+Ohio,1983,Jan,-1.72
+Ohio,1988,Jan,-3.94
+Ohio,1993,Jan,0.11
+Ohio,1998,Jan,2.0
+Ohio,2003,Jan,-5.83
+Ohio,2008,Jan,-1.61
+Ohio,2013,Jan,-0.83
+Ohio,2018,Jan,-3.89
+Ohio,2023,Jan,2.61
+Oklahoma,1978,Jan,-3.17
+Oklahoma,1983,Jan,2.78
+Oklahoma,1988,Jan,0.33
+Oklahoma,1993,Jan,1.72
+Oklahoma,1998,Jan,4.67
+Oklahoma,2003,Jan,2.89
+Oklahoma,2008,Jan,3.5
+Oklahoma,2013,Jan,4.28
+Oklahoma,2018,Jan,2.56
+Oklahoma,2023,Jan,5.78
+Oregon,1978,Jan,1.72
+Oregon,1983,Jan,2.11
+Oregon,1988,Jan,-1.11
+Oregon,1993,Jan,-3.22
+Oregon,1998,Jan,1.89
+Oregon,2003,Jan,3.89
+Oregon,2008,Jan,-1.94
+Oregon,2013,Jan,-1.28
+Oregon,2018,Jan,3.06
+Oregon,2023,Jan,0.11
+Pennsylvania,1978,Jan,-6.56
+Pennsylvania,1983,Jan,-2.67
+Pennsylvania,1988,Jan,-5.72
+Pennsylvania,1993,Jan,-0.89
+Pennsylvania,1998,Jan,1.28
+Pennsylvania,2003,Jan,-6.33
+Pennsylvania,2008,Jan,-1.56
+Pennsylvania,2013,Jan,-1.67
+Pennsylvania,2018,Jan,-4.94
+Pennsylvania,2023,Jan,2.17
+Rhode Island,1978,Jan,-4.0
+Rhode Island,1983,Jan,-1.72
+Rhode Island,1988,Jan,-4.0
+Rhode Island,1993,Jan,-1.06
+Rhode Island,1998,Jan,1.28
+Rhode Island,2003,Jan,-4.72
+Rhode Island,2008,Jan,-0.17
+Rhode Island,2013,Jan,-0.89
+Rhode Island,2018,Jan,-2.44
+Rhode Island,2023,Jan,3.39
+South Carolina,1978,Jan,3.0
+South Carolina,1983,Jan,4.94
+South Carolina,1988,Jan,3.78
+South Carolina,1993,Jan,9.0
+South Carolina,1998,Jan,8.94
+South Carolina,2003,Jan,5.28
+South Carolina,2008,Jan,6.61
+South Carolina,2013,Jan,10.11
+South Carolina,2018,Jan,4.78
+South Carolina,2023,Jan,10.28
+South Dakota,1978,Jan,-16.28
+South Dakota,1983,Jan,-3.78
+South Dakota,1988,Jan,-10.39
+South Dakota,1993,Jan,-10.56
+South Dakota,1998,Jan,-7.06
+South Dakota,2003,Jan,-6.78
+South Dakota,2008,Jan,-8.78
+South Dakota,2013,Jan,-7.0
+South Dakota,2018,Jan,-7.72
+South Dakota,2023,Jan,-6.72
+Tennessee,1978,Jan,-2.89
+Tennessee,1983,Jan,2.33
+Tennessee,1988,Jan,0.44
+Tennessee,1993,Jan,4.94
+Tennessee,1998,Jan,5.89
+Tennessee,2003,Jan,0.11
+Tennessee,2008,Jan,2.44
+Tennessee,2013,Jan,5.0
+Tennessee,2018,Jan,0.5
+Tennessee,2023,Jan,7.22
+Texas,1978,Jan,3.5
+Texas,1983,Jan,6.67
+Texas,1988,Jan,5.56
+Texas,1993,Jan,7.5
+Texas,1998,Jan,10.33
+Texas,2003,Jan,7.89
+Texas,2008,Jan,7.83
+Texas,2013,Jan,8.83
+Texas,2018,Jan,6.56
+Texas,2023,Jan,10.89
+Utah,1978,Jan,-1.22
+Utah,1983,Jan,-1.22
+Utah,1988,Jan,-5.61
+Utah,1993,Jan,-3.56
+Utah,1998,Jan,-0.11
+Utah,2003,Jan,1.78
+Utah,2008,Jan,-5.11
+Utah,2013,Jan,-6.83
+Utah,2018,Jan,0.44
+Utah,2023,Jan,-3.28
 Vermont,1978,Jan,-10.0
 Vermont,1983,Jan,-7.56
 Vermont,1988,Jan,-9.22
@@ -19,6 +429,66 @@ Vermont,2008,Jan,-5.83
 Vermont,2013,Jan,-7.44
 Vermont,2018,Jan,-8.61
 Vermont,2023,Jan,-2.56
+Virginia,1978,Jan,-2.33
+Virginia,1983,Jan,1.11
+Virginia,1988,Jan,-1.39
+Virginia,1993,Jan,3.78
+Virginia,1998,Jan,4.83
+Virginia,2003,Jan,-0.5
+Virginia,2008,Jan,2.22
+Virginia,2013,Jan,3.61
+Virginia,2018,Jan,-0.11
+Virginia,2023,Jan,5.94
+Washington,1978,Jan,-0.28
+Washington,1983,Jan,2.0
+Washington,1988,Jan,-1.61
+Washington,1993,Jan,-4.22
+Washington,1998,Jan,0.0
+Washington,2003,Jan,2.28
+Washington,2008,Jan,-2.56
+Washington,2013,Jan,-1.61
+Washington,2018,Jan,1.89
+Washington,2023,Jan,0.72
+West Virginia,1978,Jan,-5.72
+West Virginia,1983,Jan,-0.89
+West Virginia,1988,Jan,-3.11
+West Virginia,1993,Jan,2.39
+West Virginia,1998,Jan,3.11
+West Virginia,2003,Jan,-3.61
+West Virginia,2008,Jan,-0.67
+West Virginia,2013,Jan,1.06
+West Virginia,2018,Jan,-2.78
+West Virginia,2023,Jan,3.83
+Wisconsin,1978,Jan,-13.5
+Wisconsin,1983,Jan,-7.39
+Wisconsin,1988,Jan,-12.33
+Wisconsin,1993,Jan,-9.39
+Wisconsin,1998,Jan,-6.5
+Wisconsin,2003,Jan,-10.17
+Wisconsin,2008,Jan,-9.61
+Wisconsin,2013,Jan,-8.44
+Wisconsin,2018,Jan,-9.33
+Wisconsin,2023,Jan,-5.0
+Wyoming,1978,Jan,-8.5
+Wyoming,1983,Jan,-3.22
+Wyoming,1988,Jan,-8.5
+Wyoming,1993,Jan,-8.72
+Wyoming,1998,Jan,-5.17
+Wyoming,2003,Jan,-2.22
+Wyoming,2008,Jan,-8.78
+Wyoming,2013,Jan,-6.72
+Wyoming,2018,Jan,-3.83
+Wyoming,2023,Jan,-6.78
+Alaska,1978,Jan,-10.67
+Alaska,1983,Jan,-18.33
+Alaska,1988,Jan,-13.56
+Alaska,1993,Jan,-16.0
+Alaska,1998,Jan,-17.44
+Alaska,2003,Jan,-12.11
+Alaska,2008,Jan,-17.56
+Alaska,2013,Jan,-12.33
+Alaska,2018,Jan,-14.06
+Alaska,2023,Jan,-11.67
 Alabama,1978,Feb,3.78
 Alabama,1983,Feb,8.11
 Alabama,1988,Feb,7.44
@@ -29,6 +499,416 @@ Alabama,2008,Feb,9.56
 Alabama,2013,Feb,8.89
 Alabama,2018,Feb,14.44
 Alabama,2023,Feb,13.56
+Arizona,1978,Feb,7.0
+Arizona,1983,Feb,7.33
+Arizona,1988,Feb,8.44
+Arizona,1993,Feb,6.94
+Arizona,1998,Feb,5.56
+Arizona,2003,Feb,7.5
+Arizona,2008,Feb,7.22
+Arizona,2013,Feb,5.67
+Arizona,2018,Feb,8.17
+Arizona,2023,Feb,5.5
+Arkansas,1978,Feb,-0.17
+Arkansas,1983,Feb,6.5
+Arkansas,1988,Feb,5.28
+Arkansas,1993,Feb,5.17
+Arkansas,1998,Feb,8.06
+Arkansas,2003,Feb,4.5
+Arkansas,2008,Feb,6.44
+Arkansas,2013,Feb,6.28
+Arkansas,2018,Feb,7.72
+Arkansas,2023,Feb,9.28
+California,1978,Feb,8.06
+California,1983,Feb,8.22
+California,1988,Feb,9.17
+California,1993,Feb,6.67
+California,1998,Feb,6.44
+California,2003,Feb,7.61
+California,2008,Feb,7.67
+California,2013,Feb,7.39
+California,2018,Feb,8.11
+California,2023,Feb,5.94
+Colorado,1978,Feb,-3.78
+Colorado,1983,Feb,-0.83
+Colorado,1988,Feb,-2.5
+Colorado,1993,Feb,-3.72
+Colorado,1998,Feb,-1.39
+Colorado,2003,Feb,-3.17
+Colorado,2008,Feb,-2.44
+Colorado,2013,Feb,-3.5
+Colorado,2018,Feb,-1.89
+Colorado,2023,Feb,-3.67
+Connecticut,1978,Feb,-6.67
+Connecticut,1983,Feb,-1.39
+Connecticut,1988,Feb,-2.11
+Connecticut,1993,Feb,-4.94
+Connecticut,1998,Feb,1.78
+Connecticut,2003,Feb,-4.56
+Connecticut,2008,Feb,-1.22
+Connecticut,2013,Feb,-1.56
+Connecticut,2018,Feb,2.06
+Connecticut,2023,Feb,0.94
+Delaware,1978,Feb,-4.39
+Delaware,1983,Feb,1.44
+Delaware,1988,Feb,2.28
+Delaware,1993,Feb,-0.06
+Delaware,1998,Feb,5.17
+Delaware,2003,Feb,0.06
+Delaware,2008,Feb,3.94
+Delaware,2013,Feb,2.17
+Delaware,2018,Feb,6.22
+Delaware,2023,Feb,6.0
+Florida,1978,Feb,10.94
+Florida,1983,Feb,14.33
+Florida,1988,Feb,13.89
+Florida,1993,Feb,14.5
+Florida,1998,Feb,15.56
+Florida,2003,Feb,16.22
+Florida,2008,Feb,17.22
+Florida,2013,Feb,16.56
+Florida,2018,Feb,20.67
+Florida,2023,Feb,19.72
+Georgia,1978,Feb,4.67
+Georgia,1983,Feb,8.5
+Georgia,1988,Feb,8.06
+Georgia,1993,Feb,8.11
+Georgia,1998,Feb,10.17
+Georgia,2003,Feb,9.39
+Georgia,2008,Feb,10.44
+Georgia,2013,Feb,9.33
+Georgia,2018,Feb,15.11
+Georgia,2023,Feb,14.56
+Idaho,1978,Feb,-1.33
+Idaho,1983,Feb,-0.83
+Idaho,1988,Feb,-1.44
+Idaho,1993,Feb,-5.28
+Idaho,1998,Feb,-1.44
+Idaho,2003,Feb,-2.72
+Idaho,2008,Feb,-2.44
+Idaho,2013,Feb,-2.5
+Idaho,2018,Feb,-3.22
+Idaho,2023,Feb,-4.39
+Illinois,1978,Feb,-8.39
+Illinois,1983,Feb,1.22
+Illinois,1988,Feb,-3.39
+Illinois,1993,Feb,-2.78
+Illinois,1998,Feb,4.44
+Illinois,2003,Feb,-3.11
+Illinois,2008,Feb,-3.33
+Illinois,2013,Feb,-1.17
+Illinois,2018,Feb,-0.11
+Illinois,2023,Feb,2.39
+Indiana,1978,Feb,-9.28
+Indiana,1983,Feb,1.0
+Indiana,1988,Feb,-2.89
+Indiana,1993,Feb,-3.11
+Indiana,1998,Feb,4.11
+Indiana,2003,Feb,-3.5
+Indiana,2008,Feb,-2.11
+Indiana,2013,Feb,-1.0
+Indiana,2018,Feb,1.72
+Indiana,2023,Feb,3.56
+Iowa,1978,Feb,-11.22
+Iowa,1983,Feb,-1.78
+Iowa,1988,Feb,-7.39
+Iowa,1993,Feb,-7.28
+Iowa,1998,Feb,1.56
+Iowa,2003,Feb,-6.44
+Iowa,2008,Feb,-8.33
+Iowa,2013,Feb,-4.33
+Iowa,2018,Feb,-6.39
+Iowa,2023,Feb,-3.22
+Kansas,1978,Feb,-6.0
+Kansas,1983,Feb,1.94
+Kansas,1988,Feb,0.11
+Kansas,1993,Feb,-2.17
+Kansas,1998,Feb,4.22
+Kansas,2003,Feb,-0.39
+Kansas,2008,Feb,0.17
+Kansas,2013,Feb,0.89
+Kansas,2018,Feb,-0.06
+Kansas,2023,Feb,1.78
+Kentucky,1978,Feb,-4.89
+Kentucky,1983,Feb,3.17
+Kentucky,1988,Feb,1.56
+Kentucky,1993,Feb,1.28
+Kentucky,1998,Feb,5.78
+Kentucky,2003,Feb,0.89
+Kentucky,2008,Feb,3.06
+Kentucky,2013,Feb,2.67
+Kentucky,2018,Feb,7.0
+Kentucky,2023,Feb,7.61
+Louisiana,1978,Feb,5.67
+Louisiana,1983,Feb,10.33
+Louisiana,1988,Feb,10.33
+Louisiana,1993,Feb,11.0
+Louisiana,1998,Feb,11.78
+Louisiana,2003,Feb,10.39
+Louisiana,2008,Feb,12.89
+Louisiana,2013,Feb,12.33
+Louisiana,2018,Feb,15.83
+Louisiana,2023,Feb,14.67
+Maine,1978,Feb,-10.72
+Maine,1983,Feb,-7.0
+Maine,1988,Feb,-8.28
+Maine,1993,Feb,-13.83
+Maine,1998,Feb,-4.33
+Maine,2003,Feb,-11.0
+Maine,2008,Feb,-7.5
+Maine,2013,Feb,-6.67
+Maine,2018,Feb,-5.17
+Maine,2023,Feb,-7.67
+Maryland,1978,Feb,-4.22
+Maryland,1983,Feb,1.33
+Maryland,1988,Feb,1.56
+Maryland,1993,Feb,-0.33
+Maryland,1998,Feb,4.72
+Maryland,2003,Feb,-0.56
+Maryland,2008,Feb,2.89
+Maryland,2013,Feb,1.39
+Maryland,2018,Feb,5.33
+Maryland,2023,Feb,6.06
+Massachusetts,1978,Feb,-7.11
+Massachusetts,1983,Feb,-2.06
+Massachusetts,1988,Feb,-2.89
+Massachusetts,1993,Feb,-6.22
+Massachusetts,1998,Feb,0.94
+Massachusetts,2003,Feb,-5.11
+Massachusetts,2008,Feb,-1.89
+Massachusetts,2013,Feb,-2.0
+Massachusetts,2018,Feb,1.28
+Massachusetts,2023,Feb,0.17
+Michigan,1978,Feb,-10.78
+Michigan,1983,Feb,-3.0
+Michigan,1988,Feb,-8.33
+Michigan,1993,Feb,-7.83
+Michigan,1998,Feb,0.0
+Michigan,2003,Feb,-8.72
+Michigan,2008,Feb,-7.67
+Michigan,2013,Feb,-6.17
+Michigan,2018,Feb,-5.0
+Michigan,2023,Feb,-3.06
+Minnesota,1978,Feb,-14.28
+Minnesota,1983,Feb,-6.0
+Minnesota,1988,Feb,-13.56
+Minnesota,1993,Feb,-11.33
+Minnesota,1998,Feb,-1.78
+Minnesota,2003,Feb,-12.28
+Minnesota,2008,Feb,-12.56
+Minnesota,2013,Feb,-10.56
+Minnesota,2018,Feb,-13.0
+Minnesota,2023,Feb,-9.89
+Mississippi,1978,Feb,3.33
+Mississippi,1983,Feb,8.39
+Mississippi,1988,Feb,7.72
+Mississippi,1993,Feb,8.33
+Mississippi,1998,Feb,9.94
+Mississippi,2003,Feb,8.17
+Mississippi,2008,Feb,10.06
+Mississippi,2013,Feb,9.44
+Mississippi,2018,Feb,13.83
+Mississippi,2023,Feb,13.17
+Missouri,1978,Feb,-5.83
+Missouri,1983,Feb,2.89
+Missouri,1988,Feb,-1.0
+Missouri,1993,Feb,-0.72
+Missouri,1998,Feb,5.11
+Missouri,2003,Feb,-0.44
+Missouri,2008,Feb,-0.56
+Missouri,2013,Feb,1.33
+Missouri,2018,Feb,2.0
+Missouri,2023,Feb,4.39
+Montana,1978,Feb,-8.72
+Montana,1983,Feb,-0.61
+Montana,1988,Feb,-4.22
+Montana,1993,Feb,-9.39
+Montana,1998,Feb,-0.89
+Montana,2003,Feb,-5.89
+Montana,2008,Feb,-4.33
+Montana,2013,Feb,-2.56
+Montana,2018,Feb,-11.44
+Montana,2023,Feb,-4.83
+Nebraska,1978,Feb,-9.22
+Nebraska,1983,Feb,0.33
+Nebraska,1988,Feb,-3.61
+Nebraska,1993,Feb,-7.17
+Nebraska,1998,Feb,1.78
+Nebraska,2003,Feb,-3.89
+Nebraska,2008,Feb,-3.22
+Nebraska,2013,Feb,-1.78
+Nebraska,2018,Feb,-5.72
+Nebraska,2023,Feb,-2.83
+Nevada,1978,Feb,2.11
+Nevada,1983,Feb,2.39
+Nevada,1988,Feb,2.17
+Nevada,1993,Feb,-0.89
+Nevada,1998,Feb,0.83
+Nevada,2003,Feb,1.17
+Nevada,2008,Feb,1.44
+Nevada,2013,Feb,0.72
+Nevada,2018,Feb,0.94
+Nevada,2023,Feb,-0.5
+New Hampshire,1978,Feb,-10.44
+New Hampshire,1983,Feb,-5.0
+New Hampshire,1988,Feb,-6.44
+New Hampshire,1993,Feb,-11.11
+New Hampshire,1998,Feb,-2.33
+New Hampshire,2003,Feb,-8.72
+New Hampshire,2008,Feb,-5.44
+New Hampshire,2013,Feb,-4.94
+New Hampshire,2018,Feb,-2.78
+New Hampshire,2023,Feb,-4.22
+New Jersey,1978,Feb,-5.28
+New Jersey,1983,Feb,0.33
+New Jersey,1988,Feb,0.17
+New Jersey,1993,Feb,-2.0
+New Jersey,1998,Feb,3.94
+New Jersey,2003,Feb,-2.11
+New Jersey,2008,Feb,1.78
+New Jersey,2013,Feb,0.44
+New Jersey,2018,Feb,4.11
+New Jersey,2023,Feb,3.94
+New Mexico,1978,Feb,2.11
+New Mexico,1983,Feb,3.17
+New Mexico,1988,Feb,3.94
+New Mexico,1993,Feb,3.44
+New Mexico,1998,Feb,2.94
+New Mexico,2003,Feb,3.67
+New Mexico,2008,Feb,4.22
+New Mexico,2013,Feb,2.28
+New Mexico,2018,Feb,5.17
+New Mexico,2023,Feb,2.94
+New York,1978,Feb,-10.5
+New York,1983,Feb,-3.89
+New York,1988,Feb,-5.78
+New York,1993,Feb,-9.5
+New York,1998,Feb,-1.0
+New York,2003,Feb,-7.61
+New York,2008,Feb,-4.72
+New York,2013,Feb,-4.83
+New York,2018,Feb,-1.44
+New York,2023,Feb,-2.17
+North Carolina,1978,Feb,0.72
+North Carolina,1983,Feb,4.83
+North Carolina,1988,Feb,5.0
+North Carolina,1993,Feb,4.44
+North Carolina,1998,Feb,7.56
+North Carolina,2003,Feb,5.22
+North Carolina,2008,Feb,7.89
+North Carolina,2013,Feb,5.44
+North Carolina,2018,Feb,11.06
+North Carolina,2023,Feb,10.67
+North Dakota,1978,Feb,-15.0
+North Dakota,1983,Feb,-5.0
+North Dakota,1988,Feb,-11.17
+North Dakota,1993,Feb,-12.44
+North Dakota,1998,Feb,-2.33
+North Dakota,2003,Feb,-12.89
+North Dakota,2008,Feb,-12.06
+North Dakota,2013,Feb,-8.44
+North Dakota,2018,Feb,-14.78
+North Dakota,2023,Feb,-9.67
+Ohio,1978,Feb,-9.11
+Ohio,1983,Feb,0.56
+Ohio,1988,Feb,-2.33
+Ohio,1993,Feb,-3.06
+Ohio,1998,Feb,3.72
+Ohio,2003,Feb,-3.67
+Ohio,2008,Feb,-2.0
+Ohio,2013,Feb,-1.56
+Ohio,2018,Feb,2.56
+Ohio,2023,Feb,3.67
+Oklahoma,1978,Feb,-1.67
+Oklahoma,1983,Feb,5.0
+Oklahoma,1988,Feb,4.22
+Oklahoma,1993,Feb,3.61
+Oklahoma,1998,Feb,7.11
+Oklahoma,2003,Feb,3.5
+Oklahoma,2008,Feb,5.11
+Oklahoma,2013,Feb,5.06
+Oklahoma,2018,Feb,5.0
+Oklahoma,2023,Feb,6.61
+Oregon,1978,Feb,2.89
+Oregon,1983,Feb,3.5
+Oregon,1988,Feb,3.06
+Oregon,1993,Feb,-1.44
+Oregon,1998,Feb,2.11
+Oregon,2003,Feb,1.67
+Oregon,2008,Feb,2.11
+Oregon,2013,Feb,1.72
+Oregon,2018,Feb,0.67
+Oregon,2023,Feb,0.28
+Pennsylvania,1978,Feb,-8.22
+Pennsylvania,1983,Feb,-1.22
+Pennsylvania,1988,Feb,-2.89
+Pennsylvania,1993,Feb,-4.72
+Pennsylvania,1998,Feb,2.11
+Pennsylvania,2003,Feb,-4.56
+Pennsylvania,2008,Feb,-2.39
+Pennsylvania,2013,Feb,-2.56
+Pennsylvania,2018,Feb,1.28
+Pennsylvania,2023,Feb,2.06
+Rhode Island,1978,Feb,-5.67
+Rhode Island,1983,Feb,-0.67
+Rhode Island,1988,Feb,-1.06
+Rhode Island,1993,Feb,-4.22
+Rhode Island,1998,Feb,2.22
+Rhode Island,2003,Feb,-3.78
+Rhode Island,2008,Feb,-0.11
+Rhode Island,2013,Feb,-1.0
+Rhode Island,2018,Feb,3.17
+Rhode Island,2023,Feb,1.28
+South Carolina,1978,Feb,3.72
+South Carolina,1983,Feb,7.28
+South Carolina,1988,Feb,7.33
+South Carolina,1993,Feb,7.22
+South Carolina,1998,Feb,9.67
+South Carolina,2003,Feb,8.11
+South Carolina,2008,Feb,10.39
+South Carolina,2013,Feb,8.11
+South Carolina,2018,Feb,14.11
+South Carolina,2023,Feb,13.5
+South Dakota,1978,Feb,-12.56
+South Dakota,1983,Feb,-1.11
+South Dakota,1988,Feb,-7.44
+South Dakota,1993,Feb,-10.17
+South Dakota,1998,Feb,0.39
+South Dakota,2003,Feb,-7.33
+South Dakota,2008,Feb,-7.17
+South Dakota,2013,Feb,-4.56
+South Dakota,2018,Feb,-11.33
+South Dakota,2023,Feb,-5.56
+Tennessee,1978,Feb,-1.72
+Tennessee,1983,Feb,4.78
+Tennessee,1988,Feb,3.22
+Tennessee,1993,Feb,3.56
+Tennessee,1998,Feb,6.89
+Tennessee,2003,Feb,3.61
+Tennessee,2008,Feb,5.67
+Tennessee,2013,Feb,4.89
+Tennessee,2018,Feb,9.17
+Tennessee,2023,Feb,9.22
+Texas,1978,Feb,4.89
+Texas,1983,Feb,9.17
+Texas,1988,Feb,9.11
+Texas,1993,Feb,9.61
+Texas,1998,Feb,10.61
+Texas,2003,Feb,9.06
+Texas,2008,Feb,11.78
+Texas,2013,Feb,10.94
+Texas,2018,Feb,11.28
+Texas,2023,Feb,11.11
+Utah,1978,Feb,0.11
+Utah,1983,Feb,0.83
+Utah,1988,Feb,-0.67
+Utah,1993,Feb,-2.17
+Utah,1998,Feb,-0.28
+Utah,2003,Feb,-0.56
+Utah,2008,Feb,-0.83
+Utah,2013,Feb,-2.44
+Utah,2018,Feb,0.11
+Utah,2023,Feb,-2.89
 Vermont,1978,Feb,-12.28
 Vermont,1983,Feb,-6.28
 Vermont,1988,Feb,-7.56
@@ -39,6 +919,66 @@ Vermont,2008,Feb,-6.39
 Vermont,2013,Feb,-5.83
 Vermont,2018,Feb,-3.61
 Vermont,2023,Feb,-5.0
+Virginia,1978,Feb,-2.44
+Virginia,1983,Feb,2.28
+Virginia,1988,Feb,2.44
+Virginia,1993,Feb,1.56
+Virginia,1998,Feb,5.28
+Virginia,2003,Feb,1.56
+Virginia,2008,Feb,4.61
+Virginia,2013,Feb,2.67
+Virginia,2018,Feb,7.33
+Virginia,2023,Feb,7.94
+Washington,1978,Feb,2.22
+Washington,1983,Feb,3.28
+Washington,1988,Feb,2.33
+Washington,1993,Feb,-1.22
+Washington,1998,Feb,3.17
+Washington,2003,Feb,1.89
+Washington,2008,Feb,1.89
+Washington,2013,Feb,1.94
+Washington,2018,Feb,0.22
+Washington,2023,Feb,0.33
+West Virginia,1978,Feb,-6.17
+West Virginia,1983,Feb,0.89
+West Virginia,1988,Feb,0.0
+West Virginia,1993,Feb,-0.61
+West Virginia,1998,Feb,3.89
+West Virginia,2003,Feb,-0.83
+West Virginia,2008,Feb,1.44
+West Virginia,2013,Feb,0.17
+West Virginia,2018,Feb,5.39
+West Virginia,2023,Feb,5.28
+Wisconsin,1978,Feb,-12.28
+Wisconsin,1983,Feb,-3.78
+Wisconsin,1988,Feb,-10.78
+Wisconsin,1993,Feb,-8.44
+Wisconsin,1998,Feb,-0.22
+Wisconsin,2003,Feb,-10.17
+Wisconsin,2008,Feb,-10.44
+Wisconsin,2013,Feb,-8.33
+Wisconsin,2018,Feb,-8.83
+Wisconsin,2023,Feb,-5.72
+Wyoming,1978,Feb,-6.72
+Wyoming,1983,Feb,-2.5
+Wyoming,1988,Feb,-4.5
+Wyoming,1993,Feb,-8.89
+Wyoming,1998,Feb,-3.11
+Wyoming,2003,Feb,-6.56
+Wyoming,2008,Feb,-4.78
+Wyoming,2013,Feb,-5.22
+Wyoming,2018,Feb,-7.06
+Wyoming,2023,Feb,-6.28
+Alaska,1978,Feb,-12.11
+Alaska,1983,Feb,-13.56
+Alaska,1988,Feb,-12.83
+Alaska,1993,Feb,-11.89
+Alaska,1998,Feb,-12.0
+Alaska,2003,Feb,-8.61
+Alaska,2008,Feb,-16.83
+Alaska,2013,Feb,-14.28
+Alaska,2018,Feb,-10.78
+Alaska,2023,Feb,-14.44
 Alabama,1978,Mar,10.67
 Alabama,1983,Mar,11.11
 Alabama,1988,Mar,12.39
@@ -49,6 +989,416 @@ Alabama,2008,Mar,12.89
 Alabama,2013,Mar,9.89
 Alabama,2018,Mar,13.0
 Alabama,2023,Mar,14.83
+Arizona,1978,Mar,11.5
+Arizona,1983,Mar,9.33
+Arizona,1988,Mar,10.17
+Arizona,1993,Mar,11.0
+Arizona,1998,Mar,9.44
+Arizona,2003,Mar,10.33
+Arizona,2008,Mar,11.0
+Arizona,2013,Mar,12.67
+Arizona,2018,Mar,11.28
+Arizona,2023,Mar,8.5
+Arkansas,1978,Mar,8.44
+Arkansas,1983,Mar,10.0
+Arkansas,1988,Mar,10.28
+Arkansas,1993,Mar,9.44
+Arkansas,1998,Mar,9.78
+Arkansas,2003,Mar,10.67
+Arkansas,2008,Mar,11.06
+Arkansas,2013,Mar,8.11
+Arkansas,2018,Mar,12.17
+Arkansas,2023,Mar,11.67
+California,1978,Mar,11.44
+California,1983,Mar,9.22
+California,1988,Mar,10.89
+California,1993,Mar,11.61
+California,1998,Mar,9.56
+California,2003,Mar,10.78
+California,2008,Mar,10.17
+California,2013,Mar,12.11
+California,2018,Mar,9.44
+California,2023,Mar,6.78
+Colorado,1978,Mar,3.0
+Colorado,1983,Mar,1.11
+Colorado,1988,Mar,0.39
+Colorado,1993,Mar,2.28
+Colorado,1998,Mar,0.94
+Colorado,2003,Mar,2.56
+Colorado,2008,Mar,1.06
+Colorado,2013,Mar,1.67
+Colorado,2018,Mar,3.22
+Colorado,2023,Mar,-0.61
+Connecticut,1978,Mar,0.17
+Connecticut,1983,Mar,3.67
+Connecticut,1988,Mar,2.83
+Connecticut,1993,Mar,0.61
+Connecticut,1998,Mar,4.06
+Connecticut,2003,Mar,2.22
+Connecticut,2008,Mar,2.5
+Connecticut,2013,Mar,2.22
+Connecticut,2018,Mar,2.44
+Connecticut,2023,Mar,3.78
+Delaware,1978,Mar,4.17
+Delaware,1983,Mar,7.33
+Delaware,1988,Mar,6.78
+Delaware,1993,Mar,4.44
+Delaware,1998,Mar,7.61
+Delaware,2003,Mar,7.28
+Delaware,2008,Mar,7.61
+Delaware,2013,Mar,4.72
+Delaware,2018,Mar,4.72
+Delaware,2023,Mar,7.56
+Florida,1978,Mar,16.56
+Florida,1983,Mar,16.17
+Florida,1988,Mar,17.17
+Florida,1993,Mar,16.89
+Florida,1998,Mar,16.78
+Florida,2003,Mar,21.0
+Florida,2008,Mar,18.17
+Florida,2013,Mar,15.06
+Florida,2018,Mar,17.22
+Florida,2023,Mar,20.61
+Georgia,1978,Mar,11.56
+Georgia,1983,Mar,12.11
+Georgia,1988,Mar,12.83
+Georgia,1993,Mar,11.44
+Georgia,1998,Mar,12.06
+Georgia,2003,Mar,15.0
+Georgia,2008,Mar,13.0
+Georgia,2013,Mar,10.11
+Georgia,2018,Mar,12.5
+Georgia,2023,Mar,15.11
+Idaho,1978,Mar,3.0
+Idaho,1983,Mar,2.22
+Idaho,1988,Mar,1.0
+Idaho,1993,Mar,1.67
+Idaho,1998,Mar,1.11
+Idaho,2003,Mar,2.39
+Idaho,2008,Mar,-0.94
+Idaho,2013,Mar,1.72
+Idaho,2018,Mar,0.94
+Idaho,2023,Mar,-2.28
+Illinois,1978,Mar,0.89
+Illinois,1983,Mar,5.0
+Illinois,1988,Mar,4.89
+Illinois,1993,Mar,2.67
+Illinois,1998,Mar,4.78
+Illinois,2003,Mar,5.33
+Illinois,2008,Mar,3.89
+Illinois,2013,Mar,1.28
+Illinois,2018,Mar,4.0
+Illinois,2023,Mar,4.94
+Indiana,1978,Mar,0.56
+Indiana,1983,Mar,5.33
+Indiana,1988,Mar,4.61
+Indiana,1993,Mar,2.78
+Indiana,1998,Mar,5.17
+Indiana,2003,Mar,5.61
+Indiana,2008,Mar,3.67
+Indiana,2013,Mar,1.56
+Indiana,2018,Mar,3.44
+Indiana,2023,Mar,5.0
+Iowa,1978,Mar,-0.61
+Iowa,1983,Mar,2.17
+Iowa,1988,Mar,3.22
+Iowa,1993,Mar,-0.56
+Iowa,1998,Mar,0.44
+Iowa,2003,Mar,1.72
+Iowa,2008,Mar,0.33
+Iowa,2013,Mar,-1.67
+Iowa,2018,Mar,1.78
+Iowa,2023,Mar,1.11
+Kansas,1978,Mar,5.11
+Kansas,1983,Mar,5.44
+Kansas,1988,Mar,6.17
+Kansas,1993,Mar,5.0
+Kansas,1998,Mar,3.44
+Kansas,2003,Mar,6.78
+Kansas,2008,Mar,6.22
+Kansas,2013,Mar,4.61
+Kansas,2018,Mar,7.72
+Kansas,2023,Mar,5.56
+Kentucky,1978,Mar,5.06
+Kentucky,1983,Mar,7.78
+Kentucky,1988,Mar,7.44
+Kentucky,1993,Mar,5.67
+Kentucky,1998,Mar,8.06
+Kentucky,2003,Mar,9.33
+Kentucky,2008,Mar,7.33
+Kentucky,2013,Mar,4.11
+Kentucky,2018,Mar,6.72
+Kentucky,2023,Mar,8.44
+Louisiana,1978,Mar,12.89
+Louisiana,1983,Mar,13.17
+Louisiana,1988,Mar,14.44
+Louisiana,1993,Mar,13.44
+Louisiana,1998,Mar,14.33
+Louisiana,2003,Mar,14.78
+Louisiana,2008,Mar,15.56
+Louisiana,2013,Mar,12.94
+Louisiana,2018,Mar,16.78
+Louisiana,2023,Mar,17.61
+Maine,1978,Mar,-5.0
+Maine,1983,Mar,-1.0
+Maine,1988,Mar,-3.33
+Maine,1993,Mar,-4.11
+Maine,1998,Mar,-1.33
+Maine,2003,Mar,-4.33
+Maine,2008,Mar,-4.94
+Maine,2013,Mar,-0.94
+Maine,2018,Mar,-1.72
+Maine,2023,Mar,-0.94
+Maryland,1978,Mar,4.0
+Maryland,1983,Mar,7.0
+Maryland,1988,Mar,6.56
+Maryland,1993,Mar,4.0
+Maryland,1998,Mar,7.17
+Maryland,2003,Mar,6.89
+Maryland,2008,Mar,7.11
+Maryland,2013,Mar,4.28
+Maryland,2018,Mar,4.06
+Maryland,2023,Mar,7.28
+Massachusetts,1978,Mar,-0.56
+Massachusetts,1983,Mar,2.94
+Massachusetts,1988,Mar,1.83
+Massachusetts,1993,Mar,-0.11
+Massachusetts,1998,Mar,3.28
+Massachusetts,2003,Mar,1.39
+Massachusetts,2008,Mar,1.44
+Massachusetts,2013,Mar,1.61
+Massachusetts,2018,Mar,1.56
+Massachusetts,2023,Mar,3.11
+Michigan,1978,Mar,-3.89
+Michigan,1983,Mar,0.39
+Michigan,1988,Mar,-1.22
+Michigan,1993,Mar,-1.67
+Michigan,1998,Mar,0.44
+Michigan,2003,Mar,-1.5
+Michigan,2008,Mar,-2.78
+Michigan,2013,Mar,-2.33
+Michigan,2018,Mar,-1.33
+Michigan,2023,Mar,-0.33
+Minnesota,1978,Mar,-4.17
+Minnesota,1983,Mar,-1.44
+Minnesota,1988,Mar,-2.11
+Minnesota,1993,Mar,-3.61
+Minnesota,1998,Mar,-2.5
+Minnesota,2003,Mar,-3.44
+Minnesota,2008,Mar,-4.72
+Minnesota,2013,Mar,-6.33
+Minnesota,2018,Mar,-2.5
+Minnesota,2023,Mar,-6.0
+Mississippi,1978,Mar,10.72
+Mississippi,1983,Mar,11.44
+Mississippi,1988,Mar,12.44
+Mississippi,1993,Mar,11.33
+Mississippi,1998,Mar,12.72
+Mississippi,2003,Mar,13.56
+Mississippi,2008,Mar,13.5
+Mississippi,2013,Mar,10.22
+Mississippi,2018,Mar,13.94
+Mississippi,2023,Mar,15.5
+Missouri,1978,Mar,3.5
+Missouri,1983,Mar,6.61
+Missouri,1988,Mar,6.78
+Missouri,1993,Mar,4.78
+Missouri,1998,Mar,5.06
+Missouri,2003,Mar,7.0
+Missouri,2008,Mar,6.22
+Missouri,2013,Mar,3.5
+Missouri,2018,Mar,6.67
+Missouri,2023,Mar,6.61
+Montana,1978,Mar,-0.67
+Montana,1983,Mar,0.89
+Montana,1988,Mar,0.89
+Montana,1993,Mar,1.33
+Montana,1998,Mar,-1.72
+Montana,2003,Mar,-1.22
+Montana,2008,Mar,-0.44
+Montana,2013,Mar,-0.83
+Montana,2018,Mar,-2.06
+Montana,2023,Mar,-4.78
+Nebraska,1978,Mar,1.61
+Nebraska,1983,Mar,2.44
+Nebraska,1988,Mar,3.44
+Nebraska,1993,Mar,2.17
+Nebraska,1998,Mar,-0.11
+Nebraska,2003,Mar,3.72
+Nebraska,2008,Mar,3.0
+Nebraska,2013,Mar,1.56
+Nebraska,2018,Mar,3.61
+Nebraska,2023,Mar,0.89
+Nevada,1978,Mar,7.0
+Nevada,1983,Mar,4.56
+Nevada,1988,Mar,4.78
+Nevada,1993,Mar,6.67
+Nevada,1998,Mar,4.61
+Nevada,2003,Mar,5.94
+Nevada,2008,Mar,4.56
+Nevada,2013,Mar,7.06
+Nevada,2018,Mar,4.17
+Nevada,2023,Mar,0.94
+New Hampshire,1978,Mar,-3.44
+New Hampshire,1983,Mar,0.28
+New Hampshire,1988,Mar,-1.44
+New Hampshire,1993,Mar,-2.83
+New Hampshire,1998,Mar,0.39
+New Hampshire,2003,Mar,-2.0
+New Hampshire,2008,Mar,-2.61
+New Hampshire,2013,Mar,-0.67
+New Hampshire,2018,Mar,-0.94
+New Hampshire,2023,Mar,0.22
+New Jersey,1978,Mar,2.44
+New Jersey,1983,Mar,5.61
+New Jersey,1988,Mar,5.17
+New Jersey,1993,Mar,2.56
+New Jersey,1998,Mar,6.22
+New Jersey,2003,Mar,5.17
+New Jersey,2008,Mar,5.39
+New Jersey,2013,Mar,3.67
+New Jersey,2018,Mar,3.5
+New Jersey,2023,Mar,5.72
+New Mexico,1978,Mar,7.72
+New Mexico,1983,Mar,6.33
+New Mexico,1988,Mar,6.06
+New Mexico,1993,Mar,7.22
+New Mexico,1998,Mar,6.17
+New Mexico,2003,Mar,7.28
+New Mexico,2008,Mar,7.17
+New Mexico,2013,Mar,8.11
+New Mexico,2018,Mar,8.44
+New Mexico,2023,Mar,6.78
+New York,1978,Mar,-3.06
+New York,1983,Mar,1.33
+New York,1988,Mar,-0.39
+New York,1993,Mar,-2.44
+New York,1998,Mar,1.56
+New York,2003,Mar,-0.17
+New York,2008,Mar,-1.5
+New York,2013,Mar,-0.78
+New York,2018,Mar,-1.17
+New York,2023,Mar,0.28
+North Carolina,1978,Mar,8.17
+North Carolina,1983,Mar,10.06
+North Carolina,1988,Mar,9.56
+North Carolina,1993,Mar,8.06
+North Carolina,1998,Mar,9.67
+North Carolina,2003,Mar,11.56
+North Carolina,2008,Mar,10.56
+North Carolina,2013,Mar,6.67
+North Carolina,2018,Mar,7.94
+North Carolina,2023,Mar,11.11
+North Dakota,1978,Mar,-4.06
+North Dakota,1983,Mar,-2.5
+North Dakota,1988,Mar,-1.44
+North Dakota,1993,Mar,-2.11
+North Dakota,1998,Mar,-5.67
+North Dakota,2003,Mar,-5.11
+North Dakota,2008,Mar,-3.06
+North Dakota,2013,Mar,-8.0
+North Dakota,2018,Mar,-4.06
+North Dakota,2023,Mar,-9.89
+Ohio,1978,Mar,0.39
+Ohio,1983,Mar,5.28
+Ohio,1988,Mar,3.83
+Ohio,1993,Mar,2.11
+Ohio,1998,Mar,5.44
+Ohio,2003,Mar,5.0
+Ohio,2008,Mar,2.67
+Ohio,2013,Mar,1.67
+Ohio,2018,Mar,2.44
+Ohio,2023,Mar,4.78
+Oklahoma,1978,Mar,8.44
+Oklahoma,1983,Mar,8.56
+Oklahoma,1988,Mar,9.06
+Oklahoma,1993,Mar,8.67
+Oklahoma,1998,Mar,7.94
+Oklahoma,2003,Mar,9.83
+Oklahoma,2008,Mar,10.44
+Oklahoma,2013,Mar,8.61
+Oklahoma,2018,Mar,11.67
+Oklahoma,2023,Mar,10.22
+Oregon,1978,Mar,6.33
+Oregon,1983,Mar,5.0
+Oregon,1988,Mar,4.17
+Oregon,1993,Mar,4.94
+Oregon,1998,Mar,4.39
+Oregon,2003,Mar,5.28
+Oregon,2008,Mar,2.5
+Oregon,2013,Mar,4.94
+Oregon,2018,Mar,3.56
+Oregon,2023,Mar,0.78
+Pennsylvania,1978,Mar,-0.06
+Pennsylvania,1983,Mar,3.72
+Pennsylvania,1988,Mar,2.89
+Pennsylvania,1993,Mar,0.44
+Pennsylvania,1998,Mar,4.22
+Pennsylvania,2003,Mar,2.89
+Pennsylvania,2008,Mar,2.0
+Pennsylvania,2013,Mar,1.0
+Pennsylvania,2018,Mar,0.56
+Pennsylvania,2023,Mar,3.17
+Rhode Island,1978,Mar,0.61
+Rhode Island,1983,Mar,3.94
+Rhode Island,1988,Mar,3.22
+Rhode Island,1993,Mar,1.22
+Rhode Island,1998,Mar,4.39
+Rhode Island,2003,Mar,2.67
+Rhode Island,2008,Mar,3.28
+Rhode Island,2013,Mar,2.83
+Rhode Island,2018,Mar,2.94
+Rhode Island,2023,Mar,4.28
+South Carolina,1978,Mar,10.78
+South Carolina,1983,Mar,11.78
+South Carolina,1988,Mar,12.11
+South Carolina,1993,Mar,10.56
+South Carolina,1998,Mar,11.5
+South Carolina,2003,Mar,13.89
+South Carolina,2008,Mar,12.61
+South Carolina,2013,Mar,9.11
+South Carolina,2018,Mar,11.11
+South Carolina,2023,Mar,13.89
+South Dakota,1978,Mar,-1.0
+South Dakota,1983,Mar,0.33
+South Dakota,1988,Mar,1.28
+South Dakota,1993,Mar,0.28
+South Dakota,1998,Mar,-3.11
+South Dakota,2003,Mar,0.06
+South Dakota,2008,Mar,0.11
+South Dakota,2013,Mar,-2.17
+South Dakota,2018,Mar,-0.89
+South Dakota,2023,Mar,-4.5
+Tennessee,1978,Mar,7.28
+Tennessee,1983,Mar,8.89
+Tennessee,1988,Mar,9.17
+Tennessee,1993,Mar,7.28
+Tennessee,1998,Mar,9.11
+Tennessee,2003,Mar,10.72
+Tennessee,2008,Mar,9.33
+Tennessee,2013,Mar,5.94
+Tennessee,2018,Mar,9.0
+Tennessee,2023,Mar,10.28
+Texas,1978,Mar,13.0
+Texas,1983,Mar,12.83
+Texas,1988,Mar,13.44
+Texas,1993,Mar,13.33
+Texas,1998,Mar,12.78
+Texas,2003,Mar,14.0
+Texas,2008,Mar,14.67
+Texas,2013,Mar,14.0
+Texas,2018,Mar,16.5
+Texas,2023,Mar,15.78
+Utah,1978,Mar,5.67
+Utah,1983,Mar,3.72
+Utah,1988,Mar,2.56
+Utah,1993,Mar,4.67
+Utah,1998,Mar,3.39
+Utah,2003,Mar,4.61
+Utah,2008,Mar,2.89
+Utah,2013,Mar,5.0
+Utah,2018,Mar,4.0
+Utah,2023,Mar,0.17
 Vermont,1978,Mar,-4.56
 Vermont,1983,Mar,-0.72
 Vermont,1988,Mar,-2.67
@@ -59,6 +1409,66 @@ Vermont,2008,Mar,-3.44
 Vermont,2013,Mar,-1.39
 Vermont,2018,Mar,-2.11
 Vermont,2023,Mar,-1.0
+Virginia,1978,Mar,5.39
+Virginia,1983,Mar,7.83
+Virginia,1988,Mar,7.5
+Virginia,1993,Mar,5.17
+Virginia,1998,Mar,7.44
+Virginia,2003,Mar,8.89
+Virginia,2008,Mar,8.22
+Virginia,2013,Mar,4.5
+Virginia,2018,Mar,5.11
+Virginia,2023,Mar,8.61
+Washington,1978,Mar,5.17
+Washington,1983,Mar,5.72
+Washington,1988,Mar,4.22
+Washington,1993,Mar,3.94
+Washington,1998,Mar,5.0
+Washington,2003,Mar,5.0
+Washington,2008,Mar,2.78
+Washington,2013,Mar,4.56
+Washington,2018,Mar,3.78
+Washington,2023,Mar,2.67
+West Virginia,1978,Mar,3.33
+West Virginia,1983,Mar,5.83
+West Virginia,1988,Mar,5.5
+West Virginia,1993,Mar,3.22
+West Virginia,1998,Mar,5.89
+West Virginia,2003,Mar,7.22
+West Virginia,2008,Mar,5.61
+West Virginia,2013,Mar,2.44
+West Virginia,2018,Mar,3.33
+West Virginia,2023,Mar,6.11
+Wisconsin,1978,Mar,-3.33
+Wisconsin,1983,Mar,-0.28
+Wisconsin,1988,Mar,-0.83
+Wisconsin,1993,Mar,-2.0
+Wisconsin,1998,Mar,-0.39
+Wisconsin,2003,Mar,-1.61
+Wisconsin,2008,Mar,-3.67
+Wisconsin,2013,Mar,-4.5
+Wisconsin,2018,Mar,-1.28
+Wisconsin,2023,Mar,-1.83
+Wyoming,1978,Mar,0.39
+Wyoming,1983,Mar,0.0
+Wyoming,1988,Mar,-1.56
+Wyoming,1993,Mar,0.0
+Wyoming,1998,Mar,-2.0
+Wyoming,2003,Mar,0.0
+Wyoming,2008,Mar,-2.0
+Wyoming,2013,Mar,-0.39
+Wyoming,2018,Mar,0.17
+Wyoming,2023,Mar,-4.28
+Alaska,1978,Mar,-10.17
+Alaska,1983,Mar,-10.44
+Alaska,1988,Mar,-10.11
+Alaska,1993,Mar,-8.5
+Alaska,1998,Mar,-6.56
+Alaska,2003,Mar,-11.67
+Alaska,2008,Mar,-10.78
+Alaska,2013,Mar,-11.67
+Alaska,2018,Mar,-7.78
+Alaska,2023,Mar,-10.28
 Alabama,1978,Apr,17.72
 Alabama,1983,Apr,14.33
 Alabama,1988,Apr,17.11
@@ -69,6 +1479,416 @@ Alabama,2008,Apr,17.11
 Alabama,2013,Apr,16.78
 Alabama,2018,Apr,15.28
 Alabama,2023,Apr,17.33
+Arizona,1978,Apr,13.33
+Arizona,1983,Apr,10.72
+Arizona,1988,Apr,13.94
+Arizona,1993,Apr,14.78
+Arizona,1998,Apr,11.5
+Arizona,2003,Apr,13.11
+Arizona,2008,Apr,14.44
+Arizona,2013,Apr,15.22
+Arizona,2018,Apr,17.17
+Arizona,2023,Apr,14.67
+Arkansas,1978,Apr,17.11
+Arkansas,1983,Apr,12.44
+Arkansas,1988,Apr,15.56
+Arkansas,1993,Apr,13.5
+Arkansas,1998,Apr,15.39
+Arkansas,2003,Apr,16.5
+Arkansas,2008,Apr,14.89
+Arkansas,2013,Apr,14.72
+Arkansas,2018,Apr,12.89
+Arkansas,2023,Apr,15.72
+California,1978,Apr,10.83
+California,1983,Apr,9.89
+California,1988,Apr,12.89
+California,1993,Apr,12.89
+California,1998,Apr,10.89
+California,2003,Apr,10.0
+California,2008,Apr,12.44
+California,2013,Apr,14.56
+California,2018,Apr,14.0
+California,2023,Apr,12.94
+Colorado,1978,Apr,7.11
+Colorado,1983,Apr,2.78
+Colorado,1988,Apr,6.56
+Colorado,1993,Apr,5.61
+Colorado,1998,Apr,5.0
+Colorado,2003,Apr,7.39
+Colorado,2008,Apr,4.94
+Colorado,2013,Apr,4.33
+Colorado,2018,Apr,6.67
+Colorado,2023,Apr,5.33
+Connecticut,1978,Apr,7.17
+Connecticut,1983,Apr,8.28
+Connecticut,1988,Apr,7.56
+Connecticut,1993,Apr,8.56
+Connecticut,1998,Apr,9.22
+Connecticut,2003,Apr,6.94
+Connecticut,2008,Apr,9.78
+Connecticut,2013,Apr,8.5
+Connecticut,2018,Apr,6.33
+Connecticut,2023,Apr,10.61
+Delaware,1978,Apr,11.06
+Delaware,1983,Apr,10.56
+Delaware,1988,Apr,10.22
+Delaware,1993,Apr,11.11
+Delaware,1998,Apr,12.89
+Delaware,2003,Apr,11.11
+Delaware,2008,Apr,13.0
+Delaware,2013,Apr,12.56
+Delaware,2018,Apr,10.89
+Delaware,2023,Apr,14.78
+Florida,1978,Apr,21.0
+Florida,1983,Apr,19.0
+Florida,1988,Apr,20.89
+Florida,1993,Apr,18.83
+Florida,1998,Apr,20.94
+Florida,2003,Apr,20.78
+Florida,2008,Apr,20.83
+Florida,2013,Apr,21.89
+Florida,2018,Apr,21.22
+Florida,2023,Apr,22.94
+Georgia,1978,Apr,17.89
+Georgia,1983,Apr,14.72
+Georgia,1988,Apr,17.39
+Georgia,1993,Apr,15.0
+Georgia,1998,Apr,16.89
+Georgia,2003,Apr,17.06
+Georgia,2008,Apr,17.0
+Georgia,2013,Apr,17.17
+Georgia,2018,Apr,15.89
+Georgia,2023,Apr,17.83
+Idaho,1978,Apr,5.06
+Idaho,1983,Apr,3.22
+Idaho,1988,Apr,6.83
+Idaho,1993,Apr,4.22
+Idaho,1998,Apr,5.17
+Idaho,2003,Apr,4.89
+Idaho,2008,Apr,2.39
+Idaho,2013,Apr,4.5
+Idaho,2018,Apr,5.78
+Idaho,2023,Apr,3.78
+Illinois,1978,Apr,11.5
+Illinois,1983,Apr,8.22
+Illinois,1988,Apr,11.11
+Illinois,1993,Apr,9.56
+Illinois,1998,Apr,11.44
+Illinois,2003,Apr,11.94
+Illinois,2008,Apr,10.78
+Illinois,2013,Apr,10.11
+Illinois,2018,Apr,7.11
+Illinois,2023,Apr,11.89
+Indiana,1978,Apr,10.78
+Indiana,1983,Apr,8.28
+Indiana,1988,Apr,10.33
+Indiana,1993,Apr,9.56
+Indiana,1998,Apr,11.33
+Indiana,2003,Apr,11.78
+Indiana,2008,Apr,11.28
+Indiana,2013,Apr,10.44
+Indiana,2018,Apr,7.28
+Indiana,2023,Apr,11.5
+Iowa,1978,Apr,9.0
+Iowa,1983,Apr,5.89
+Iowa,1988,Apr,9.17
+Iowa,1993,Apr,7.22
+Iowa,1998,Apr,9.83
+Iowa,2003,Apr,10.22
+Iowa,2008,Apr,7.78
+Iowa,2013,Apr,6.56
+Iowa,2018,Apr,4.06
+Iowa,2023,Apr,9.67
+Kansas,1978,Apr,13.28
+Kansas,1983,Apr,8.22
+Kansas,1988,Apr,11.33
+Kansas,1993,Apr,10.0
+Kansas,1998,Apr,11.06
+Kansas,2003,Apr,13.39
+Kansas,2008,Apr,10.28
+Kansas,2013,Apr,9.11
+Kansas,2018,Apr,8.67
+Kansas,2023,Apr,12.56
+Kentucky,1978,Apr,13.78
+Kentucky,1983,Apr,10.17
+Kentucky,1988,Apr,12.67
+Kentucky,1993,Apr,11.72
+Kentucky,1998,Apr,12.5
+Kentucky,2003,Apr,14.28
+Kentucky,2008,Apr,13.0
+Kentucky,2013,Apr,12.89
+Kentucky,2018,Apr,10.39
+Kentucky,2023,Apr,13.67
+Louisiana,1978,Apr,19.5
+Louisiana,1983,Apr,16.22
+Louisiana,1988,Apr,19.06
+Louisiana,1993,Apr,16.61
+Louisiana,1998,Apr,18.0
+Louisiana,2003,Apr,19.28
+Louisiana,2008,Apr,19.17
+Louisiana,2013,Apr,18.11
+Louisiana,2018,Apr,17.06
+Louisiana,2023,Apr,19.0
+Maine,1978,Apr,2.33
+Maine,1983,Apr,4.83
+Maine,1988,Apr,4.22
+Maine,1993,Apr,4.33
+Maine,1998,Apr,5.22
+Maine,2003,Apr,2.06
+Maine,2008,Apr,5.28
+Maine,2013,Apr,3.94
+Maine,2018,Apr,2.5
+Maine,2023,Apr,5.39
+Maryland,1978,Apr,11.0
+Maryland,1983,Apr,10.17
+Maryland,1988,Apr,10.61
+Maryland,1993,Apr,11.06
+Maryland,1998,Apr,12.83
+Maryland,2003,Apr,11.44
+Maryland,2008,Apr,13.11
+Maryland,2013,Apr,12.44
+Maryland,2018,Apr,10.39
+Maryland,2023,Apr,14.44
+Massachusetts,1978,Apr,6.22
+Massachusetts,1983,Apr,7.67
+Massachusetts,1988,Apr,6.94
+Massachusetts,1993,Apr,7.67
+Massachusetts,1998,Apr,8.44
+Massachusetts,2003,Apr,6.06
+Massachusetts,2008,Apr,8.83
+Massachusetts,2013,Apr,7.94
+Massachusetts,2018,Apr,5.72
+Massachusetts,2023,Apr,9.94
+Michigan,1978,Apr,4.44
+Michigan,1983,Apr,4.22
+Michigan,1988,Apr,6.17
+Michigan,1993,Apr,4.67
+Michigan,1998,Apr,7.61
+Michigan,2003,Apr,5.22
+Michigan,2008,Apr,7.61
+Michigan,2013,Apr,4.17
+Michigan,2018,Apr,1.78
+Michigan,2023,Apr,7.17
+Minnesota,1978,Apr,4.94
+Minnesota,1983,Apr,4.06
+Minnesota,1988,Apr,6.06
+Minnesota,1993,Apr,4.67
+Minnesota,1998,Apr,8.22
+Minnesota,2003,Apr,6.33
+Minnesota,2008,Apr,4.22
+Minnesota,2013,Apr,1.11
+Minnesota,2018,Apr,0.39
+Minnesota,2023,Apr,3.5
+Mississippi,1978,Apr,18.22
+Mississippi,1983,Apr,14.56
+Mississippi,1988,Apr,17.67
+Mississippi,1993,Apr,15.06
+Mississippi,1998,Apr,16.78
+Mississippi,2003,Apr,17.94
+Mississippi,2008,Apr,17.22
+Mississippi,2013,Apr,16.72
+Mississippi,2018,Apr,14.94
+Mississippi,2023,Apr,17.61
+Missouri,1978,Apr,13.56
+Missouri,1983,Apr,9.06
+Missouri,1988,Apr,12.61
+Missouri,1993,Apr,10.67
+Missouri,1998,Apr,12.22
+Missouri,2003,Apr,13.72
+Missouri,2008,Apr,11.22
+Missouri,2013,Apr,11.17
+Missouri,2018,Apr,9.0
+Missouri,2023,Apr,13.44
+Montana,1978,Apr,5.33
+Montana,1983,Apr,3.72
+Montana,1988,Apr,6.72
+Montana,1993,Apr,5.28
+Montana,1998,Apr,6.5
+Montana,2003,Apr,6.72
+Montana,2008,Apr,3.11
+Montana,2013,Apr,2.72
+Montana,2018,Apr,3.28
+Montana,2023,Apr,4.0
+Nebraska,1978,Apr,9.28
+Nebraska,1983,Apr,5.44
+Nebraska,1988,Apr,9.0
+Nebraska,1993,Apr,7.5
+Nebraska,1998,Apr,8.56
+Nebraska,2003,Apr,10.28
+Nebraska,2008,Apr,7.0
+Nebraska,2013,Apr,5.83
+Nebraska,2018,Apr,5.11
+Nebraska,2023,Apr,8.94
+Nevada,1978,Apr,7.11
+Nevada,1983,Apr,5.17
+Nevada,1988,Apr,9.11
+Nevada,1993,Apr,8.33
+Nevada,1998,Apr,6.61
+Nevada,2003,Apr,6.78
+Nevada,2008,Apr,7.33
+Nevada,2013,Apr,9.11
+Nevada,2018,Apr,10.0
+Nevada,2023,Apr,8.22
+New Hampshire,1978,Apr,3.39
+New Hampshire,1983,Apr,5.56
+New Hampshire,1988,Apr,5.17
+New Hampshire,1993,Apr,6.0
+New Hampshire,1998,Apr,6.56
+New Hampshire,2003,Apr,3.72
+New Hampshire,2008,Apr,6.67
+New Hampshire,2013,Apr,5.56
+New Hampshire,2018,Apr,3.33
+New Hampshire,2023,Apr,7.17
+New Jersey,1978,Apr,9.33
+New Jersey,1983,Apr,9.61
+New Jersey,1988,Apr,9.17
+New Jersey,1993,Apr,10.17
+New Jersey,1998,Apr,11.33
+New Jersey,2003,Apr,9.17
+New Jersey,2008,Apr,11.67
+New Jersey,2013,Apr,10.83
+New Jersey,2018,Apr,8.89
+New Jersey,2023,Apr,12.94
+New Mexico,1978,Apr,12.11
+New Mexico,1983,Apr,7.67
+New Mexico,1988,Apr,10.56
+New Mexico,1993,Apr,11.22
+New Mexico,1998,Apr,9.06
+New Mexico,2003,Apr,11.61
+New Mexico,2008,Apr,10.89
+New Mexico,2013,Apr,11.44
+New Mexico,2018,Apr,12.83
+New Mexico,2023,Apr,11.17
+New York,1978,Apr,4.56
+New York,1983,Apr,5.5
+New York,1988,Apr,6.17
+New York,1993,Apr,6.78
+New York,1998,Apr,7.78
+New York,2003,Apr,5.17
+New York,2008,Apr,9.11
+New York,2013,Apr,6.33
+New York,2018,Apr,3.22
+New York,2023,Apr,8.89
+North Carolina,1978,Apr,14.83
+North Carolina,1983,Apr,12.11
+North Carolina,1988,Apr,13.89
+North Carolina,1993,Apr,13.0
+North Carolina,1998,Apr,14.72
+North Carolina,2003,Apr,14.22
+North Carolina,2008,Apr,14.83
+North Carolina,2013,Apr,14.83
+North Carolina,2018,Apr,13.39
+North Carolina,2023,Apr,15.61
+North Dakota,1978,Apr,5.17
+North Dakota,1983,Apr,3.61
+North Dakota,1988,Apr,6.72
+North Dakota,1993,Apr,5.17
+North Dakota,1998,Apr,8.28
+North Dakota,2003,Apr,7.17
+North Dakota,2008,Apr,4.44
+North Dakota,2013,Apr,-0.39
+North Dakota,2018,Apr,0.72
+North Dakota,2023,Apr,1.5
+Ohio,1978,Apr,9.61
+Ohio,1983,Apr,8.33
+Ohio,1988,Apr,9.44
+Ohio,1993,Apr,9.33
+Ohio,1998,Apr,10.67
+Ohio,2003,Apr,11.11
+Ohio,2008,Apr,11.61
+Ohio,2013,Apr,10.33
+Ohio,2018,Apr,7.28
+Ohio,2023,Apr,11.28
+Oklahoma,1978,Apr,16.89
+Oklahoma,1983,Apr,11.78
+Oklahoma,1988,Apr,14.22
+Oklahoma,1993,Apr,13.28
+Oklahoma,1998,Apr,13.89
+Oklahoma,2003,Apr,16.06
+Oklahoma,2008,Apr,14.33
+Oklahoma,2013,Apr,12.61
+Oklahoma,2018,Apr,12.33
+Oklahoma,2023,Apr,14.89
+Oregon,1978,Apr,6.0
+Oregon,1983,Apr,5.44
+Oregon,1988,Apr,7.89
+Oregon,1993,Apr,6.22
+Oregon,1998,Apr,6.78
+Oregon,2003,Apr,5.44
+Oregon,2008,Apr,4.61
+Oregon,2013,Apr,7.0
+Oregon,2018,Apr,7.22
+Oregon,2023,Apr,6.0
+Pennsylvania,1978,Apr,7.56
+Pennsylvania,1983,Apr,7.33
+Pennsylvania,1988,Apr,7.94
+Pennsylvania,1993,Apr,8.56
+Pennsylvania,1998,Apr,9.72
+Pennsylvania,2003,Apr,8.78
+Pennsylvania,2008,Apr,10.67
+Pennsylvania,2013,Apr,9.28
+Pennsylvania,2018,Apr,6.22
+Pennsylvania,2023,Apr,10.89
+Rhode Island,1978,Apr,7.22
+Rhode Island,1983,Apr,8.22
+Rhode Island,1988,Apr,7.44
+Rhode Island,1993,Apr,8.39
+Rhode Island,1998,Apr,9.11
+Rhode Island,2003,Apr,6.78
+Rhode Island,2008,Apr,9.61
+Rhode Island,2013,Apr,8.72
+Rhode Island,2018,Apr,6.89
+Rhode Island,2023,Apr,10.61
+South Carolina,1978,Apr,17.33
+South Carolina,1983,Apr,14.06
+South Carolina,1988,Apr,16.5
+South Carolina,1993,Apr,14.67
+South Carolina,1998,Apr,16.67
+South Carolina,2003,Apr,16.17
+South Carolina,2008,Apr,16.5
+South Carolina,2013,Apr,16.72
+South Carolina,2018,Apr,15.56
+South Carolina,2023,Apr,17.33
+South Dakota,1978,Apr,6.56
+South Dakota,1983,Apr,4.39
+South Dakota,1988,Apr,8.0
+South Dakota,1993,Apr,6.22
+South Dakota,1998,Apr,8.28
+South Dakota,2003,Apr,8.83
+South Dakota,2008,Apr,5.61
+South Dakota,2013,Apr,2.72
+South Dakota,2018,Apr,2.61
+South Dakota,2023,Apr,5.17
+Tennessee,1978,Apr,15.28
+Tennessee,1983,Apr,10.94
+Tennessee,1988,Apr,14.0
+Tennessee,1993,Apr,12.56
+Tennessee,1998,Apr,13.78
+Tennessee,2003,Apr,15.22
+Tennessee,2008,Apr,14.0
+Tennessee,2013,Apr,13.78
+Tennessee,2018,Apr,11.61
+Tennessee,2023,Apr,14.33
+Texas,1978,Apr,19.89
+Texas,1983,Apr,15.94
+Texas,1988,Apr,17.78
+Texas,1993,Apr,17.22
+Texas,1998,Apr,17.22
+Texas,2003,Apr,19.22
+Texas,2008,Apr,18.5
+Texas,2013,Apr,17.22
+Texas,2018,Apr,17.22
+Texas,2023,Apr,18.06
+Utah,1978,Apr,7.67
+Utah,1983,Apr,4.56
+Utah,1988,Apr,8.5
+Utah,1993,Apr,7.39
+Utah,1998,Apr,6.33
+Utah,2003,Apr,7.67
+Utah,2008,Apr,6.17
+Utah,2013,Apr,7.22
+Utah,2018,Apr,9.44
+Utah,2023,Apr,6.94
 Vermont,1978,Apr,2.61
 Vermont,1983,Apr,4.56
 Vermont,1988,Apr,5.11
@@ -79,6 +1899,66 @@ Vermont,2008,Apr,7.11
 Vermont,2013,Apr,4.89
 Vermont,2018,Apr,2.28
 Vermont,2023,Apr,7.17
+Virginia,1978,Apr,12.39
+Virginia,1983,Apr,10.44
+Virginia,1988,Apr,11.78
+Virginia,1993,Apr,11.56
+Virginia,1998,Apr,13.11
+Virginia,2003,Apr,12.61
+Virginia,2008,Apr,13.28
+Virginia,2013,Apr,13.33
+Virginia,2018,Apr,11.22
+Virginia,2023,Apr,14.33
+Washington,1978,Apr,7.11
+Washington,1983,Apr,7.22
+Washington,1988,Apr,8.28
+Washington,1993,Apr,7.0
+Washington,1998,Apr,7.78
+Washington,2003,Apr,7.0
+Washington,2008,Apr,4.89
+Washington,2013,Apr,7.06
+Washington,2018,Apr,7.39
+Washington,2023,Apr,6.28
+West Virginia,1978,Apr,10.89
+West Virginia,1983,Apr,8.83
+West Virginia,1988,Apr,10.33
+West Virginia,1993,Apr,10.11
+West Virginia,1998,Apr,11.33
+West Virginia,2003,Apr,11.89
+West Virginia,2008,Apr,12.44
+West Virginia,2013,Apr,11.61
+West Virginia,2018,Apr,8.72
+West Virginia,2023,Apr,12.11
+Wisconsin,1978,Apr,5.22
+Wisconsin,1983,Apr,4.17
+Wisconsin,1988,Apr,6.67
+Wisconsin,1993,Apr,4.33
+Wisconsin,1998,Apr,8.33
+Wisconsin,2003,Apr,5.89
+Wisconsin,2008,Apr,6.06
+Wisconsin,2013,Apr,3.22
+Wisconsin,2018,Apr,0.83
+Wisconsin,2023,Apr,6.33
+Wyoming,1978,Apr,4.89
+Wyoming,1983,Apr,1.22
+Wyoming,1988,Apr,5.67
+Wyoming,1993,Apr,3.56
+Wyoming,1998,Apr,4.17
+Wyoming,2003,Apr,5.94
+Wyoming,2008,Apr,2.06
+Wyoming,2013,Apr,1.5
+Wyoming,2018,Apr,4.28
+Wyoming,2023,Apr,2.72
+Alaska,1978,Apr,-3.06
+Alaska,1983,Apr,-2.94
+Alaska,1988,Apr,-4.0
+Alaska,1993,Apr,-0.89
+Alaska,1998,Apr,-0.78
+Alaska,2003,Apr,-2.33
+Alaska,2008,Apr,-5.0
+Alaska,2013,Apr,-8.5
+Alaska,2018,Apr,-2.89
+Alaska,2023,Apr,-8.5
 Alabama,1978,May,21.11
 Alabama,1983,May,20.33
 Alabama,1988,May,20.17
@@ -89,6 +1969,416 @@ Alabama,2008,May,21.28
 Alabama,2013,May,20.11
 Alabama,2018,May,23.56
 Alabama,2023,May,21.33
+Arizona,1978,May,17.78
+Arizona,1983,May,17.78
+Arizona,1988,May,18.56
+Arizona,1993,May,19.61
+Arizona,1998,May,17.22
+Arizona,2003,May,20.17
+Arizona,2008,May,17.56
+Arizona,2013,May,19.67
+Arizona,2018,May,20.28
+Arizona,2023,May,19.17
+Arkansas,1978,May,20.06
+Arkansas,1983,May,18.89
+Arkansas,1988,May,20.11
+Arkansas,1993,May,19.44
+Arkansas,1998,May,22.61
+Arkansas,2003,May,20.89
+Arkansas,2008,May,20.06
+Arkansas,2013,May,19.56
+Arkansas,2018,May,23.89
+Arkansas,2023,May,21.17
+California,1978,May,16.17
+California,1983,May,16.28
+California,1988,May,15.72
+California,1993,May,16.83
+California,1998,May,12.72
+California,2003,May,16.67
+California,2008,May,16.5
+California,2013,May,17.67
+California,2018,May,17.22
+California,2023,May,16.67
+Colorado,1978,May,9.94
+Colorado,1983,May,8.89
+Colorado,1988,May,11.33
+Colorado,1993,May,11.44
+Colorado,1998,May,12.44
+Colorado,2003,May,12.11
+Colorado,2008,May,10.56
+Colorado,2013,May,11.56
+Colorado,2018,May,14.0
+Colorado,2023,May,12.61
+Connecticut,1978,May,13.44
+Connecticut,1983,May,12.72
+Connecticut,1988,May,14.22
+Connecticut,1993,May,15.11
+Connecticut,1998,May,16.11
+Connecticut,2003,May,12.78
+Connecticut,2008,May,12.83
+Connecticut,2013,May,14.56
+Connecticut,2018,May,16.78
+Connecticut,2023,May,13.78
+Delaware,1978,May,15.67
+Delaware,1983,May,16.22
+Delaware,1988,May,16.67
+Delaware,1993,May,17.67
+Delaware,1998,May,18.22
+Delaware,2003,May,15.0
+Delaware,2008,May,16.06
+Delaware,2013,May,17.61
+Delaware,2018,May,20.17
+Delaware,2023,May,16.5
+Florida,1978,May,24.44
+Florida,1983,May,23.5
+Florida,1988,May,22.83
+Florida,1993,May,23.22
+Florida,1998,May,25.22
+Florida,2003,May,25.61
+Florida,2008,May,24.67
+Florida,2013,May,23.33
+Florida,2018,May,24.67
+Florida,2023,May,24.61
+Georgia,1978,May,21.28
+Georgia,1983,May,20.89
+Georgia,1988,May,20.28
+Georgia,1993,May,20.94
+Georgia,1998,May,23.39
+Georgia,2003,May,22.06
+Georgia,2008,May,21.28
+Georgia,2013,May,20.22
+Georgia,2018,May,23.17
+Georgia,2023,May,20.89
+Idaho,1978,May,7.94
+Idaho,1983,May,9.0
+Idaho,1988,May,9.83
+Idaho,1993,May,12.11
+Idaho,1998,May,9.44
+Idaho,2003,May,9.94
+Idaho,2008,May,9.39
+Idaho,2013,May,10.56
+Idaho,2018,May,12.22
+Idaho,2023,May,12.44
+Illinois,1978,May,16.0
+Illinois,1983,May,14.94
+Illinois,1988,May,18.11
+Illinois,1993,May,17.33
+Illinois,1998,May,19.67
+Illinois,2003,May,16.17
+Illinois,2008,May,15.0
+Illinois,2013,May,17.72
+Illinois,2018,May,21.5
+Illinois,2023,May,17.89
+Indiana,1978,May,15.28
+Indiana,1983,May,14.39
+Indiana,1988,May,17.28
+Indiana,1993,May,16.78
+Indiana,1998,May,19.11
+Indiana,2003,May,15.83
+Indiana,2008,May,14.5
+Indiana,2013,May,18.0
+Indiana,2018,May,20.94
+Indiana,2023,May,16.67
+Iowa,1978,May,15.33
+Iowa,1983,May,13.28
+Iowa,1988,May,18.44
+Iowa,1993,May,15.11
+Iowa,1998,May,18.33
+Iowa,2003,May,14.39
+Iowa,2008,May,14.11
+Iowa,2013,May,15.0
+Iowa,2018,May,19.44
+Iowa,2023,May,17.11
+Kansas,1978,May,16.61
+Kansas,1983,May,15.22
+Kansas,1988,May,19.0
+Kansas,1993,May,16.83
+Kansas,1998,May,19.94
+Kansas,2003,May,17.17
+Kansas,2008,May,17.22
+Kansas,2013,May,17.39
+Kansas,2018,May,21.72
+Kansas,2023,May,18.78
+Kentucky,1978,May,16.72
+Kentucky,1983,May,16.11
+Kentucky,1988,May,17.56
+Kentucky,1993,May,17.94
+Kentucky,1998,May,19.94
+Kentucky,2003,May,17.89
+Kentucky,2008,May,16.56
+Kentucky,2013,May,18.28
+Kentucky,2018,May,22.11
+Kentucky,2023,May,17.78
+Louisiana,1978,May,23.61
+Louisiana,1983,May,22.0
+Louisiana,1988,May,22.11
+Louisiana,1993,May,21.72
+Louisiana,1998,May,24.89
+Louisiana,2003,May,24.67
+Louisiana,2008,May,23.22
+Louisiana,2013,May,22.06
+Louisiana,2018,May,25.44
+Louisiana,2023,May,23.83
+Maine,1978,May,12.0
+Maine,1983,May,9.5
+Maine,1988,May,11.83
+Maine,1993,May,10.89
+Maine,1998,May,13.61
+Maine,2003,May,9.78
+Maine,2008,May,10.0
+Maine,2013,May,11.28
+Maine,2018,May,11.94
+Maine,2023,May,10.78
+Maryland,1978,May,15.78
+Maryland,1983,May,15.89
+Maryland,1988,May,16.94
+Maryland,1993,May,17.78
+Maryland,1998,May,18.5
+Maryland,2003,May,15.39
+Maryland,2008,May,15.78
+Maryland,2013,May,17.11
+Maryland,2018,May,20.44
+Maryland,2023,May,16.06
+Massachusetts,1978,May,13.39
+Massachusetts,1983,May,12.33
+Massachusetts,1988,May,13.56
+Massachusetts,1993,May,14.33
+Massachusetts,1998,May,15.39
+Massachusetts,2003,May,12.33
+Massachusetts,2008,May,12.33
+Massachusetts,2013,May,14.28
+Massachusetts,2018,May,16.0
+Massachusetts,2023,May,13.44
+Michigan,1978,May,13.22
+Michigan,1983,May,9.56
+Michigan,1988,May,14.06
+Michigan,1993,May,12.17
+Michigan,1998,May,15.78
+Michigan,2003,May,11.56
+Michigan,2008,May,10.67
+Michigan,2013,May,13.61
+Michigan,2018,May,15.67
+Michigan,2023,May,12.78
+Minnesota,1978,May,14.11
+Minnesota,1983,May,10.56
+Minnesota,1988,May,16.33
+Minnesota,1993,May,12.0
+Minnesota,1998,May,15.78
+Minnesota,2003,May,12.39
+Minnesota,2008,May,10.83
+Minnesota,2013,May,11.78
+Minnesota,2018,May,16.17
+Minnesota,2023,May,15.17
+Mississippi,1978,May,21.72
+Mississippi,1983,May,20.72
+Mississippi,1988,May,20.83
+Mississippi,1993,May,20.72
+Mississippi,1998,May,23.39
+Mississippi,2003,May,22.78
+Mississippi,2008,May,21.72
+Mississippi,2013,May,20.5
+Mississippi,2018,May,24.33
+Mississippi,2023,May,22.44
+Missouri,1978,May,17.17
+Missouri,1983,May,16.11
+Missouri,1988,May,19.0
+Missouri,1993,May,17.44
+Missouri,1998,May,20.67
+Missouri,2003,May,17.5
+Missouri,2008,May,16.89
+Missouri,2013,May,17.44
+Missouri,2018,May,22.5
+Missouri,2023,May,18.94
+Montana,1978,May,9.56
+Montana,1983,May,9.0
+Montana,1988,May,12.61
+Montana,1993,May,12.06
+Montana,1998,May,11.5
+Montana,2003,May,10.06
+Montana,2008,May,9.78
+Montana,2013,May,11.06
+Montana,2018,May,13.17
+Montana,2023,May,13.56
+Nebraska,1978,May,14.33
+Nebraska,1983,May,12.33
+Nebraska,1988,May,16.72
+Nebraska,1993,May,14.5
+Nebraska,1998,May,16.61
+Nebraska,2003,May,14.11
+Nebraska,2008,May,13.5
+Nebraska,2013,May,14.72
+Nebraska,2018,May,17.67
+Nebraska,2023,May,16.72
+Nevada,1978,May,11.56
+Nevada,1983,May,11.78
+Nevada,1988,May,12.61
+Nevada,1993,May,14.61
+Nevada,1998,May,10.0
+Nevada,2003,May,13.89
+Nevada,2008,May,12.33
+Nevada,2013,May,13.61
+Nevada,2018,May,14.28
+Nevada,2023,May,14.11
+New Hampshire,1978,May,12.72
+New Hampshire,1983,May,10.61
+New Hampshire,1988,May,12.67
+New Hampshire,1993,May,12.28
+New Hampshire,1998,May,14.22
+New Hampshire,2003,May,11.11
+New Hampshire,2008,May,10.78
+New Hampshire,2013,May,12.72
+New Hampshire,2018,May,14.06
+New Hampshire,2023,May,11.56
+New Jersey,1978,May,14.33
+New Jersey,1983,May,14.78
+New Jersey,1988,May,15.61
+New Jersey,1993,May,16.61
+New Jersey,1998,May,17.39
+New Jersey,2003,May,13.83
+New Jersey,2008,May,14.39
+New Jersey,2013,May,16.06
+New Jersey,2018,May,18.44
+New Jersey,2023,May,15.11
+New Mexico,1978,May,15.22
+New Mexico,1983,May,14.0
+New Mexico,1988,May,15.39
+New Mexico,1993,May,15.83
+New Mexico,1998,May,16.56
+New Mexico,2003,May,17.33
+New Mexico,2008,May,15.67
+New Mexico,2013,May,16.44
+New Mexico,2018,May,18.61
+New Mexico,2023,May,16.83
+New York,1978,May,13.06
+New York,1983,May,11.11
+New York,1988,May,13.56
+New York,1993,May,12.89
+New York,1998,May,15.78
+New York,2003,May,12.11
+New York,2008,May,10.94
+New York,2013,May,14.0
+New York,2018,May,15.56
+New York,2023,May,12.11
+North Carolina,1978,May,18.06
+North Carolina,1983,May,18.28
+North Carolina,1988,May,18.17
+North Carolina,1993,May,19.5
+North Carolina,1998,May,20.22
+North Carolina,2003,May,18.78
+North Carolina,2008,May,18.22
+North Carolina,2013,May,18.39
+North Carolina,2018,May,22.0
+North Carolina,2023,May,17.78
+North Dakota,1978,May,14.06
+North Dakota,1983,May,10.0
+North Dakota,1988,May,15.61
+North Dakota,1993,May,12.33
+North Dakota,1998,May,13.83
+North Dakota,2003,May,11.83
+North Dakota,2008,May,10.78
+North Dakota,2013,May,11.89
+North Dakota,2018,May,15.67
+North Dakota,2023,May,15.56
+Ohio,1978,May,14.83
+Ohio,1983,May,13.78
+Ohio,1988,May,16.17
+Ohio,1993,May,15.78
+Ohio,1998,May,18.33
+Ohio,2003,May,15.28
+Ohio,2008,May,13.89
+Ohio,2013,May,17.33
+Ohio,2018,May,20.0
+Ohio,2023,May,15.22
+Oklahoma,1978,May,19.61
+Oklahoma,1983,May,18.17
+Oklahoma,1988,May,20.22
+Oklahoma,1993,May,18.94
+Oklahoma,1998,May,22.22
+Oklahoma,2003,May,20.39
+Oklahoma,2008,May,20.28
+Oklahoma,2013,May,19.44
+Oklahoma,2018,May,23.94
+Oklahoma,2023,May,20.67
+Oregon,1978,May,9.0
+Oregon,1983,May,11.06
+Oregon,1988,May,10.06
+Oregon,1993,May,12.5
+Oregon,1998,May,8.94
+Oregon,2003,May,10.67
+Oregon,2008,May,10.89
+Oregon,2013,May,11.39
+Oregon,2018,May,13.0
+Oregon,2023,May,12.94
+Pennsylvania,1978,May,13.61
+Pennsylvania,1983,May,12.72
+Pennsylvania,1988,May,14.61
+Pennsylvania,1993,May,14.83
+Pennsylvania,1998,May,16.89
+Pennsylvania,2003,May,13.39
+Pennsylvania,2008,May,12.22
+Pennsylvania,2013,May,14.94
+Pennsylvania,2018,May,17.78
+Pennsylvania,2023,May,13.39
+Rhode Island,1978,May,13.33
+Rhode Island,1983,May,12.44
+Rhode Island,1988,May,13.67
+Rhode Island,1993,May,15.0
+Rhode Island,1998,May,15.44
+Rhode Island,2003,May,12.22
+Rhode Island,2008,May,13.0
+Rhode Island,2013,May,14.72
+Rhode Island,2018,May,16.33
+Rhode Island,2023,May,13.44
+South Carolina,1978,May,20.61
+South Carolina,1983,May,20.61
+South Carolina,1988,May,20.11
+South Carolina,1993,May,21.11
+South Carolina,1998,May,22.72
+South Carolina,2003,May,21.22
+South Carolina,2008,May,20.56
+South Carolina,2013,May,19.94
+South Carolina,2018,May,23.22
+South Carolina,2023,May,19.56
+South Dakota,1978,May,13.83
+South Dakota,1983,May,11.33
+South Dakota,1988,May,16.22
+South Dakota,1993,May,13.39
+South Dakota,1998,May,15.17
+South Dakota,2003,May,12.78
+South Dakota,2008,May,11.67
+South Dakota,2013,May,13.28
+South Dakota,2018,May,16.72
+South Dakota,2023,May,16.22
+Tennessee,1978,May,18.22
+Tennessee,1983,May,17.44
+Tennessee,1988,May,18.06
+Tennessee,1993,May,18.56
+Tennessee,1998,May,20.83
+Tennessee,2003,May,19.17
+Tennessee,2008,May,18.22
+Tennessee,2013,May,18.33
+Tennessee,2018,May,22.39
+Tennessee,2023,May,18.94
+Texas,1978,May,23.33
+Texas,1983,May,21.5
+Texas,1988,May,21.83
+Texas,1993,May,21.44
+Texas,1998,May,25.11
+Texas,2003,May,24.33
+Texas,2008,May,23.5
+Texas,2013,May,22.5
+Texas,2018,May,25.56
+Texas,2023,May,23.17
+Utah,1978,May,11.28
+Utah,1983,May,10.72
+Utah,1988,May,12.67
+Utah,1993,May,14.0
+Utah,1998,May,12.06
+Utah,2003,May,14.11
+Utah,2008,May,11.56
+Utah,2013,May,13.33
+Utah,2018,May,14.61
+Utah,2023,May,14.33
 Vermont,1978,May,12.94
 Vermont,1983,May,10.17
 Vermont,1988,May,12.72
@@ -99,6 +2389,66 @@ Vermont,2008,May,10.0
 Vermont,2013,May,12.83
 Vermont,2018,May,13.61
 Vermont,2023,May,10.89
+Virginia,1978,May,16.22
+Virginia,1983,May,16.22
+Virginia,1988,May,16.83
+Virginia,1993,May,17.89
+Virginia,1998,May,18.61
+Virginia,2003,May,16.5
+Virginia,2008,May,16.28
+Virginia,2013,May,16.94
+Virginia,2018,May,20.94
+Virginia,2023,May,16.39
+Washington,1978,May,9.89
+Washington,1983,May,12.22
+Washington,1988,May,10.89
+Washington,1993,May,13.89
+Washington,1998,May,11.61
+Washington,2003,May,10.72
+Washington,2008,May,11.72
+Washington,2013,May,11.94
+Washington,2018,May,14.22
+Washington,2023,May,14.56
+West Virginia,1978,May,14.67
+West Virginia,1983,May,14.22
+West Virginia,1988,May,15.39
+West Virginia,1993,May,16.0
+West Virginia,1998,May,17.44
+West Virginia,2003,May,15.44
+West Virginia,2008,May,13.94
+West Virginia,2013,May,15.83
+West Virginia,2018,May,19.94
+West Virginia,2023,May,14.67
+Wisconsin,1978,May,13.61
+Wisconsin,1983,May,9.94
+Wisconsin,1988,May,15.28
+Wisconsin,1993,May,12.67
+Wisconsin,1998,May,16.06
+Wisconsin,2003,May,12.11
+Wisconsin,2008,May,11.11
+Wisconsin,2013,May,12.89
+Wisconsin,2018,May,16.67
+Wisconsin,2023,May,13.78
+Wyoming,1978,May,7.89
+Wyoming,1983,May,6.94
+Wyoming,1988,May,10.44
+Wyoming,1993,May,10.44
+Wyoming,1998,May,10.22
+Wyoming,2003,May,9.89
+Wyoming,2008,May,8.22
+Wyoming,2013,May,10.22
+Wyoming,2018,May,11.61
+Wyoming,2023,May,11.78
+Alaska,1978,May,4.17
+Alaska,1983,May,4.0
+Alaska,1988,May,4.61
+Alaska,1993,May,5.67
+Alaska,1998,May,4.0
+Alaska,2003,May,3.56
+Alaska,2008,May,3.94
+Alaska,2013,May,1.78
+Alaska,2018,May,4.11
+Alaska,2023,May,4.33
 Alabama,1978,Jun,25.56
 Alabama,1983,Jun,23.61
 Alabama,1988,Jun,25.06
@@ -109,6 +2459,416 @@ Alabama,2008,Jun,25.94
 Alabama,2013,Jun,25.56
 Alabama,2018,Jun,26.28
 Alabama,2023,Jun,24.89
+Arizona,1978,Jun,24.61
+Arizona,1983,Jun,22.44
+Arizona,1988,Jun,24.56
+Arizona,1993,Jun,23.44
+Arizona,1998,Jun,22.11
+Arizona,2003,Jun,24.61
+Arizona,2008,Jun,25.17
+Arizona,2013,Jun,26.39
+Arizona,2018,Jun,25.89
+Arizona,2023,Jun,22.44
+Arkansas,1978,Jun,24.67
+Arkansas,1983,Jun,23.33
+Arkansas,1988,Jun,24.78
+Arkansas,1993,Jun,24.67
+Arkansas,1998,Jun,26.61
+Arkansas,2003,Jun,22.83
+Arkansas,2008,Jun,25.39
+Arkansas,2013,Jun,25.06
+Arkansas,2018,Jun,26.72
+Arkansas,2023,Jun,25.11
+California,1978,Jun,20.56
+California,1983,Jun,19.72
+California,1988,Jun,20.11
+California,1993,Jun,20.0
+California,1998,Jun,18.44
+California,2003,Jun,21.78
+California,2008,Jun,21.72
+California,2013,Jun,22.44
+California,2018,Jun,21.89
+California,2023,Jun,19.28
+Colorado,1978,Jun,16.78
+Colorado,1983,Jun,14.61
+Colorado,1988,Jun,18.39
+Colorado,1993,Jun,15.67
+Colorado,1998,Jun,15.22
+Colorado,2003,Jun,15.61
+Colorado,2008,Jun,16.44
+Colorado,2013,Jun,18.67
+Colorado,2018,Jun,19.17
+Colorado,2023,Jun,15.56
+Connecticut,1978,Jun,18.44
+Connecticut,1983,Jun,19.56
+Connecticut,1988,Jun,18.56
+Connecticut,1993,Jun,19.06
+Connecticut,1998,Jun,18.44
+Connecticut,2003,Jun,18.17
+Connecticut,2008,Jun,20.33
+Connecticut,2013,Jun,19.83
+Connecticut,2018,Jun,19.11
+Connecticut,2023,Jun,18.56
+Delaware,1978,Jun,21.56
+Delaware,1983,Jun,21.72
+Delaware,1988,Jun,21.94
+Delaware,1993,Jun,21.89
+Delaware,1998,Jun,21.83
+Delaware,2003,Jun,21.11
+Delaware,2008,Jun,24.0
+Delaware,2013,Jun,23.06
+Delaware,2018,Jun,22.56
+Delaware,2023,Jun,21.17
+Florida,1978,Jun,26.83
+Florida,1983,Jun,26.0
+Florida,1988,Jun,26.22
+Florida,1993,Jun,26.89
+Florida,1998,Jun,28.94
+Florida,2003,Jun,26.72
+Florida,2008,Jun,27.17
+Florida,2013,Jun,27.28
+Florida,2018,Jun,27.5
+Florida,2023,Jun,26.94
+Georgia,1978,Jun,25.56
+Georgia,1983,Jun,23.72
+Georgia,1988,Jun,24.67
+Georgia,1993,Jun,25.61
+Georgia,1998,Jun,27.17
+Georgia,2003,Jun,24.5
+Georgia,2008,Jun,26.33
+Georgia,2013,Jun,25.44
+Georgia,2018,Jun,26.28
+Georgia,2023,Jun,24.33
+Idaho,1978,Jun,13.56
+Idaho,1983,Jun,13.11
+Idaho,1988,Jun,16.61
+Idaho,1993,Jun,12.0
+Idaho,1998,Jun,12.0
+Idaho,2003,Jun,15.06
+Idaho,2008,Jun,13.5
+Idaho,2013,Jun,15.17
+Idaho,2018,Jun,14.28
+Idaho,2023,Jun,14.0
+Illinois,1978,Jun,22.22
+Illinois,1983,Jun,22.28
+Illinois,1988,Jun,23.11
+Illinois,1993,Jun,21.39
+Illinois,1998,Jun,22.11
+Illinois,2003,Jun,19.94
+Illinois,2008,Jun,22.89
+Illinois,2013,Jun,21.94
+Illinois,2018,Jun,23.83
+Illinois,2023,Jun,22.0
+Indiana,1978,Jun,21.67
+Indiana,1983,Jun,21.67
+Indiana,1988,Jun,22.28
+Indiana,1993,Jun,20.78
+Indiana,1998,Jun,21.72
+Indiana,2003,Jun,19.5
+Indiana,2008,Jun,22.33
+Indiana,2013,Jun,21.56
+Indiana,2018,Jun,23.0
+Indiana,2023,Jun,20.67
+Iowa,1978,Jun,21.0
+Iowa,1983,Jun,20.89
+Iowa,1988,Jun,23.22
+Iowa,1993,Jun,19.39
+Iowa,1998,Jun,19.5
+Iowa,2003,Jun,19.61
+Iowa,2008,Jun,20.72
+Iowa,2013,Jun,20.5
+Iowa,2018,Jun,22.83
+Iowa,2023,Jun,21.83
+Kansas,1978,Jun,23.5
+Kansas,1983,Jun,21.28
+Kansas,1988,Jun,25.11
+Kansas,1993,Jun,22.0
+Kansas,1998,Jun,23.11
+Kansas,2003,Jun,21.33
+Kansas,2008,Jun,23.22
+Kansas,2013,Jun,24.0
+Kansas,2018,Jun,25.67
+Kansas,2023,Jun,23.0
+Kentucky,1978,Jun,22.56
+Kentucky,1983,Jun,21.83
+Kentucky,1988,Jun,22.44
+Kentucky,1993,Jun,22.11
+Kentucky,1998,Jun,23.06
+Kentucky,2003,Jun,20.39
+Kentucky,2008,Jun,23.5
+Kentucky,2013,Jun,22.72
+Kentucky,2018,Jun,24.17
+Kentucky,2023,Jun,21.22
+Louisiana,1978,Jun,26.72
+Louisiana,1983,Jun,25.06
+Louisiana,1988,Jun,25.89
+Louisiana,1993,Jun,26.56
+Louisiana,1998,Jun,28.56
+Louisiana,2003,Jun,26.44
+Louisiana,2008,Jun,27.33
+Louisiana,2013,Jun,27.17
+Louisiana,2018,Jun,27.83
+Louisiana,2023,Jun,27.78
+Maine,1978,Jun,15.72
+Maine,1983,Jun,16.61
+Maine,1988,Jun,15.33
+Maine,1993,Jun,15.44
+Maine,1998,Jun,15.39
+Maine,2003,Jun,16.22
+Maine,2008,Jun,16.22
+Maine,2013,Jun,16.0
+Maine,2018,Jun,15.0
+Maine,2023,Jun,15.5
+Maryland,1978,Jun,21.33
+Maryland,1983,Jun,21.5
+Maryland,1988,Jun,21.78
+Maryland,1993,Jun,21.67
+Maryland,1998,Jun,21.44
+Maryland,2003,Jun,20.83
+Maryland,2008,Jun,23.5
+Maryland,2013,Jun,22.61
+Maryland,2018,Jun,22.28
+Maryland,2023,Jun,20.67
+Massachusetts,1978,Jun,18.06
+Massachusetts,1983,Jun,19.06
+Massachusetts,1988,Jun,17.83
+Massachusetts,1993,Jun,18.28
+Massachusetts,1998,Jun,17.89
+Massachusetts,2003,Jun,17.78
+Massachusetts,2008,Jun,19.67
+Massachusetts,2013,Jun,19.44
+Massachusetts,2018,Jun,18.22
+Massachusetts,2023,Jun,18.11
+Michigan,1978,Jun,16.89
+Michigan,1983,Jun,17.72
+Michigan,1988,Jun,18.83
+Michigan,1993,Jun,16.33
+Michigan,1998,Jun,17.67
+Michigan,2003,Jun,16.72
+Michigan,2008,Jun,18.22
+Michigan,2013,Jun,17.67
+Michigan,2018,Jun,18.44
+Michigan,2023,Jun,18.17
+Minnesota,1978,Jun,17.61
+Minnesota,1983,Jun,17.67
+Minnesota,1988,Jun,21.33
+Minnesota,1993,Jun,15.94
+Minnesota,1998,Jun,16.72
+Minnesota,2003,Jun,17.56
+Minnesota,2008,Jun,17.17
+Minnesota,2013,Jun,17.72
+Minnesota,2018,Jun,19.44
+Minnesota,2023,Jun,20.5
+Mississippi,1978,Jun,25.89
+Mississippi,1983,Jun,24.06
+Mississippi,1988,Jun,25.39
+Mississippi,1993,Jun,25.72
+Mississippi,1998,Jun,27.56
+Mississippi,2003,Jun,24.78
+Mississippi,2008,Jun,26.22
+Mississippi,2013,Jun,26.06
+Mississippi,2018,Jun,27.0
+Mississippi,2023,Jun,26.11
+Missouri,1978,Jun,22.89
+Missouri,1983,Jun,22.06
+Missouri,1988,Jun,24.0
+Missouri,1993,Jun,22.22
+Missouri,1998,Jun,23.11
+Missouri,2003,Jun,20.67
+Missouri,2008,Jun,23.06
+Missouri,2013,Jun,22.78
+Missouri,2018,Jun,25.22
+Missouri,2023,Jun,23.28
+Montana,1978,Jun,14.78
+Montana,1983,Jun,14.22
+Montana,1988,Jun,19.94
+Montana,1993,Jun,13.22
+Montana,1998,Jun,12.44
+Montana,2003,Jun,14.67
+Montana,2008,Jun,13.72
+Montana,2013,Jun,15.0
+Montana,2018,Jun,15.11
+Montana,2023,Jun,15.78
+Nebraska,1978,Jun,20.78
+Nebraska,1983,Jun,19.06
+Nebraska,1988,Jun,23.78
+Nebraska,1993,Jun,18.5
+Nebraska,1998,Jun,18.33
+Nebraska,2003,Jun,18.94
+Nebraska,2008,Jun,19.72
+Nebraska,2013,Jun,20.44
+Nebraska,2018,Jun,22.33
+Nebraska,2023,Jun,21.0
+Nevada,1978,Jun,17.5
+Nevada,1983,Jun,17.0
+Nevada,1988,Jun,19.22
+Nevada,1993,Jun,16.11
+Nevada,1998,Jun,15.39
+Nevada,2003,Jun,19.89
+Nevada,2008,Jun,18.56
+Nevada,2013,Jun,20.33
+Nevada,2018,Jun,19.89
+Nevada,2023,Jun,16.61
+New Hampshire,1978,Jun,16.44
+New Hampshire,1983,Jun,17.44
+New Hampshire,1988,Jun,15.83
+New Hampshire,1993,Jun,16.33
+New Hampshire,1998,Jun,16.33
+New Hampshire,2003,Jun,16.94
+New Hampshire,2008,Jun,17.72
+New Hampshire,2013,Jun,17.33
+New Hampshire,2018,Jun,16.33
+New Hampshire,2023,Jun,16.56
+New Jersey,1978,Jun,20.22
+New Jersey,1983,Jun,20.78
+New Jersey,1988,Jun,20.44
+New Jersey,1993,Jun,20.72
+New Jersey,1998,Jun,20.28
+New Jersey,2003,Jun,19.67
+New Jersey,2008,Jun,22.78
+New Jersey,2013,Jun,21.78
+New Jersey,2018,Jun,21.17
+New Jersey,2023,Jun,19.83
+New Mexico,1978,Jun,21.44
+New Mexico,1983,Jun,19.17
+New Mexico,1988,Jun,20.72
+New Mexico,1993,Jun,20.67
+New Mexico,1998,Jun,21.06
+New Mexico,2003,Jun,20.67
+New Mexico,2008,Jun,22.17
+New Mexico,2013,Jun,23.39
+New Mexico,2018,Jun,23.5
+New Mexico,2023,Jun,20.89
+New York,1978,Jun,17.0
+New York,1983,Jun,18.0
+New York,1988,Jun,16.56
+New York,1993,Jun,16.89
+New York,1998,Jun,17.61
+New York,2003,Jun,17.0
+New York,2008,Jun,19.22
+New York,2013,Jun,17.78
+New York,2018,Jun,17.44
+New York,2023,Jun,17.28
+North Carolina,1978,Jun,23.0
+North Carolina,1983,Jun,22.06
+North Carolina,1988,Jun,22.22
+North Carolina,1993,Jun,23.56
+North Carolina,1998,Jun,24.33
+North Carolina,2003,Jun,22.5
+North Carolina,2008,Jun,25.06
+North Carolina,2013,Jun,23.5
+North Carolina,2018,Jun,24.89
+North Carolina,2023,Jun,21.56
+North Dakota,1978,Jun,17.28
+North Dakota,1983,Jun,17.11
+North Dakota,1988,Jun,23.39
+North Dakota,1993,Jun,14.89
+North Dakota,1998,Jun,15.44
+North Dakota,2003,Jun,16.67
+North Dakota,2008,Jun,16.0
+North Dakota,2013,Jun,17.39
+North Dakota,2018,Jun,19.67
+North Dakota,2023,Jun,20.67
+Ohio,1978,Jun,20.67
+Ohio,1983,Jun,20.61
+Ohio,1988,Jun,20.67
+Ohio,1993,Jun,20.0
+Ohio,1998,Jun,20.61
+Ohio,2003,Jun,18.89
+Ohio,2008,Jun,21.56
+Ohio,2013,Jun,20.83
+Ohio,2018,Jun,21.89
+Ohio,2023,Jun,19.39
+Oklahoma,1978,Jun,25.11
+Oklahoma,1983,Jun,22.78
+Oklahoma,1988,Jun,25.33
+Oklahoma,1993,Jun,24.5
+Oklahoma,1998,Jun,26.61
+Oklahoma,2003,Jun,22.94
+Oklahoma,2008,Jun,25.67
+Oklahoma,2013,Jun,25.61
+Oklahoma,2018,Jun,27.0
+Oklahoma,2023,Jun,24.89
+Oregon,1978,Jun,14.5
+Oregon,1983,Jun,13.22
+Oregon,1988,Jun,14.67
+Oregon,1993,Jun,13.0
+Oregon,1998,Jun,13.67
+Oregon,2003,Jun,16.22
+Oregon,2008,Jun,13.67
+Oregon,2013,Jun,15.22
+Oregon,2018,Jun,14.72
+Oregon,2023,Jun,15.11
+Pennsylvania,1978,Jun,18.39
+Pennsylvania,1983,Jun,19.0
+Pennsylvania,1988,Jun,18.39
+Pennsylvania,1993,Jun,18.78
+Pennsylvania,1998,Jun,18.67
+Pennsylvania,2003,Jun,17.78
+Pennsylvania,2008,Jun,20.44
+Pennsylvania,2013,Jun,19.67
+Pennsylvania,2018,Jun,19.22
+Pennsylvania,2023,Jun,18.0
+Rhode Island,1978,Jun,18.56
+Rhode Island,1983,Jun,19.61
+Rhode Island,1988,Jun,18.22
+Rhode Island,1993,Jun,19.06
+Rhode Island,1998,Jun,18.28
+Rhode Island,2003,Jun,17.89
+Rhode Island,2008,Jun,20.56
+Rhode Island,2013,Jun,20.0
+Rhode Island,2018,Jun,18.83
+Rhode Island,2023,Jun,18.28
+South Carolina,1978,Jun,25.11
+South Carolina,1983,Jun,23.89
+South Carolina,1988,Jun,24.0
+South Carolina,1993,Jun,25.56
+South Carolina,1998,Jun,26.78
+South Carolina,2003,Jun,24.44
+South Carolina,2008,Jun,26.72
+South Carolina,2013,Jun,25.22
+South Carolina,2018,Jun,26.78
+South Carolina,2023,Jun,23.39
+South Dakota,1978,Jun,18.89
+South Dakota,1983,Jun,18.0
+South Dakota,1988,Jun,24.06
+South Dakota,1993,Jun,16.44
+South Dakota,1998,Jun,16.5
+South Dakota,2003,Jun,17.72
+South Dakota,2008,Jun,17.67
+South Dakota,2013,Jun,18.5
+South Dakota,2018,Jun,20.72
+South Dakota,2023,Jun,20.94
+Tennessee,1978,Jun,23.28
+Tennessee,1983,Jun,22.11
+Tennessee,1988,Jun,23.17
+Tennessee,1993,Jun,23.06
+Tennessee,1998,Jun,24.33
+Tennessee,2003,Jun,21.44
+Tennessee,2008,Jun,24.11
+Tennessee,2013,Jun,23.44
+Tennessee,2018,Jun,24.72
+Tennessee,2023,Jun,22.17
+Texas,1978,Jun,26.78
+Texas,1983,Jun,24.83
+Texas,1988,Jun,25.72
+Texas,1993,Jun,26.11
+Texas,1998,Jun,28.83
+Texas,2003,Jun,25.83
+Texas,2008,Jun,28.28
+Texas,2013,Jun,27.67
+Texas,2018,Jun,28.83
+Texas,2023,Jun,27.94
+Utah,1978,Jun,18.11
+Utah,1983,Jun,16.83
+Utah,1988,Jun,20.33
+Utah,1993,Jun,16.33
+Utah,1998,Jun,15.56
+Utah,2003,Jun,18.89
+Utah,2008,Jun,18.33
+Utah,2013,Jun,20.67
+Utah,2018,Jun,20.61
+Utah,2023,Jun,17.06
 Vermont,1978,Jun,16.17
 Vermont,1983,Jun,17.0
 Vermont,1988,Jun,15.06
@@ -119,6 +2879,66 @@ Vermont,2008,Jun,17.61
 Vermont,2013,Jun,16.67
 Vermont,2018,Jun,15.61
 Vermont,2023,Jun,16.44
+Virginia,1978,Jun,21.5
+Virginia,1983,Jun,21.11
+Virginia,1988,Jun,21.0
+Virginia,1993,Jun,21.67
+Virginia,1998,Jun,22.06
+Virginia,2003,Jun,20.5
+Virginia,2008,Jun,23.33
+Virginia,2013,Jun,22.33
+Virginia,2018,Jun,22.83
+Virginia,2023,Jun,20.06
+Washington,1978,Jun,15.61
+Washington,1983,Jun,13.78
+Washington,1988,Jun,14.06
+Washington,1993,Jun,13.94
+Washington,1998,Jun,14.89
+Washington,2003,Jun,16.0
+Washington,2008,Jun,13.44
+Washington,2013,Jun,14.83
+Washington,2018,Jun,14.56
+Washington,2023,Jun,15.94
+West Virginia,1978,Jun,19.78
+West Virginia,1983,Jun,19.61
+West Virginia,1988,Jun,19.28
+West Virginia,1993,Jun,19.78
+West Virginia,1998,Jun,20.0
+West Virginia,2003,Jun,18.39
+West Virginia,2008,Jun,20.94
+West Virginia,2013,Jun,20.67
+West Virginia,2018,Jun,21.11
+West Virginia,2023,Jun,18.22
+Wisconsin,1978,Jun,17.5
+Wisconsin,1983,Jun,18.06
+Wisconsin,1988,Jun,20.11
+Wisconsin,1993,Jun,16.39
+Wisconsin,1998,Jun,17.5
+Wisconsin,2003,Jun,17.28
+Wisconsin,2008,Jun,18.0
+Wisconsin,2013,Jun,17.72
+Wisconsin,2018,Jun,19.17
+Wisconsin,2023,Jun,19.22
+Wyoming,1978,Jun,14.22
+Wyoming,1983,Jun,13.39
+Wyoming,1988,Jun,19.11
+Wyoming,1993,Jun,12.39
+Wyoming,1998,Jun,11.33
+Wyoming,2003,Jun,13.39
+Wyoming,2008,Jun,13.56
+Wyoming,2013,Jun,15.94
+Wyoming,2018,Jun,15.78
+Wyoming,2023,Jun,14.06
+Alaska,1978,Jun,8.28
+Alaska,1983,Jun,10.11
+Alaska,1988,Jun,10.11
+Alaska,1993,Jun,10.83
+Alaska,1998,Jun,9.94
+Alaska,2003,Jun,10.67
+Alaska,2008,Jun,9.33
+Alaska,2013,Jun,12.17
+Alaska,2018,Jun,10.0
+Alaska,2023,Jun,9.94
 Alabama,1978,Jul,27.06
 Alabama,1983,Jul,27.0
 Alabama,1988,Jul,26.06
@@ -129,6 +2949,416 @@ Alabama,2008,Jul,26.67
 Alabama,2013,Jul,25.39
 Alabama,2018,Jul,27.06
 Alabama,2023,Jul,27.39
+Arizona,1978,Jul,27.0
+Arizona,1983,Jul,26.28
+Arizona,1988,Jul,27.17
+Arizona,1993,Jul,25.72
+Arizona,1998,Jul,27.33
+Arizona,2003,Jul,28.78
+Arizona,2008,Jul,26.89
+Arizona,2013,Jul,27.22
+Arizona,2018,Jul,27.94
+Arizona,2023,Jul,29.67
+Arkansas,1978,Jul,28.17
+Arkansas,1983,Jul,26.94
+Arkansas,1988,Jul,26.44
+Arkansas,1993,Jul,28.44
+Arkansas,1998,Jul,28.89
+Arkansas,2003,Jul,26.67
+Arkansas,2008,Jul,26.94
+Arkansas,2013,Jul,25.56
+Arkansas,2018,Jul,27.67
+Arkansas,2023,Jul,27.22
+California,1978,Jul,23.78
+California,1983,Jul,22.17
+California,1988,Jul,25.33
+California,1993,Jul,22.33
+California,1998,Jul,24.44
+California,2003,Jul,25.94
+California,2008,Jul,24.72
+California,2013,Jul,25.56
+California,2018,Jul,26.44
+California,2023,Jul,26.06
+Colorado,1978,Jul,20.33
+Colorado,1983,Jul,19.89
+Colorado,1988,Jul,19.94
+Colorado,1993,Jul,18.89
+Colorado,1998,Jul,20.56
+Colorado,2003,Jul,22.44
+Colorado,2008,Jul,20.67
+Colorado,2013,Jul,20.28
+Colorado,2018,Jul,21.11
+Colorado,2023,Jul,20.72
+Connecticut,1978,Jul,20.5
+Connecticut,1983,Jul,22.28
+Connecticut,1988,Jul,22.83
+Connecticut,1993,Jul,22.5
+Connecticut,1998,Jul,21.78
+Connecticut,2003,Jul,21.94
+Connecticut,2008,Jul,22.94
+Connecticut,2013,Jul,24.39
+Connecticut,2018,Jul,23.33
+Connecticut,2023,Jul,23.83
+Delaware,1978,Jul,23.06
+Delaware,1983,Jul,25.0
+Delaware,1988,Jul,25.72
+Delaware,1993,Jul,25.94
+Delaware,1998,Jul,24.44
+Delaware,2003,Jul,24.61
+Delaware,2008,Jul,25.22
+Delaware,2013,Jul,26.22
+Delaware,2018,Jul,25.11
+Delaware,2023,Jul,25.83
+Florida,1978,Jul,27.33
+Florida,1983,Jul,27.89
+Florida,1988,Jul,27.22
+Florida,1993,Jul,28.06
+Florida,1998,Jul,28.67
+Florida,2003,Jul,27.44
+Florida,2008,Jul,27.33
+Florida,2013,Jul,27.11
+Florida,2018,Jul,28.0
+Florida,2023,Jul,28.94
+Georgia,1978,Jul,26.78
+Georgia,1983,Jul,27.22
+Georgia,1988,Jul,26.33
+Georgia,1993,Jul,28.39
+Georgia,1998,Jul,28.0
+Georgia,2003,Jul,25.94
+Georgia,2008,Jul,26.5
+Georgia,2013,Jul,25.67
+Georgia,2018,Jul,26.78
+Georgia,2023,Jul,27.56
+Idaho,1978,Jul,17.89
+Idaho,1983,Jul,16.56
+Idaho,1988,Jul,19.39
+Idaho,1993,Jul,13.44
+Idaho,1998,Jul,20.61
+Idaho,2003,Jul,21.33
+Idaho,2008,Jul,19.17
+Idaho,2013,Jul,20.89
+Idaho,2018,Jul,20.22
+Idaho,2023,Jul,20.33
+Illinois,1978,Jul,23.94
+Illinois,1983,Jul,26.17
+Illinois,1988,Jul,25.28
+Illinois,1993,Jul,24.78
+Illinois,1998,Jul,24.11
+Illinois,2003,Jul,23.78
+Illinois,2008,Jul,23.61
+Illinois,2013,Jul,22.83
+Illinois,2018,Jul,23.89
+Illinois,2023,Jul,24.11
+Indiana,1978,Jul,23.17
+Indiana,1983,Jul,25.39
+Indiana,1988,Jul,24.67
+Indiana,1993,Jul,24.56
+Indiana,1998,Jul,23.11
+Indiana,2003,Jul,22.78
+Indiana,2008,Jul,22.94
+Indiana,2013,Jul,22.39
+Indiana,2018,Jul,23.39
+Indiana,2023,Jul,23.44
+Iowa,1978,Jul,22.61
+Iowa,1983,Jul,25.11
+Iowa,1988,Jul,24.17
+Iowa,1993,Jul,22.17
+Iowa,1998,Jul,23.22
+Iowa,2003,Jul,22.83
+Iowa,2008,Jul,22.83
+Iowa,2013,Jul,22.39
+Iowa,2018,Jul,22.83
+Iowa,2023,Jul,22.22
+Kansas,1978,Jul,27.33
+Kansas,1983,Jul,27.39
+Kansas,1988,Jul,25.61
+Kansas,1993,Jul,25.33
+Kansas,1998,Jul,26.44
+Kansas,2003,Jul,27.67
+Kansas,2008,Jul,25.89
+Kansas,2013,Jul,25.11
+Kansas,2018,Jul,25.94
+Kansas,2023,Jul,25.72
+Kentucky,1978,Jul,24.5
+Kentucky,1983,Jul,25.61
+Kentucky,1988,Jul,25.22
+Kentucky,1993,Jul,26.28
+Kentucky,1998,Jul,24.44
+Kentucky,2003,Jul,24.0
+Kentucky,2008,Jul,24.0
+Kentucky,2013,Jul,23.33
+Kentucky,2018,Jul,24.78
+Kentucky,2023,Jul,24.78
+Louisiana,1978,Jul,28.33
+Louisiana,1983,Jul,27.94
+Louisiana,1988,Jul,27.44
+Louisiana,1993,Jul,28.22
+Louisiana,1998,Jul,29.67
+Louisiana,2003,Jul,27.39
+Louisiana,2008,Jul,28.28
+Louisiana,2013,Jul,27.06
+Louisiana,2018,Jul,28.61
+Louisiana,2023,Jul,29.39
+Maine,1978,Jul,18.56
+Maine,1983,Jul,19.0
+Maine,1988,Jul,19.78
+Maine,1993,Jul,18.56
+Maine,1998,Jul,18.94
+Maine,2003,Jul,18.83
+Maine,2008,Jul,19.83
+Maine,2013,Jul,20.17
+Maine,2018,Jul,20.44
+Maine,2023,Jul,21.11
+Maryland,1978,Jul,22.83
+Maryland,1983,Jul,24.72
+Maryland,1988,Jul,25.56
+Maryland,1993,Jul,25.72
+Maryland,1998,Jul,24.11
+Maryland,2003,Jul,24.17
+Maryland,2008,Jul,24.56
+Maryland,2013,Jul,25.44
+Maryland,2018,Jul,24.56
+Maryland,2023,Jul,25.61
+Massachusetts,1978,Jul,20.33
+Massachusetts,1983,Jul,21.89
+Massachusetts,1988,Jul,22.17
+Massachusetts,1993,Jul,21.56
+Massachusetts,1998,Jul,21.33
+Massachusetts,2003,Jul,21.67
+Massachusetts,2008,Jul,22.44
+Massachusetts,2013,Jul,23.89
+Massachusetts,2018,Jul,22.94
+Massachusetts,2023,Jul,23.33
+Michigan,1978,Jul,19.11
+Michigan,1983,Jul,22.33
+Michigan,1988,Jul,21.94
+Michigan,1993,Jul,20.61
+Michigan,1998,Jul,20.44
+Michigan,2003,Jul,19.89
+Michigan,2008,Jul,20.17
+Michigan,2013,Jul,20.44
+Michigan,2018,Jul,21.39
+Michigan,2023,Jul,20.22
+Minnesota,1978,Jul,19.78
+Minnesota,1983,Jul,22.67
+Minnesota,1988,Jul,22.5
+Minnesota,1993,Jul,18.89
+Minnesota,1998,Jul,20.56
+Minnesota,2003,Jul,20.44
+Minnesota,2008,Jul,20.22
+Minnesota,2013,Jul,20.56
+Minnesota,2018,Jul,20.94
+Minnesota,2023,Jul,19.56
+Mississippi,1978,Jul,27.72
+Mississippi,1983,Jul,27.28
+Mississippi,1988,Jul,26.78
+Mississippi,1993,Jul,27.94
+Mississippi,1998,Jul,28.28
+Mississippi,2003,Jul,26.5
+Mississippi,2008,Jul,27.33
+Mississippi,2013,Jul,26.0
+Mississippi,2018,Jul,27.67
+Mississippi,2023,Jul,28.17
+Missouri,1978,Jul,26.0
+Missouri,1983,Jul,26.56
+Missouri,1988,Jul,25.17
+Missouri,1993,Jul,25.78
+Missouri,1998,Jul,25.56
+Missouri,2003,Jul,25.61
+Missouri,2008,Jul,24.78
+Missouri,2013,Jul,23.89
+Missouri,2018,Jul,25.67
+Missouri,2023,Jul,25.5
+Montana,1978,Jul,17.5
+Montana,1983,Jul,18.44
+Montana,1988,Jul,19.94
+Montana,1993,Jul,14.0
+Montana,1998,Jul,20.61
+Montana,2003,Jul,21.28
+Montana,2008,Jul,19.17
+Montana,2013,Jul,19.72
+Montana,2018,Jul,19.33
+Montana,2023,Jul,19.67
+Nebraska,1978,Jul,23.67
+Nebraska,1983,Jul,24.61
+Nebraska,1988,Jul,23.44
+Nebraska,1993,Jul,21.56
+Nebraska,1998,Jul,24.06
+Nebraska,2003,Jul,24.67
+Nebraska,2008,Jul,23.89
+Nebraska,2013,Jul,22.89
+Nebraska,2018,Jul,23.0
+Nebraska,2023,Jul,22.67
+Nevada,1978,Jul,22.0
+Nevada,1983,Jul,20.39
+Nevada,1988,Jul,23.89
+Nevada,1993,Jul,19.78
+Nevada,1998,Jul,23.22
+Nevada,2003,Jul,25.0
+Nevada,2008,Jul,23.5
+Nevada,2013,Jul,24.61
+Nevada,2018,Jul,25.0
+Nevada,2023,Jul,24.67
+New Hampshire,1978,Jul,19.06
+New Hampshire,1983,Jul,19.89
+New Hampshire,1988,Jul,20.61
+New Hampshire,1993,Jul,19.61
+New Hampshire,1998,Jul,19.39
+New Hampshire,2003,Jul,19.78
+New Hampshire,2008,Jul,20.17
+New Hampshire,2013,Jul,21.44
+New Hampshire,2018,Jul,21.06
+New Hampshire,2023,Jul,21.33
+New Jersey,1978,Jul,22.0
+New Jersey,1983,Jul,24.28
+New Jersey,1988,Jul,24.72
+New Jersey,1993,Jul,24.61
+New Jersey,1998,Jul,23.56
+New Jersey,2003,Jul,23.61
+New Jersey,2008,Jul,24.44
+New Jersey,2013,Jul,25.44
+New Jersey,2018,Jul,24.56
+New Jersey,2023,Jul,24.94
+New Mexico,1978,Jul,23.67
+New Mexico,1983,Jul,22.78
+New Mexico,1988,Jul,22.11
+New Mexico,1993,Jul,23.11
+New Mexico,1998,Jul,23.5
+New Mexico,2003,Jul,24.89
+New Mexico,2008,Jul,22.22
+New Mexico,2013,Jul,22.78
+New Mexico,2018,Jul,23.94
+New Mexico,2023,Jul,25.89
+New York,1978,Jul,19.67
+New York,1983,Jul,20.94
+New York,1988,Jul,21.67
+New York,1993,Jul,20.89
+New York,1998,Jul,19.83
+New York,2003,Jul,20.06
+New York,2008,Jul,20.61
+New York,2013,Jul,21.78
+New York,2018,Jul,21.78
+New York,2023,Jul,21.5
+North Carolina,1978,Jul,24.5
+North Carolina,1983,Jul,25.5
+North Carolina,1988,Jul,24.94
+North Carolina,1993,Jul,27.06
+North Carolina,1998,Jul,25.78
+North Carolina,2003,Jul,24.78
+North Carolina,2008,Jul,24.78
+North Carolina,2013,Jul,25.0
+North Carolina,2018,Jul,25.11
+North Carolina,2023,Jul,25.83
+North Dakota,1978,Jul,19.89
+North Dakota,1983,Jul,22.33
+North Dakota,1988,Jul,22.28
+North Dakota,1993,Jul,16.89
+North Dakota,1998,Jul,21.22
+North Dakota,2003,Jul,21.06
+North Dakota,2008,Jul,20.67
+North Dakota,2013,Jul,20.17
+North Dakota,2018,Jul,20.72
+North Dakota,2023,Jul,19.56
+Ohio,1978,Jul,22.17
+Ohio,1983,Jul,24.17
+Ohio,1988,Jul,24.28
+Ohio,1993,Jul,23.72
+Ohio,1998,Jul,22.22
+Ohio,2003,Jul,22.0
+Ohio,2008,Jul,22.39
+Ohio,2013,Jul,22.5
+Ohio,2018,Jul,23.22
+Ohio,2023,Jul,23.11
+Oklahoma,1978,Jul,29.78
+Oklahoma,1983,Jul,27.72
+Oklahoma,1988,Jul,27.22
+Oklahoma,1993,Jul,28.56
+Oklahoma,1998,Jul,29.94
+Oklahoma,2003,Jul,28.5
+Oklahoma,2008,Jul,27.61
+Oklahoma,2013,Jul,26.44
+Oklahoma,2018,Jul,28.17
+Oklahoma,2023,Jul,27.72
+Oregon,1978,Jul,18.22
+Oregon,1983,Jul,16.22
+Oregon,1988,Jul,19.06
+Oregon,1993,Jul,14.22
+Oregon,1998,Jul,20.44
+Oregon,2003,Jul,21.17
+Oregon,2008,Jul,19.06
+Oregon,2013,Jul,20.78
+Oregon,2018,Jul,20.56
+Oregon,2023,Jul,20.5
+Pennsylvania,1978,Jul,20.28
+Pennsylvania,1983,Jul,21.89
+Pennsylvania,1988,Jul,23.11
+Pennsylvania,1993,Jul,22.39
+Pennsylvania,1998,Jul,20.89
+Pennsylvania,2003,Jul,20.94
+Pennsylvania,2008,Jul,21.67
+Pennsylvania,2013,Jul,22.61
+Pennsylvania,2018,Jul,22.0
+Pennsylvania,2023,Jul,22.39
+Rhode Island,1978,Jul,20.56
+Rhode Island,1983,Jul,22.56
+Rhode Island,1988,Jul,22.44
+Rhode Island,1993,Jul,22.17
+Rhode Island,1998,Jul,22.0
+Rhode Island,2003,Jul,22.06
+Rhode Island,2008,Jul,23.28
+Rhode Island,2013,Jul,24.67
+Rhode Island,2018,Jul,23.22
+Rhode Island,2023,Jul,23.67
+South Carolina,1978,Jul,26.67
+South Carolina,1983,Jul,27.39
+South Carolina,1988,Jul,26.5
+South Carolina,1993,Jul,29.0
+South Carolina,1998,Jul,27.94
+South Carolina,2003,Jul,26.11
+South Carolina,2008,Jul,26.56
+South Carolina,2013,Jul,26.0
+South Carolina,2018,Jul,26.78
+South Carolina,2023,Jul,27.39
+South Dakota,1978,Jul,21.78
+South Dakota,1983,Jul,24.0
+South Dakota,1988,Jul,23.94
+South Dakota,1993,Jul,19.28
+South Dakota,1998,Jul,23.0
+South Dakota,2003,Jul,23.56
+South Dakota,2008,Jul,22.61
+South Dakota,2013,Jul,22.11
+South Dakota,2018,Jul,22.33
+South Dakota,2023,Jul,21.56
+Tennessee,1978,Jul,25.44
+Tennessee,1983,Jul,25.72
+Tennessee,1988,Jul,25.11
+Tennessee,1993,Jul,26.94
+Tennessee,1998,Jul,25.56
+Tennessee,2003,Jul,24.56
+Tennessee,2008,Jul,24.89
+Tennessee,2013,Jul,23.78
+Tennessee,2018,Jul,25.61
+Tennessee,2023,Jul,25.17
+Texas,1978,Jul,29.22
+Texas,1983,Jul,27.78
+Texas,1988,Jul,27.28
+Texas,1993,Jul,28.39
+Texas,1998,Jul,30.22
+Texas,2003,Jul,27.83
+Texas,2008,Jul,27.61
+Texas,2013,Jul,27.39
+Texas,2018,Jul,29.17
+Texas,2023,Jul,30.11
+Utah,1978,Jul,22.17
+Utah,1983,Jul,21.11
+Utah,1988,Jul,23.39
+Utah,1993,Jul,19.94
+Utah,1998,Jul,23.11
+Utah,2003,Jul,25.11
+Utah,2008,Jul,23.39
+Utah,2013,Jul,23.67
+Utah,2018,Jul,24.5
+Utah,2023,Jul,24.33
 Vermont,1978,Jul,18.67
 Vermont,1983,Jul,19.22
 Vermont,1988,Jul,20.28
@@ -139,6 +3369,66 @@ Vermont,2008,Jul,19.44
 Vermont,2013,Jul,20.94
 Vermont,2018,Jul,20.67
 Vermont,2023,Jul,20.89
+Virginia,1978,Jul,22.94
+Virginia,1983,Jul,24.17
+Virginia,1988,Jul,24.44
+Virginia,1993,Jul,25.67
+Virginia,1998,Jul,24.06
+Virginia,2003,Jul,23.61
+Virginia,2008,Jul,23.67
+Virginia,2013,Jul,24.22
+Virginia,2018,Jul,23.94
+Virginia,2023,Jul,24.89
+Washington,1978,Jul,18.11
+Washington,1983,Jul,16.0
+Washington,1988,Jul,17.78
+Washington,1993,Jul,14.89
+Washington,1998,Jul,20.56
+Washington,2003,Jul,19.72
+Washington,2008,Jul,18.0
+Washington,2013,Jul,19.56
+Washington,2018,Jul,19.72
+Washington,2023,Jul,19.67
+West Virginia,1978,Jul,21.61
+West Virginia,1983,Jul,22.5
+West Virginia,1988,Jul,23.17
+West Virginia,1993,Jul,23.67
+West Virginia,1998,Jul,22.0
+West Virginia,2003,Jul,21.78
+West Virginia,2008,Jul,21.44
+West Virginia,2013,Jul,22.44
+West Virginia,2018,Jul,22.5
+West Virginia,2023,Jul,22.78
+Wisconsin,1978,Jul,19.39
+Wisconsin,1983,Jul,22.67
+Wisconsin,1988,Jul,22.44
+Wisconsin,1993,Jul,19.94
+Wisconsin,1998,Jul,20.78
+Wisconsin,2003,Jul,20.22
+Wisconsin,2008,Jul,20.56
+Wisconsin,2013,Jul,20.5
+Wisconsin,2018,Jul,21.0
+Wisconsin,2023,Jul,20.28
+Wyoming,1978,Jul,18.06
+Wyoming,1983,Jul,18.56
+Wyoming,1988,Jul,20.22
+Wyoming,1993,Jul,14.94
+Wyoming,1998,Jul,20.0
+Wyoming,2003,Jul,21.22
+Wyoming,2008,Jul,19.44
+Wyoming,2013,Jul,19.89
+Wyoming,2018,Jul,19.61
+Wyoming,2023,Jul,19.0
+Alaska,1978,Jul,11.89
+Alaska,1983,Jul,12.0
+Alaska,1988,Jul,12.5
+Alaska,1993,Jul,13.78
+Alaska,1998,Jul,12.67
+Alaska,2003,Jul,11.94
+Alaska,2008,Jul,10.67
+Alaska,2013,Jul,12.78
+Alaska,2018,Jul,13.11
+Alaska,2023,Jul,13.39
 Alabama,1978,Aug,26.28
 Alabama,1983,Aug,27.28
 Alabama,1988,Aug,26.89
@@ -149,6 +3439,416 @@ Alabama,2008,Aug,25.78
 Alabama,2013,Aug,25.5
 Alabama,2018,Aug,26.39
 Alabama,2023,Aug,27.94
+Arizona,1978,Aug,25.28
+Arizona,1983,Aug,25.11
+Arizona,1988,Aug,25.22
+Arizona,1993,Aug,25.28
+Arizona,1998,Aug,26.89
+Arizona,2003,Aug,26.67
+Arizona,2008,Aug,26.28
+Arizona,2013,Aug,25.83
+Arizona,2018,Aug,26.78
+Arizona,2023,Aug,27.06
+Arkansas,1978,Aug,26.5
+Arkansas,1983,Aug,28.17
+Arkansas,1988,Aug,27.06
+Arkansas,1993,Aug,27.39
+Arkansas,1998,Aug,27.17
+Arkansas,2003,Aug,27.11
+Arkansas,2008,Aug,25.39
+Arkansas,2013,Aug,25.78
+Arkansas,2018,Aug,26.0
+Arkansas,2023,Aug,27.61
+California,1978,Aug,23.22
+California,1983,Aug,23.17
+California,1988,Aug,23.67
+California,1993,Aug,22.89
+California,1998,Aug,25.11
+California,2003,Aug,23.89
+California,2008,Aug,24.78
+California,2013,Aug,23.56
+California,2018,Aug,24.67
+California,2023,Aug,24.33
+Colorado,1978,Aug,17.89
+Colorado,1983,Aug,20.33
+Colorado,1988,Aug,19.39
+Colorado,1993,Aug,17.72
+Colorado,1998,Aug,19.0
+Colorado,2003,Aug,20.22
+Colorado,2008,Aug,18.72
+Colorado,2013,Aug,19.44
+Colorado,2018,Aug,19.0
+Colorado,2023,Aug,19.83
+Connecticut,1978,Aug,21.11
+Connecticut,1983,Aug,21.44
+Connecticut,1988,Aug,22.44
+Connecticut,1993,Aug,21.78
+Connecticut,1998,Aug,22.0
+Connecticut,2003,Aug,22.33
+Connecticut,2008,Aug,19.89
+Connecticut,2013,Aug,20.39
+Connecticut,2018,Aug,23.5
+Connecticut,2023,Aug,20.89
+Delaware,1978,Aug,24.78
+Delaware,1983,Aug,24.33
+Delaware,1988,Aug,25.22
+Delaware,1993,Aug,24.17
+Delaware,1998,Aug,24.0
+Delaware,2003,Aug,24.72
+Delaware,2008,Aug,23.0
+Delaware,2013,Aug,23.0
+Delaware,2018,Aug,25.89
+Delaware,2023,Aug,24.11
+Florida,1978,Aug,27.28
+Florida,1983,Aug,27.89
+Florida,1988,Aug,27.56
+Florida,1993,Aug,27.89
+Florida,1998,Aug,28.17
+Florida,2003,Aug,27.28
+Florida,2008,Aug,27.39
+Florida,2013,Aug,27.89
+Florida,2018,Aug,27.89
+Florida,2023,Aug,29.39
+Georgia,1978,Aug,26.11
+Georgia,1983,Aug,27.33
+Georgia,1988,Aug,26.78
+Georgia,1993,Aug,26.72
+Georgia,1998,Aug,26.39
+Georgia,2003,Aug,26.22
+Georgia,2008,Aug,26.06
+Georgia,2013,Aug,25.56
+Georgia,2018,Aug,26.33
+Georgia,2023,Aug,27.56
+Idaho,1978,Aug,16.22
+Idaho,1983,Aug,19.06
+Idaho,1988,Aug,17.89
+Idaho,1993,Aug,15.39
+Idaho,1998,Aug,19.44
+Idaho,2003,Aug,19.83
+Idaho,2008,Aug,18.22
+Idaho,2013,Aug,19.78
+Idaho,2018,Aug,18.33
+Idaho,2023,Aug,18.78
+Illinois,1978,Aug,22.78
+Illinois,1983,Aug,26.06
+Illinois,1988,Aug,25.56
+Illinois,1993,Aug,23.83
+Illinois,1998,Aug,23.78
+Illinois,2003,Aug,24.06
+Illinois,2008,Aug,22.11
+Illinois,2013,Aug,22.67
+Illinois,2018,Aug,23.72
+Illinois,2023,Aug,23.06
+Indiana,1978,Aug,22.17
+Indiana,1983,Aug,25.11
+Indiana,1988,Aug,24.56
+Indiana,1993,Aug,23.17
+Indiana,1998,Aug,23.17
+Indiana,2003,Aug,23.22
+Indiana,2008,Aug,21.78
+Indiana,2013,Aug,21.94
+Indiana,2018,Aug,23.33
+Indiana,2023,Aug,22.11
+Iowa,1978,Aug,21.78
+Iowa,1983,Aug,25.61
+Iowa,1988,Aug,24.33
+Iowa,1993,Aug,22.0
+Iowa,1998,Aug,22.72
+Iowa,2003,Aug,23.39
+Iowa,2008,Aug,21.06
+Iowa,2013,Aug,22.17
+Iowa,2018,Aug,22.11
+Iowa,2023,Aug,22.5
+Kansas,1978,Aug,25.17
+Kansas,1983,Aug,28.78
+Kansas,1988,Aug,26.22
+Kansas,1993,Aug,24.94
+Kansas,1998,Aug,25.5
+Kansas,2003,Aug,26.78
+Kansas,2008,Aug,24.0
+Kansas,2013,Aug,24.72
+Kansas,2018,Aug,24.28
+Kansas,2023,Aug,26.0
+Kentucky,1978,Aug,23.78
+Kentucky,1983,Aug,26.28
+Kentucky,1988,Aug,25.33
+Kentucky,1993,Aug,24.44
+Kentucky,1998,Aug,24.11
+Kentucky,2003,Aug,24.39
+Kentucky,2008,Aug,23.28
+Kentucky,2013,Aug,23.17
+Kentucky,2018,Aug,24.33
+Kentucky,2023,Aug,23.67
+Louisiana,1978,Aug,27.61
+Louisiana,1983,Aug,28.11
+Louisiana,1988,Aug,27.61
+Louisiana,1993,Aug,28.67
+Louisiana,1998,Aug,28.78
+Louisiana,2003,Aug,28.06
+Louisiana,2008,Aug,27.28
+Louisiana,2013,Aug,27.78
+Louisiana,2018,Aug,27.78
+Louisiana,2023,Aug,31.06
+Maine,1978,Aug,17.83
+Maine,1983,Aug,18.22
+Maine,1988,Aug,18.72
+Maine,1993,Aug,18.72
+Maine,1998,Aug,18.22
+Maine,2003,Aug,18.89
+Maine,2008,Aug,17.28
+Maine,2013,Aug,17.61
+Maine,2018,Aug,20.0
+Maine,2023,Aug,17.5
+Maryland,1978,Aug,24.5
+Maryland,1983,Aug,24.39
+Maryland,1988,Aug,25.0
+Maryland,1993,Aug,24.06
+Maryland,1998,Aug,23.94
+Maryland,2003,Aug,24.5
+Maryland,2008,Aug,22.56
+Maryland,2013,Aug,22.44
+Maryland,2018,Aug,25.06
+Maryland,2023,Aug,23.89
+Massachusetts,1978,Aug,20.44
+Massachusetts,1983,Aug,20.83
+Massachusetts,1988,Aug,22.0
+Massachusetts,1993,Aug,21.06
+Massachusetts,1998,Aug,21.22
+Massachusetts,2003,Aug,21.94
+Massachusetts,2008,Aug,19.56
+Massachusetts,2013,Aug,20.0
+Massachusetts,2018,Aug,23.06
+Massachusetts,2023,Aug,20.28
+Michigan,1978,Aug,19.28
+Michigan,1983,Aug,21.06
+Michigan,1988,Aug,21.0
+Michigan,1993,Aug,20.17
+Michigan,1998,Aug,20.56
+Michigan,2003,Aug,20.44
+Michigan,2008,Aug,19.17
+Michigan,2013,Aug,19.22
+Michigan,2018,Aug,21.0
+Michigan,2023,Aug,18.67
+Minnesota,1978,Aug,19.5
+Minnesota,1983,Aug,22.28
+Minnesota,1988,Aug,20.72
+Minnesota,1993,Aug,19.22
+Minnesota,1998,Aug,20.5
+Minnesota,2003,Aug,21.22
+Minnesota,2008,Aug,19.33
+Minnesota,2013,Aug,19.89
+Minnesota,2018,Aug,19.67
+Minnesota,2023,Aug,19.94
+Mississippi,1978,Aug,26.78
+Mississippi,1983,Aug,27.72
+Mississippi,1988,Aug,27.22
+Mississippi,1993,Aug,27.44
+Mississippi,1998,Aug,27.44
+Mississippi,2003,Aug,27.0
+Mississippi,2008,Aug,25.83
+Mississippi,2013,Aug,26.44
+Mississippi,2018,Aug,26.83
+Mississippi,2023,Aug,29.11
+Missouri,1978,Aug,24.17
+Missouri,1983,Aug,27.72
+Missouri,1988,Aug,25.89
+Missouri,1993,Aug,25.22
+Missouri,1998,Aug,24.89
+Missouri,2003,Aug,26.0
+Missouri,2008,Aug,23.28
+Missouri,2013,Aug,23.67
+Missouri,2018,Aug,24.67
+Missouri,2023,Aug,24.72
+Montana,1978,Aug,16.67
+Montana,1983,Aug,20.94
+Montana,1988,Aug,18.44
+Montana,1993,Aug,15.39
+Montana,1998,Aug,20.06
+Montana,2003,Aug,21.11
+Montana,2008,Aug,18.67
+Montana,2013,Aug,19.61
+Montana,2018,Aug,18.06
+Montana,2023,Aug,19.33
+Nebraska,1978,Aug,21.83
+Nebraska,1983,Aug,25.89
+Nebraska,1988,Aug,23.33
+Nebraska,1993,Aug,21.5
+Nebraska,1998,Aug,23.0
+Nebraska,2003,Aug,24.17
+Nebraska,2008,Aug,21.89
+Nebraska,2013,Aug,23.22
+Nebraska,2018,Aug,21.56
+Nebraska,2023,Aug,23.22
+Nevada,1978,Aug,20.78
+Nevada,1983,Aug,20.83
+Nevada,1988,Aug,21.78
+Nevada,1993,Aug,20.33
+Nevada,1998,Aug,22.89
+Nevada,2003,Aug,22.44
+Nevada,2008,Aug,22.89
+Nevada,2013,Aug,22.0
+Nevada,2018,Aug,22.89
+Nevada,2023,Aug,21.67
+New Hampshire,1978,Aug,18.39
+New Hampshire,1983,Aug,18.94
+New Hampshire,1988,Aug,19.78
+New Hampshire,1993,Aug,19.11
+New Hampshire,1998,Aug,19.06
+New Hampshire,2003,Aug,19.94
+New Hampshire,2008,Aug,17.67
+New Hampshire,2013,Aug,18.22
+New Hampshire,2018,Aug,20.67
+New Hampshire,2023,Aug,18.0
+New Jersey,1978,Aug,23.33
+New Jersey,1983,Aug,23.56
+New Jersey,1988,Aug,24.11
+New Jersey,1993,Aug,23.11
+New Jersey,1998,Aug,23.39
+New Jersey,2003,Aug,23.94
+New Jersey,2008,Aug,21.83
+New Jersey,2013,Aug,21.89
+New Jersey,2018,Aug,24.89
+New Jersey,2023,Aug,22.72
+New Mexico,1978,Aug,21.22
+New Mexico,1983,Aug,22.5
+New Mexico,1988,Aug,21.22
+New Mexico,1993,Aug,21.39
+New Mexico,1998,Aug,21.94
+New Mexico,2003,Aug,23.06
+New Mexico,2008,Aug,21.67
+New Mexico,2013,Aug,22.39
+New Mexico,2018,Aug,22.78
+New Mexico,2023,Aug,24.0
+New York,1978,Aug,19.67
+New York,1983,Aug,19.94
+New York,1988,Aug,20.56
+New York,1993,Aug,19.89
+New York,1998,Aug,20.0
+New York,2003,Aug,20.61
+New York,2008,Aug,18.22
+New York,2013,Aug,18.78
+New York,2018,Aug,21.33
+New York,2023,Aug,18.72
+North Carolina,1978,Aug,25.0
+North Carolina,1983,Aug,25.56
+North Carolina,1988,Aug,25.67
+North Carolina,1993,Aug,24.61
+North Carolina,1998,Aug,24.72
+North Carolina,2003,Aug,25.17
+North Carolina,2008,Aug,24.17
+North Carolina,2013,Aug,23.56
+North Carolina,2018,Aug,25.17
+North Carolina,2023,Aug,25.17
+North Dakota,1978,Aug,19.67
+North Dakota,1983,Aug,23.22
+North Dakota,1988,Aug,20.61
+North Dakota,1993,Aug,18.06
+North Dakota,1998,Aug,21.44
+North Dakota,2003,Aug,22.33
+North Dakota,2008,Aug,20.33
+North Dakota,2013,Aug,20.33
+North Dakota,2018,Aug,19.78
+North Dakota,2023,Aug,19.89
+Ohio,1978,Aug,21.89
+Ohio,1983,Aug,23.78
+Ohio,1988,Aug,23.56
+Ohio,1993,Aug,22.89
+Ohio,1998,Aug,22.61
+Ohio,2003,Aug,22.56
+Ohio,2008,Aug,21.33
+Ohio,2013,Aug,21.22
+Ohio,2018,Aug,23.11
+Ohio,2023,Aug,21.44
+Oklahoma,1978,Aug,27.28
+Oklahoma,1983,Aug,29.22
+Oklahoma,1988,Aug,27.78
+Oklahoma,1993,Aug,27.83
+Oklahoma,1998,Aug,28.11
+Oklahoma,2003,Aug,28.17
+Oklahoma,2008,Aug,26.17
+Oklahoma,2013,Aug,26.83
+Oklahoma,2018,Aug,26.61
+Oklahoma,2023,Aug,28.72
+Oregon,1978,Aug,17.28
+Oregon,1983,Aug,18.5
+Oregon,1988,Aug,18.0
+Oregon,1993,Aug,16.56
+Oregon,1998,Aug,19.72
+Oregon,2003,Aug,19.22
+Oregon,2008,Aug,18.44
+Oregon,2013,Aug,19.17
+Oregon,2018,Aug,19.17
+Oregon,2023,Aug,19.78
+Pennsylvania,1978,Aug,21.33
+Pennsylvania,1983,Aug,21.83
+Pennsylvania,1988,Aug,22.17
+Pennsylvania,1993,Aug,21.22
+Pennsylvania,1998,Aug,21.22
+Pennsylvania,2003,Aug,21.61
+Pennsylvania,2008,Aug,19.33
+Pennsylvania,2013,Aug,19.78
+Pennsylvania,2018,Aug,22.28
+Pennsylvania,2023,Aug,20.44
+Rhode Island,1978,Aug,21.22
+Rhode Island,1983,Aug,21.44
+Rhode Island,1988,Aug,22.67
+Rhode Island,1993,Aug,21.83
+Rhode Island,1998,Aug,22.0
+Rhode Island,2003,Aug,22.78
+Rhode Island,2008,Aug,20.22
+Rhode Island,2013,Aug,20.61
+Rhode Island,2018,Aug,23.94
+Rhode Island,2023,Aug,20.89
+South Carolina,1978,Aug,26.39
+South Carolina,1983,Aug,27.33
+South Carolina,1988,Aug,27.0
+South Carolina,1993,Aug,26.56
+South Carolina,1998,Aug,26.33
+South Carolina,2003,Aug,26.5
+South Carolina,2008,Aug,26.17
+South Carolina,2013,Aug,25.22
+South Carolina,2018,Aug,26.67
+South Carolina,2023,Aug,27.06
+South Dakota,1978,Aug,21.28
+South Dakota,1983,Aug,25.06
+South Dakota,1988,Aug,22.67
+South Dakota,1993,Aug,20.0
+South Dakota,1998,Aug,22.33
+South Dakota,2003,Aug,23.78
+South Dakota,2008,Aug,21.78
+South Dakota,2013,Aug,22.0
+South Dakota,2018,Aug,21.06
+South Dakota,2023,Aug,22.0
+Tennessee,1978,Aug,24.67
+Tennessee,1983,Aug,26.44
+Tennessee,1988,Aug,25.67
+Tennessee,1993,Aug,25.17
+Tennessee,1998,Aug,24.67
+Tennessee,2003,Aug,25.06
+Tennessee,2008,Aug,24.0
+Tennessee,2013,Aug,23.72
+Tennessee,2018,Aug,24.72
+Tennessee,2023,Aug,24.56
+Texas,1978,Aug,27.22
+Texas,1983,Aug,28.22
+Texas,1988,Aug,27.83
+Texas,1993,Aug,28.28
+Texas,1998,Aug,27.94
+Texas,2003,Aug,28.28
+Texas,2008,Aug,27.11
+Texas,2013,Aug,28.5
+Texas,2018,Aug,28.33
+Texas,2023,Aug,30.78
+Utah,1978,Aug,20.22
+Utah,1983,Aug,21.33
+Utah,1988,Aug,21.22
+Utah,1993,Aug,19.89
+Utah,1998,Aug,22.0
+Utah,2003,Aug,22.61
+Utah,2008,Aug,22.0
+Utah,2013,Aug,21.67
+Utah,2018,Aug,22.44
+Utah,2023,Aug,21.56
 Vermont,1978,Aug,17.94
 Vermont,1983,Aug,18.33
 Vermont,1988,Aug,19.22
@@ -159,6 +3859,66 @@ Vermont,2008,Aug,17.28
 Vermont,2013,Aug,17.83
 Vermont,2018,Aug,20.22
 Vermont,2023,Aug,17.72
+Virginia,1978,Aug,24.0
+Virginia,1983,Aug,24.39
+Virginia,1988,Aug,24.61
+Virginia,1993,Aug,23.72
+Virginia,1998,Aug,23.67
+Virginia,2003,Aug,24.17
+Virginia,2008,Aug,22.39
+Virginia,2013,Aug,22.11
+Virginia,2018,Aug,24.0
+Virginia,2023,Aug,23.56
+Washington,1978,Aug,17.0
+Washington,1983,Aug,18.33
+Washington,1988,Aug,17.67
+Washington,1993,Aug,16.94
+Washington,1998,Aug,19.33
+Washington,2003,Aug,18.83
+Washington,2008,Aug,17.78
+Washington,2013,Aug,19.0
+Washington,2018,Aug,18.89
+Washington,2023,Aug,19.78
+West Virginia,1978,Aug,22.33
+West Virginia,1983,Aug,22.89
+West Virginia,1988,Aug,23.33
+West Virginia,1993,Aug,22.39
+West Virginia,1998,Aug,22.0
+West Virginia,2003,Aug,22.44
+West Virginia,2008,Aug,20.39
+West Virginia,2013,Aug,20.67
+West Virginia,2018,Aug,22.44
+West Virginia,2023,Aug,21.44
+Wisconsin,1978,Aug,19.44
+Wisconsin,1983,Aug,21.67
+Wisconsin,1988,Aug,21.61
+Wisconsin,1993,Aug,19.94
+Wisconsin,1998,Aug,20.5
+Wisconsin,2003,Aug,21.17
+Wisconsin,2008,Aug,19.17
+Wisconsin,2013,Aug,19.78
+Wisconsin,2018,Aug,20.28
+Wisconsin,2023,Aug,19.83
+Wyoming,1978,Aug,16.06
+Wyoming,1983,Aug,20.0
+Wyoming,1988,Aug,18.22
+Wyoming,1993,Aug,15.78
+Wyoming,1998,Aug,18.44
+Wyoming,2003,Aug,20.06
+Wyoming,2008,Aug,18.0
+Wyoming,2013,Aug,19.28
+Wyoming,2018,Aug,17.56
+Wyoming,2023,Aug,18.28
+Alaska,1978,Aug,11.17
+Alaska,1983,Aug,8.72
+Alaska,1988,Aug,9.89
+Alaska,1993,Aug,10.06
+Alaska,1998,Aug,8.72
+Alaska,2003,Aug,10.33
+Alaska,2008,Aug,9.11
+Alaska,2013,Aug,10.78
+Alaska,2018,Aug,9.78
+Alaska,2023,Aug,11.83
 Alabama,1978,Sep,24.94
 Alabama,1983,Sep,22.22
 Alabama,1988,Sep,23.61
@@ -169,6 +3929,416 @@ Alabama,2008,Sep,23.61
 Alabama,2013,Sep,23.89
 Alabama,2018,Sep,26.33
 Alabama,2023,Sep,24.33
+Arizona,1978,Sep,21.89
+Arizona,1983,Sep,23.78
+Arizona,1988,Sep,21.33
+Arizona,1993,Sep,22.11
+Arizona,1998,Sep,23.11
+Arizona,2003,Sep,23.78
+Arizona,2008,Sep,23.11
+Arizona,2013,Sep,22.44
+Arizona,2018,Sep,24.44
+Arizona,2023,Sep,23.11
+Arkansas,1978,Sep,23.72
+Arkansas,1983,Sep,22.72
+Arkansas,1988,Sep,22.89
+Arkansas,1993,Sep,21.44
+Arkansas,1998,Sep,25.5
+Arkansas,2003,Sep,21.22
+Arkansas,2008,Sep,21.72
+Arkansas,2013,Sep,24.11
+Arkansas,2018,Sep,23.89
+Arkansas,2023,Sep,23.78
+California,1978,Sep,19.28
+California,1983,Sep,21.67
+California,1988,Sep,20.78
+California,1993,Sep,20.83
+California,1998,Sep,20.67
+California,2003,Sep,22.72
+California,2008,Sep,22.11
+California,2013,Sep,20.72
+California,2018,Sep,21.72
+California,2023,Sep,20.0
+Colorado,1978,Sep,14.67
+Colorado,1983,Sep,15.67
+Colorado,1988,Sep,13.5
+Colorado,1993,Sep,12.94
+Colorado,1998,Sep,16.94
+Colorado,2003,Sep,13.72
+Colorado,2008,Sep,14.06
+Colorado,2013,Sep,15.94
+Colorado,2018,Sep,16.61
+Colorado,2023,Sep,15.89
+Connecticut,1978,Sep,14.89
+Connecticut,1983,Sep,18.0
+Connecticut,1988,Sep,15.78
+Connecticut,1993,Sep,16.56
+Connecticut,1998,Sep,17.89
+Connecticut,2003,Sep,17.39
+Connecticut,2008,Sep,17.39
+Connecticut,2013,Sep,16.33
+Connecticut,2018,Sep,18.94
+Connecticut,2023,Sep,18.5
+Delaware,1978,Sep,19.33
+Delaware,1983,Sep,20.28
+Delaware,1988,Sep,18.78
+Delaware,1993,Sep,20.22
+Delaware,1998,Sep,21.78
+Delaware,2003,Sep,20.72
+Delaware,2008,Sep,20.89
+Delaware,2013,Sep,19.28
+Delaware,2018,Sep,23.11
+Delaware,2023,Sep,21.0
+Florida,1978,Sep,26.56
+Florida,1983,Sep,25.5
+Florida,1988,Sep,26.83
+Florida,1993,Sep,26.61
+Florida,1998,Sep,26.83
+Florida,2003,Sep,26.06
+Florida,2008,Sep,26.5
+Florida,2013,Sep,26.67
+Florida,2018,Sep,28.0
+Florida,2023,Sep,26.94
+Georgia,1978,Sep,24.61
+Georgia,1983,Sep,22.22
+Georgia,1988,Sep,23.39
+Georgia,1993,Sep,24.28
+Georgia,1998,Sep,24.5
+Georgia,2003,Sep,22.83
+Georgia,2008,Sep,23.67
+Georgia,2013,Sep,23.61
+Georgia,2018,Sep,26.56
+Georgia,2023,Sep,23.67
+Idaho,1978,Sep,11.89
+Idaho,1983,Sep,12.22
+Idaho,1988,Sep,12.5
+Idaho,1993,Sep,12.56
+Idaho,1998,Sep,15.78
+Idaho,2003,Sep,13.72
+Idaho,2008,Sep,13.06
+Idaho,2013,Sep,13.94
+Idaho,2018,Sep,13.44
+Idaho,2023,Sep,13.67
+Illinois,1978,Sep,21.17
+Illinois,1983,Sep,19.44
+Illinois,1988,Sep,19.78
+Illinois,1993,Sep,16.44
+Illinois,1998,Sep,21.61
+Illinois,2003,Sep,17.83
+Illinois,2008,Sep,19.5
+Illinois,2013,Sep,20.33
+Illinois,2018,Sep,21.28
+Illinois,2023,Sep,20.22
+Indiana,1978,Sep,20.5
+Indiana,1983,Sep,19.11
+Indiana,1988,Sep,18.61
+Indiana,1993,Sep,16.39
+Indiana,1998,Sep,20.89
+Indiana,2003,Sep,17.44
+Indiana,2008,Sep,19.78
+Indiana,2013,Sep,19.39
+Indiana,2018,Sep,21.06
+Indiana,2023,Sep,19.44
+Iowa,1978,Sep,19.72
+Iowa,1983,Sep,17.89
+Iowa,1988,Sep,18.17
+Iowa,1993,Sep,14.11
+Iowa,1998,Sep,20.11
+Iowa,2003,Sep,16.17
+Iowa,2008,Sep,17.5
+Iowa,2013,Sep,19.44
+Iowa,2018,Sep,18.83
+Iowa,2023,Sep,19.56
+Kansas,1978,Sep,22.33
+Kansas,1983,Sep,21.72
+Kansas,1988,Sep,20.28
+Kansas,1993,Sep,17.5
+Kansas,1998,Sep,23.56
+Kansas,2003,Sep,18.39
+Kansas,2008,Sep,19.11
+Kansas,2013,Sep,22.28
+Kansas,2018,Sep,21.17
+Kansas,2023,Sep,22.39
+Kentucky,1978,Sep,21.72
+Kentucky,1983,Sep,20.56
+Kentucky,1988,Sep,19.83
+Kentucky,1993,Sep,19.17
+Kentucky,1998,Sep,22.78
+Kentucky,2003,Sep,19.0
+Kentucky,2008,Sep,21.67
+Kentucky,2013,Sep,20.61
+Kentucky,2018,Sep,22.83
+Kentucky,2023,Sep,20.83
+Louisiana,1978,Sep,25.61
+Louisiana,1983,Sep,23.89
+Louisiana,1988,Sep,25.22
+Louisiana,1993,Sep,25.5
+Louisiana,1998,Sep,27.0
+Louisiana,2003,Sep,24.44
+Louisiana,2008,Sep,24.11
+Louisiana,2013,Sep,26.61
+Louisiana,2018,Sep,26.78
+Louisiana,2023,Sep,27.0
+Maine,1978,Sep,10.67
+Maine,1983,Sep,14.67
+Maine,1988,Sep,12.22
+Maine,1993,Sep,12.83
+Maine,1998,Sep,13.72
+Maine,2003,Sep,14.67
+Maine,2008,Sep,13.44
+Maine,2013,Sep,13.72
+Maine,2018,Sep,14.39
+Maine,2023,Sep,16.11
+Maryland,1978,Sep,19.78
+Maryland,1983,Sep,19.83
+Maryland,1988,Sep,18.5
+Maryland,1993,Sep,19.83
+Maryland,1998,Sep,21.94
+Maryland,2003,Sep,19.89
+Maryland,2008,Sep,20.44
+Maryland,2013,Sep,18.89
+Maryland,2018,Sep,22.61
+Maryland,2023,Sep,20.83
+Massachusetts,1978,Sep,14.06
+Massachusetts,1983,Sep,17.61
+Massachusetts,1988,Sep,15.11
+Massachusetts,1993,Sep,16.0
+Massachusetts,1998,Sep,17.22
+Massachusetts,2003,Sep,17.0
+Massachusetts,2008,Sep,16.89
+Massachusetts,2013,Sep,16.0
+Massachusetts,2018,Sep,18.44
+Massachusetts,2023,Sep,18.11
+Michigan,1978,Sep,16.0
+Michigan,1983,Sep,15.67
+Michigan,1988,Sep,14.78
+Michigan,1993,Sep,12.22
+Michigan,1998,Sep,17.0
+Michigan,2003,Sep,15.28
+Michigan,2008,Sep,15.89
+Michigan,2013,Sep,15.28
+Michigan,2018,Sep,16.89
+Michigan,2023,Sep,16.67
+Minnesota,1978,Sep,16.33
+Minnesota,1983,Sep,14.5
+Minnesota,1988,Sep,14.33
+Minnesota,1993,Sep,10.89
+Minnesota,1998,Sep,16.89
+Minnesota,2003,Sep,14.39
+Minnesota,2008,Sep,14.83
+Minnesota,2013,Sep,16.39
+Minnesota,2018,Sep,15.0
+Minnesota,2023,Sep,17.5
+Mississippi,1978,Sep,24.89
+Mississippi,1983,Sep,22.72
+Mississippi,1988,Sep,24.17
+Mississippi,1993,Sep,23.5
+Mississippi,1998,Sep,26.0
+Mississippi,2003,Sep,23.0
+Mississippi,2008,Sep,23.39
+Mississippi,2013,Sep,25.0
+Mississippi,2018,Sep,26.06
+Mississippi,2023,Sep,25.39
+Missouri,1978,Sep,22.22
+Missouri,1983,Sep,20.78
+Missouri,1988,Sep,20.28
+Missouri,1993,Sep,17.39
+Missouri,1998,Sep,23.0
+Missouri,2003,Sep,18.22
+Missouri,2008,Sep,19.56
+Missouri,2013,Sep,21.5
+Missouri,2018,Sep,21.83
+Missouri,2023,Sep,21.33
+Montana,1978,Sep,13.0
+Montana,1983,Sep,11.17
+Montana,1988,Sep,12.11
+Montana,1993,Sep,10.89
+Montana,1998,Sep,16.33
+Montana,2003,Sep,12.56
+Montana,2008,Sep,12.0
+Montana,2013,Sep,14.89
+Montana,2018,Sep,11.67
+Montana,2023,Sep,14.72
+Nebraska,1978,Sep,19.22
+Nebraska,1983,Sep,18.33
+Nebraska,1988,Sep,17.17
+Nebraska,1993,Sep,14.28
+Nebraska,1998,Sep,20.61
+Nebraska,2003,Sep,16.17
+Nebraska,2008,Sep,16.78
+Nebraska,2013,Sep,20.0
+Nebraska,2018,Sep,18.72
+Nebraska,2023,Sep,19.61
+Nevada,1978,Sep,14.89
+Nevada,1983,Sep,17.5
+Nevada,1988,Sep,16.39
+Nevada,1993,Sep,16.83
+Nevada,1998,Sep,17.17
+Nevada,2003,Sep,18.22
+Nevada,2008,Sep,17.72
+Nevada,2013,Sep,16.94
+Nevada,2018,Sep,18.33
+Nevada,2023,Sep,16.61
+New Hampshire,1978,Sep,11.78
+New Hampshire,1983,Sep,15.39
+New Hampshire,1988,Sep,12.78
+New Hampshire,1993,Sep,13.5
+New Hampshire,1998,Sep,14.78
+New Hampshire,2003,Sep,14.78
+New Hampshire,2008,Sep,14.67
+New Hampshire,2013,Sep,14.11
+New Hampshire,2018,Sep,16.17
+New Hampshire,2023,Sep,16.56
+New Jersey,1978,Sep,17.44
+New Jersey,1983,Sep,19.28
+New Jersey,1988,Sep,17.44
+New Jersey,1993,Sep,18.39
+New Jersey,1998,Sep,20.11
+New Jersey,2003,Sep,19.39
+New Jersey,2008,Sep,19.67
+New Jersey,2013,Sep,18.0
+New Jersey,2018,Sep,21.22
+New Jersey,2023,Sep,19.83
+New Mexico,1978,Sep,17.56
+New Mexico,1983,Sep,19.89
+New Mexico,1988,Sep,16.94
+New Mexico,1993,Sep,17.56
+New Mexico,1998,Sep,20.5
+New Mexico,2003,Sep,18.89
+New Mexico,2008,Sep,17.61
+New Mexico,2013,Sep,18.89
+New Mexico,2018,Sep,19.39
+New Mexico,2023,Sep,20.5
+New York,1978,Sep,13.61
+New York,1983,Sep,16.06
+New York,1988,Sep,14.11
+New York,1993,Sep,14.22
+New York,1998,Sep,16.17
+New York,2003,Sep,15.83
+New York,2008,Sep,15.94
+New York,2013,Sep,14.61
+New York,2018,Sep,17.56
+New York,2023,Sep,16.44
+North Carolina,1978,Sep,22.11
+North Carolina,1983,Sep,21.0
+North Carolina,1988,Sep,20.39
+North Carolina,1993,Sep,22.06
+North Carolina,1998,Sep,22.89
+North Carolina,2003,Sep,20.78
+North Carolina,2008,Sep,21.56
+North Carolina,2013,Sep,20.78
+North Carolina,2018,Sep,24.56
+North Carolina,2023,Sep,21.5
+North Dakota,1978,Sep,16.22
+North Dakota,1983,Sep,13.22
+North Dakota,1988,Sep,13.11
+North Dakota,1993,Sep,11.22
+North Dakota,1998,Sep,16.89
+North Dakota,2003,Sep,13.78
+North Dakota,2008,Sep,13.72
+North Dakota,2013,Sep,16.67
+North Dakota,2018,Sep,12.78
+North Dakota,2023,Sep,16.56
+Ohio,1978,Sep,19.94
+Ohio,1983,Sep,18.5
+Ohio,1988,Sep,17.44
+Ohio,1993,Sep,16.78
+Ohio,1998,Sep,20.0
+Ohio,2003,Sep,17.11
+Ohio,2008,Sep,19.44
+Ohio,2013,Sep,18.06
+Ohio,2018,Sep,20.89
+Ohio,2023,Sep,18.83
+Oklahoma,1978,Sep,24.89
+Oklahoma,1983,Sep,23.67
+Oklahoma,1988,Sep,22.39
+Oklahoma,1993,Sep,20.89
+Oklahoma,1998,Sep,26.44
+Oklahoma,2003,Sep,20.56
+Oklahoma,2008,Sep,21.17
+Oklahoma,2013,Sep,24.33
+Oklahoma,2018,Sep,23.28
+Oklahoma,2023,Sep,24.83
+Oregon,1978,Sep,12.89
+Oregon,1983,Sep,13.22
+Oregon,1988,Sep,14.5
+Oregon,1993,Sep,15.06
+Oregon,1998,Sep,16.67
+Oregon,2003,Sep,16.11
+Oregon,2008,Sep,15.22
+Oregon,2013,Sep,14.61
+Oregon,2018,Sep,14.11
+Oregon,2023,Sep,14.28
+Pennsylvania,1978,Sep,16.83
+Pennsylvania,1983,Sep,16.89
+Pennsylvania,1988,Sep,15.44
+Pennsylvania,1993,Sep,15.89
+Pennsylvania,1998,Sep,18.17
+Pennsylvania,2003,Sep,16.5
+Pennsylvania,2008,Sep,17.44
+Pennsylvania,2013,Sep,16.11
+Pennsylvania,2018,Sep,19.28
+Pennsylvania,2023,Sep,17.56
+Rhode Island,1978,Sep,15.0
+Rhode Island,1983,Sep,18.78
+Rhode Island,1988,Sep,16.22
+Rhode Island,1993,Sep,17.11
+Rhode Island,1998,Sep,18.17
+Rhode Island,2003,Sep,18.11
+Rhode Island,2008,Sep,17.72
+Rhode Island,2013,Sep,16.72
+Rhode Island,2018,Sep,19.17
+Rhode Island,2023,Sep,18.89
+South Carolina,1978,Sep,24.0
+South Carolina,1983,Sep,22.5
+South Carolina,1988,Sep,22.72
+South Carolina,1993,Sep,24.06
+South Carolina,1998,Sep,24.06
+South Carolina,2003,Sep,22.44
+South Carolina,2008,Sep,23.22
+South Carolina,2013,Sep,23.06
+South Carolina,2018,Sep,26.33
+South Carolina,2023,Sep,23.0
+South Dakota,1978,Sep,18.56
+South Dakota,1983,Sep,16.0
+South Dakota,1988,Sep,15.44
+South Dakota,1993,Sep,12.78
+South Dakota,1998,Sep,19.39
+South Dakota,2003,Sep,15.56
+South Dakota,2008,Sep,15.72
+South Dakota,2013,Sep,18.78
+South Dakota,2018,Sep,16.39
+South Dakota,2023,Sep,18.28
+Tennessee,1978,Sep,22.61
+Tennessee,1983,Sep,20.94
+Tennessee,1988,Sep,20.94
+Tennessee,1993,Sep,20.17
+Tennessee,1998,Sep,23.56
+Tennessee,2003,Sep,20.06
+Tennessee,2008,Sep,21.78
+Tennessee,2013,Sep,21.5
+Tennessee,2018,Sep,23.83
+Tennessee,2023,Sep,21.61
+Texas,1978,Sep,24.17
+Texas,1983,Sep,24.83
+Texas,1988,Sep,24.22
+Texas,1993,Sep,23.89
+Texas,1998,Sep,26.39
+Texas,2003,Sep,23.28
+Texas,2008,Sep,22.94
+Texas,2013,Sep,25.67
+Texas,2018,Sep,24.56
+Texas,2023,Sep,27.61
+Utah,1978,Sep,15.22
+Utah,1983,Sep,17.11
+Utah,1988,Sep,15.33
+Utah,1993,Sep,15.83
+Utah,1998,Sep,17.22
+Utah,2003,Sep,16.78
+Utah,2008,Sep,16.61
+Utah,2013,Sep,16.33
+Utah,2018,Sep,18.78
+Utah,2023,Sep,16.94
 Vermont,1978,Sep,11.22
 Vermont,1983,Sep,14.83
 Vermont,1988,Sep,12.33
@@ -179,6 +4349,66 @@ Vermont,2008,Sep,14.72
 Vermont,2013,Sep,13.61
 Vermont,2018,Sep,15.89
 Vermont,2023,Sep,16.06
+Virginia,1978,Sep,20.61
+Virginia,1983,Sep,19.5
+Virginia,1988,Sep,18.44
+Virginia,1993,Sep,20.22
+Virginia,1998,Sep,22.0
+Virginia,2003,Sep,19.28
+Virginia,2008,Sep,20.11
+Virginia,2013,Sep,19.06
+Virginia,2018,Sep,22.67
+Virginia,2023,Sep,20.22
+Washington,1978,Sep,12.83
+Washington,1983,Sep,12.28
+Washington,1988,Sep,14.06
+Washington,1993,Sep,14.67
+Washington,1998,Sep,16.78
+Washington,2003,Sep,15.56
+Washington,2008,Sep,14.33
+Washington,2013,Sep,15.39
+Washington,2018,Sep,13.5
+Washington,2023,Sep,14.67
+West Virginia,1978,Sep,19.61
+West Virginia,1983,Sep,17.56
+West Virginia,1988,Sep,17.28
+West Virginia,1993,Sep,18.11
+West Virginia,1998,Sep,19.83
+West Virginia,2003,Sep,17.56
+West Virginia,2008,Sep,19.17
+West Virginia,2013,Sep,17.72
+West Virginia,2018,Sep,21.33
+West Virginia,2023,Sep,18.61
+Wisconsin,1978,Sep,16.56
+Wisconsin,1983,Sep,15.06
+Wisconsin,1988,Sep,15.17
+Wisconsin,1993,Sep,11.39
+Wisconsin,1998,Sep,17.28
+Wisconsin,2003,Sep,15.22
+Wisconsin,2008,Sep,15.83
+Wisconsin,2013,Sep,16.0
+Wisconsin,2018,Sep,16.22
+Wisconsin,2023,Sep,17.33
+Wyoming,1978,Sep,12.44
+Wyoming,1983,Sep,12.67
+Wyoming,1988,Sep,11.89
+Wyoming,1993,Sep,10.83
+Wyoming,1998,Sep,15.5
+Wyoming,2003,Sep,11.61
+Wyoming,2008,Sep,11.56
+Wyoming,2013,Sep,14.06
+Wyoming,2018,Sep,14.0
+Wyoming,2023,Sep,14.17
+Alaska,1978,Sep,5.89
+Alaska,1983,Sep,2.67
+Alaska,1988,Sep,4.39
+Alaska,1993,Sep,4.28
+Alaska,1998,Sep,5.33
+Alaska,2003,Sep,3.89
+Alaska,2008,Sep,5.11
+Alaska,2013,Sep,4.22
+Alaska,2018,Sep,6.83
+Alaska,2023,Sep,4.78
 Alabama,1978,Oct,16.78
 Alabama,1983,Oct,17.78
 Alabama,1988,Oct,15.11
@@ -189,6 +4419,416 @@ Alabama,2008,Oct,16.78
 Alabama,2013,Oct,18.28
 Alabama,2018,Oct,19.67
 Alabama,2023,Oct,18.44
+Arizona,1978,Oct,18.11
+Arizona,1983,Oct,16.39
+Arizona,1988,Oct,19.0
+Arizona,1993,Oct,16.11
+Arizona,1998,Oct,15.83
+Arizona,2003,Oct,19.61
+Arizona,2008,Oct,17.17
+Arizona,2013,Oct,14.89
+Arizona,2018,Oct,15.5
+Arizona,2023,Oct,18.11
+Arkansas,1978,Oct,15.5
+Arkansas,1983,Oct,17.22
+Arkansas,1988,Oct,14.33
+Arkansas,1993,Oct,14.83
+Arkansas,1998,Oct,17.83
+Arkansas,2003,Oct,17.11
+Arkansas,2008,Oct,15.56
+Arkansas,2013,Oct,16.39
+Arkansas,2018,Oct,17.0
+Arkansas,2023,Oct,17.83
+California,1978,Oct,17.61
+California,1983,Oct,16.33
+California,1988,Oct,18.11
+California,1993,Oct,16.33
+California,1998,Oct,14.28
+California,2003,Oct,18.56
+California,2008,Oct,16.56
+California,2013,Oct,14.72
+California,2018,Oct,16.06
+California,2023,Oct,16.72
+Colorado,1978,Oct,8.89
+Colorado,1983,Oct,8.89
+Colorado,1988,Oct,9.83
+Colorado,1993,Oct,7.11
+Colorado,1998,Oct,8.33
+Colorado,2003,Oct,10.83
+Colorado,2008,Oct,8.67
+Colorado,2013,Oct,6.78
+Colorado,2018,Oct,7.22
+Colorado,2023,Oct,9.0
+Connecticut,1978,Oct,9.72
+Connecticut,1983,Oct,10.61
+Connecticut,1988,Oct,8.11
+Connecticut,1993,Oct,9.33
+Connecticut,1998,Oct,11.0
+Connecticut,2003,Oct,9.61
+Connecticut,2008,Oct,10.0
+Connecticut,2013,Oct,11.89
+Connecticut,2018,Oct,11.28
+Connecticut,2023,Oct,13.39
+Delaware,1978,Oct,12.83
+Delaware,1983,Oct,14.22
+Delaware,1988,Oct,10.72
+Delaware,1993,Oct,13.22
+Delaware,1998,Oct,14.17
+Delaware,2003,Oct,13.22
+Delaware,2008,Oct,13.44
+Delaware,2013,Oct,15.28
+Delaware,2018,Oct,15.67
+Delaware,2023,Oct,15.67
+Florida,1978,Oct,22.33
+Florida,1983,Oct,23.11
+Florida,1988,Oct,21.28
+Florida,1993,Oct,22.89
+Florida,1998,Oct,24.0
+Florida,2003,Oct,23.06
+Florida,2008,Oct,21.89
+Florida,2013,Oct,23.33
+Florida,2018,Oct,24.72
+Florida,2023,Oct,23.0
+Georgia,1978,Oct,17.44
+Georgia,1983,Oct,18.28
+Georgia,1988,Oct,15.61
+Georgia,1993,Oct,17.78
+Georgia,1998,Oct,19.33
+Georgia,2003,Oct,18.0
+Georgia,2008,Oct,16.89
+Georgia,2013,Oct,18.33
+Georgia,2018,Oct,20.22
+Georgia,2023,Oct,18.33
+Idaho,1978,Oct,7.28
+Idaho,1983,Oct,7.33
+Idaho,1988,Oct,10.78
+Idaho,1993,Oct,7.28
+Idaho,1998,Oct,6.28
+Idaho,2003,Oct,9.28
+Idaho,2008,Oct,6.94
+Idaho,2013,Oct,5.61
+Idaho,2018,Oct,6.67
+Idaho,2023,Oct,7.83
+Illinois,1978,Oct,11.33
+Illinois,1983,Oct,13.0
+Illinois,1988,Oct,9.28
+Illinois,1993,Oct,11.0
+Illinois,1998,Oct,13.67
+Illinois,2003,Oct,12.5
+Illinois,2008,Oct,12.33
+Illinois,2013,Oct,12.5
+Illinois,2018,Oct,12.33
+Illinois,2023,Oct,13.72
+Indiana,1978,Oct,10.67
+Indiana,1983,Oct,12.72
+Indiana,1988,Oct,8.39
+Indiana,1993,Oct,10.61
+Indiana,1998,Oct,13.22
+Indiana,2003,Oct,11.61
+Indiana,2008,Oct,12.06
+Indiana,2013,Oct,12.39
+Indiana,2018,Oct,12.72
+Indiana,2023,Oct,13.56
+Iowa,1978,Oct,9.89
+Iowa,1983,Oct,10.56
+Iowa,1988,Oct,7.78
+Iowa,1993,Oct,9.56
+Iowa,1998,Oct,11.72
+Iowa,2003,Oct,11.33
+Iowa,2008,Oct,10.39
+Iowa,2013,Oct,10.28
+Iowa,2018,Oct,9.0
+Iowa,2023,Oct,11.89
+Kansas,1978,Oct,13.67
+Kansas,1983,Oct,14.22
+Kansas,1988,Oct,12.06
+Kansas,1993,Oct,12.0
+Kansas,1998,Oct,14.72
+Kansas,2003,Oct,14.61
+Kansas,2008,Oct,13.0
+Kansas,2013,Oct,12.89
+Kansas,2018,Oct,12.0
+Kansas,2023,Oct,14.33
+Kentucky,1978,Oct,12.17
+Kentucky,1983,Oct,14.67
+Kentucky,1988,Oct,10.0
+Kentucky,1993,Oct,12.5
+Kentucky,1998,Oct,15.11
+Kentucky,2003,Oct,13.72
+Kentucky,2008,Oct,13.72
+Kentucky,2013,Oct,14.22
+Kentucky,2018,Oct,14.94
+Kentucky,2023,Oct,15.11
+Louisiana,1978,Oct,19.06
+Louisiana,1983,Oct,19.72
+Louisiana,1988,Oct,18.28
+Louisiana,1993,Oct,19.17
+Louisiana,1998,Oct,21.11
+Louisiana,2003,Oct,19.89
+Louisiana,2008,Oct,18.83
+Louisiana,2013,Oct,20.33
+Louisiana,2018,Oct,21.5
+Louisiana,2023,Oct,20.78
+Maine,1978,Oct,5.94
+Maine,1983,Oct,6.83
+Maine,1988,Oct,5.28
+Maine,1993,Oct,4.67
+Maine,1998,Oct,7.33
+Maine,2003,Oct,7.0
+Maine,2008,Oct,6.78
+Maine,2013,Oct,8.5
+Maine,2018,Oct,5.5
+Maine,2023,Oct,10.94
+Maryland,1978,Oct,12.33
+Maryland,1983,Oct,13.67
+Maryland,1988,Oct,10.39
+Maryland,1993,Oct,12.61
+Maryland,1998,Oct,13.89
+Maryland,2003,Oct,12.61
+Maryland,2008,Oct,12.89
+Maryland,2013,Oct,14.5
+Maryland,2018,Oct,15.0
+Maryland,2023,Oct,15.33
+Massachusetts,1978,Oct,9.06
+Massachusetts,1983,Oct,10.11
+Massachusetts,1988,Oct,7.78
+Massachusetts,1993,Oct,8.78
+Massachusetts,1998,Oct,10.61
+Massachusetts,2003,Oct,9.22
+Massachusetts,2008,Oct,9.5
+Massachusetts,2013,Oct,11.0
+Massachusetts,2018,Oct,10.17
+Massachusetts,2023,Oct,13.28
+Michigan,1978,Oct,7.94
+Michigan,1983,Oct,8.67
+Michigan,1988,Oct,5.83
+Michigan,1993,Oct,7.06
+Michigan,1998,Oct,10.06
+Michigan,2003,Oct,8.11
+Michigan,2008,Oct,8.22
+Michigan,2013,Oct,9.33
+Michigan,2018,Oct,7.72
+Michigan,2023,Oct,10.33
+Minnesota,1978,Oct,7.72
+Minnesota,1983,Oct,7.11
+Minnesota,1988,Oct,4.94
+Minnesota,1993,Oct,5.61
+Minnesota,1998,Oct,8.72
+Minnesota,2003,Oct,8.33
+Minnesota,2008,Oct,7.78
+Minnesota,2013,Oct,7.17
+Minnesota,2018,Oct,4.83
+Minnesota,2023,Oct,8.72
+Mississippi,1978,Oct,17.0
+Mississippi,1983,Oct,18.17
+Mississippi,1988,Oct,15.61
+Mississippi,1993,Oct,17.22
+Mississippi,1998,Oct,19.78
+Mississippi,2003,Oct,18.06
+Mississippi,2008,Oct,17.0
+Mississippi,2013,Oct,18.56
+Mississippi,2018,Oct,19.67
+Mississippi,2023,Oct,19.33
+Missouri,1978,Oct,12.72
+Missouri,1983,Oct,14.33
+Missouri,1988,Oct,10.83
+Missouri,1993,Oct,11.94
+Missouri,1998,Oct,14.78
+Missouri,2003,Oct,14.0
+Missouri,2008,Oct,13.17
+Missouri,2013,Oct,13.28
+Missouri,2018,Oct,13.56
+Missouri,2023,Oct,14.94
+Montana,1978,Oct,7.0
+Montana,1983,Oct,7.06
+Montana,1988,Oct,8.17
+Montana,1993,Oct,6.11
+Montana,1998,Oct,6.78
+Montana,2003,Oct,8.61
+Montana,2008,Oct,6.5
+Montana,2013,Oct,4.89
+Montana,2018,Oct,5.33
+Montana,2023,Oct,5.78
+Nebraska,1978,Oct,10.44
+Nebraska,1983,Oct,10.89
+Nebraska,1988,Oct,9.39
+Nebraska,1993,Oct,9.39
+Nebraska,1998,Oct,10.94
+Nebraska,2003,Oct,12.56
+Nebraska,2008,Oct,10.11
+Nebraska,2013,Oct,9.33
+Nebraska,2018,Oct,8.44
+Nebraska,2023,Oct,10.67
+Nevada,1978,Oct,12.44
+Nevada,1983,Oct,11.22
+Nevada,1988,Oct,14.44
+Nevada,1993,Oct,10.72
+Nevada,1998,Oct,8.83
+Nevada,2003,Oct,13.89
+Nevada,2008,Oct,11.11
+Nevada,2013,Oct,8.94
+Nevada,2018,Oct,10.17
+Nevada,2023,Oct,11.33
+New Hampshire,1978,Oct,6.78
+New Hampshire,1983,Oct,7.67
+New Hampshire,1988,Oct,5.72
+New Hampshire,1993,Oct,6.11
+New Hampshire,1998,Oct,8.44
+New Hampshire,2003,Oct,7.17
+New Hampshire,2008,Oct,7.22
+New Hampshire,2013,Oct,8.89
+New Hampshire,2018,Oct,7.22
+New Hampshire,2023,Oct,11.28
+New Jersey,1978,Oct,11.5
+New Jersey,1983,Oct,12.5
+New Jersey,1988,Oct,9.61
+New Jersey,1993,Oct,11.33
+New Jersey,1998,Oct,12.89
+New Jersey,2003,Oct,11.61
+New Jersey,2008,Oct,11.89
+New Jersey,2013,Oct,13.94
+New Jersey,2018,Oct,13.56
+New Jersey,2023,Oct,14.56
+New Mexico,1978,Oct,13.0
+New Mexico,1983,Oct,12.94
+New Mexico,1988,Oct,13.78
+New Mexico,1993,Oct,11.5
+New Mexico,1998,Oct,13.0
+New Mexico,2003,Oct,14.94
+New Mexico,2008,Oct,12.72
+New Mexico,2013,Oct,11.44
+New Mexico,2018,Oct,12.17
+New Mexico,2023,Oct,14.17
+New York,1978,Oct,7.78
+New York,1983,Oct,9.11
+New York,1988,Oct,6.56
+New York,1993,Oct,7.56
+New York,1998,Oct,9.67
+New York,2003,Oct,7.89
+New York,2008,Oct,8.0
+New York,2013,Oct,10.44
+New York,2018,Oct,8.72
+New York,2023,Oct,11.72
+North Carolina,1978,Oct,14.22
+North Carolina,1983,Oct,15.56
+North Carolina,1988,Oct,12.0
+North Carolina,1993,Oct,14.94
+North Carolina,1998,Oct,16.11
+North Carolina,2003,Oct,14.94
+North Carolina,2008,Oct,14.33
+North Carolina,2013,Oct,15.94
+North Carolina,2018,Oct,16.94
+North Carolina,2023,Oct,16.11
+North Dakota,1978,Oct,7.44
+North Dakota,1983,Oct,6.67
+North Dakota,1988,Oct,5.89
+North Dakota,1993,Oct,5.44
+North Dakota,1998,Oct,7.44
+North Dakota,2003,Oct,8.83
+North Dakota,2008,Oct,6.89
+North Dakota,2013,Oct,5.33
+North Dakota,2018,Oct,3.94
+North Dakota,2023,Oct,6.56
+Ohio,1978,Oct,10.0
+Ohio,1983,Oct,12.06
+Ohio,1988,Oct,8.0
+Ohio,1993,Oct,10.39
+Ohio,1998,Oct,12.33
+Ohio,2003,Oct,10.67
+Ohio,2008,Oct,11.11
+Ohio,2013,Oct,12.39
+Ohio,2018,Oct,12.39
+Ohio,2023,Oct,13.22
+Oklahoma,1978,Oct,16.72
+Oklahoma,1983,Oct,16.89
+Oklahoma,1988,Oct,14.72
+Oklahoma,1993,Oct,14.17
+Oklahoma,1998,Oct,17.56
+Oklahoma,2003,Oct,17.11
+Oklahoma,2008,Oct,15.61
+Oklahoma,2013,Oct,15.78
+Oklahoma,2018,Oct,15.61
+Oklahoma,2023,Oct,17.06
+Oregon,1978,Oct,10.0
+Oregon,1983,Oct,9.44
+Oregon,1988,Oct,13.0
+Oregon,1993,Oct,10.33
+Oregon,1998,Oct,8.22
+Oregon,2003,Oct,11.17
+Oregon,2008,Oct,9.33
+Oregon,2013,Oct,7.89
+Oregon,2018,Oct,9.33
+Oregon,2023,Oct,10.0
+Pennsylvania,1978,Oct,9.11
+Pennsylvania,1983,Oct,10.61
+Pennsylvania,1988,Oct,7.56
+Pennsylvania,1993,Oct,9.17
+Pennsylvania,1998,Oct,11.0
+Pennsylvania,2003,Oct,9.17
+Pennsylvania,2008,Oct,9.39
+Pennsylvania,2013,Oct,11.89
+Pennsylvania,2018,Oct,11.28
+Pennsylvania,2023,Oct,12.28
+Rhode Island,1978,Oct,10.33
+Rhode Island,1983,Oct,11.22
+Rhode Island,1988,Oct,8.61
+Rhode Island,1993,Oct,10.06
+Rhode Island,1998,Oct,11.5
+Rhode Island,2003,Oct,10.39
+Rhode Island,2008,Oct,10.67
+Rhode Island,2013,Oct,12.22
+Rhode Island,2018,Oct,11.5
+Rhode Island,2023,Oct,13.89
+South Carolina,1978,Oct,16.56
+South Carolina,1983,Oct,17.61
+South Carolina,1988,Oct,14.39
+South Carolina,1993,Oct,17.22
+South Carolina,1998,Oct,18.44
+South Carolina,2003,Oct,17.33
+South Carolina,2008,Oct,16.28
+South Carolina,2013,Oct,17.89
+South Carolina,2018,Oct,19.39
+South Carolina,2023,Oct,17.72
+South Dakota,1978,Oct,9.22
+South Dakota,1983,Oct,8.83
+South Dakota,1988,Oct,8.06
+South Dakota,1993,Oct,7.78
+South Dakota,1998,Oct,9.11
+South Dakota,2003,Oct,11.0
+South Dakota,2008,Oct,8.44
+South Dakota,2013,Oct,6.83
+South Dakota,2018,Oct,6.22
+South Dakota,2023,Oct,8.5
+Tennessee,1978,Oct,13.28
+Tennessee,1983,Oct,15.61
+Tennessee,1988,Oct,11.33
+Tennessee,1993,Oct,13.78
+Tennessee,1998,Oct,16.44
+Tennessee,2003,Oct,14.72
+Tennessee,2008,Oct,14.39
+Tennessee,2013,Oct,15.28
+Tennessee,2018,Oct,16.11
+Tennessee,2023,Oct,16.11
+Texas,1978,Oct,18.61
+Texas,1983,Oct,19.72
+Texas,1988,Oct,19.06
+Texas,1993,Oct,18.0
+Texas,1998,Oct,20.28
+Texas,2003,Oct,19.67
+Texas,2008,Oct,18.56
+Texas,2013,Oct,19.28
+Texas,2018,Oct,18.56
+Texas,2023,Oct,20.28
+Utah,1978,Oct,11.17
+Utah,1983,Oct,10.22
+Utah,1988,Oct,13.0
+Utah,1993,Oct,8.89
+Utah,1998,Oct,8.78
+Utah,2003,Oct,12.78
+Utah,2008,Oct,10.22
+Utah,2013,Oct,8.0
+Utah,2018,Oct,8.61
+Utah,2023,Oct,10.56
 Vermont,1978,Oct,6.28
 Vermont,1983,Oct,7.22
 Vermont,1988,Oct,5.33
@@ -199,6 +4839,66 @@ Vermont,2008,Oct,6.72
 Vermont,2013,Oct,8.78
 Vermont,2018,Oct,6.94
 Vermont,2023,Oct,10.89
+Virginia,1978,Oct,12.33
+Virginia,1983,Oct,13.44
+Virginia,1988,Oct,10.0
+Virginia,1993,Oct,12.67
+Virginia,1998,Oct,14.11
+Virginia,2003,Oct,12.89
+Virginia,2008,Oct,12.67
+Virginia,2013,Oct,14.22
+Virginia,2018,Oct,15.0
+Virginia,2023,Oct,15.0
+Washington,1978,Oct,8.67
+Washington,1983,Oct,8.06
+Washington,1988,Oct,11.28
+Washington,1993,Oct,10.06
+Washington,1998,Oct,8.33
+Washington,2003,Oct,10.33
+Washington,2008,Oct,8.11
+Washington,2013,Oct,7.83
+Washington,2018,Oct,8.56
+Washington,2023,Oct,9.56
+West Virginia,1978,Oct,10.33
+West Virginia,1983,Oct,12.06
+West Virginia,1988,Oct,8.0
+West Virginia,1993,Oct,10.89
+West Virginia,1998,Oct,12.44
+West Virginia,2003,Oct,11.06
+West Virginia,2008,Oct,11.0
+West Virginia,2013,Oct,12.61
+West Virginia,2018,Oct,12.94
+West Virginia,2023,Oct,13.28
+Wisconsin,1978,Oct,7.72
+Wisconsin,1983,Oct,8.33
+Wisconsin,1988,Oct,5.11
+Wisconsin,1993,Oct,6.72
+Wisconsin,1998,Oct,9.44
+Wisconsin,2003,Oct,8.22
+Wisconsin,2008,Oct,8.17
+Wisconsin,2013,Oct,8.17
+Wisconsin,2018,Oct,6.44
+Wisconsin,2023,Oct,9.67
+Wyoming,1978,Oct,6.61
+Wyoming,1983,Oct,7.06
+Wyoming,1988,Oct,8.56
+Wyoming,1993,Oct,5.11
+Wyoming,1998,Oct,6.22
+Wyoming,2003,Oct,8.33
+Wyoming,2008,Oct,6.06
+Wyoming,2013,Oct,4.06
+Wyoming,2018,Oct,5.0
+Wyoming,2023,Oct,6.39
+Alaska,1978,Oct,-4.44
+Alaska,1983,Oct,-5.56
+Alaska,1988,Oct,-6.33
+Alaska,1993,Oct,-1.17
+Alaska,1998,Oct,-2.56
+Alaska,2003,Oct,-0.17
+Alaska,2008,Oct,-7.28
+Alaska,2013,Oct,1.11
+Alaska,2018,Oct,1.0
+Alaska,2023,Oct,-2.33
 Alabama,1978,Nov,15.11
 Alabama,1983,Nov,11.78
 Alabama,1988,Nov,13.61
@@ -209,6 +4909,416 @@ Alabama,2008,Nov,10.56
 Alabama,2013,Nov,10.89
 Alabama,2018,Nov,10.22
 Alabama,2023,Nov,
+Arizona,1978,Nov,9.56
+Arizona,1983,Nov,9.56
+Arizona,1988,Nov,10.0
+Arizona,1993,Nov,8.44
+Arizona,1998,Nov,10.33
+Arizona,2003,Nov,9.33
+Arizona,2008,Nov,11.83
+Arizona,2013,Nov,10.72
+Arizona,2018,Nov,9.67
+Arizona,2023,Nov,
+Arkansas,1978,Nov,11.72
+Arkansas,1983,Nov,10.56
+Arkansas,1988,Nov,10.78
+Arkansas,1993,Nov,7.78
+Arkansas,1998,Nov,12.06
+Arkansas,2003,Nov,12.56
+Arkansas,2008,Nov,9.39
+Arkansas,2013,Nov,8.61
+Arkansas,2018,Nov,7.67
+Arkansas,2023,Nov,
+California,1978,Nov,8.33
+California,1983,Nov,9.56
+California,1988,Nov,9.89
+California,1993,Nov,9.33
+California,1998,Nov,9.33
+California,2003,Nov,8.22
+California,2008,Nov,12.17
+California,2013,Nov,11.06
+California,2018,Nov,11.44
+California,2023,Nov,
+Colorado,1978,Nov,1.06
+Colorado,1983,Nov,1.0
+Colorado,1988,Nov,1.39
+Colorado,1993,Nov,-1.56
+Colorado,1998,Nov,3.11
+Colorado,2003,Nov,0.56
+Colorado,2008,Nov,3.5
+Colorado,2013,Nov,1.78
+Colorado,2018,Nov,0.28
+Colorado,2023,Nov,
+Connecticut,1978,Nov,4.83
+Connecticut,1983,Nov,5.56
+Connecticut,1988,Nov,5.56
+Connecticut,1993,Nov,4.83
+Connecticut,1998,Nov,5.17
+Connecticut,2003,Nov,6.56
+Connecticut,2008,Nov,4.72
+Connecticut,2013,Nov,4.33
+Connecticut,2018,Nov,3.94
+Connecticut,2023,Nov,
+Delaware,1978,Nov,8.89
+Delaware,1983,Nov,8.5
+Delaware,1988,Nov,8.5
+Delaware,1993,Nov,8.11
+Delaware,1998,Nov,8.39
+Delaware,2003,Nov,10.83
+Delaware,2008,Nov,7.44
+Delaware,2013,Nov,7.28
+Delaware,2018,Nov,7.61
+Delaware,2023,Nov,
+Florida,1978,Nov,20.39
+Florida,1983,Nov,17.56
+Florida,1988,Nov,19.83
+Florida,1993,Nov,18.61
+Florida,1998,Nov,20.89
+Florida,2003,Nov,20.33
+Florida,2008,Nov,16.39
+Florida,2013,Nov,19.5
+Florida,2018,Nov,19.28
+Florida,2023,Nov,
+Georgia,1978,Nov,15.44
+Georgia,1983,Nov,12.0
+Georgia,1988,Nov,13.72
+Georgia,1993,Nov,12.11
+Georgia,1998,Nov,15.33
+Georgia,2003,Nov,15.22
+Georgia,2008,Nov,10.78
+Georgia,2013,Nov,11.78
+Georgia,2018,Nov,11.78
+Georgia,2023,Nov,
+Idaho,1978,Nov,-2.0
+Idaho,1983,Nov,0.78
+Idaho,1988,Nov,-0.5
+Idaho,1993,Nov,-3.0
+Idaho,1998,Nov,1.28
+Idaho,2003,Nov,-2.11
+Idaho,2008,Nov,2.83
+Idaho,2013,Nov,1.0
+Idaho,2018,Nov,0.0
+Idaho,2023,Nov,
+Illinois,1978,Nov,6.28
+Illinois,1983,Nov,6.89
+Illinois,1988,Nov,5.78
+Illinois,1993,Nov,4.22
+Illinois,1998,Nov,7.56
+Illinois,2003,Nov,7.11
+Illinois,2008,Nov,5.06
+Illinois,2013,Nov,3.78
+Illinois,2018,Nov,2.0
+Illinois,2023,Nov,
+Indiana,1978,Nov,6.67
+Indiana,1983,Nov,6.83
+Indiana,1988,Nov,5.89
+Indiana,1993,Nov,5.0
+Indiana,1998,Nov,7.17
+Indiana,2003,Nov,7.78
+Indiana,2008,Nov,4.72
+Indiana,2013,Nov,4.0
+Indiana,2018,Nov,2.67
+Indiana,2023,Nov,
+Iowa,1978,Nov,1.67
+Iowa,1983,Nov,3.11
+Iowa,1988,Nov,3.0
+Iowa,1993,Nov,1.0
+Iowa,1998,Nov,4.83
+Iowa,2003,Nov,2.17
+Iowa,2008,Nov,2.94
+Iowa,2013,Nov,1.06
+Iowa,2018,Nov,-1.11
+Iowa,2023,Nov,
+Kansas,1978,Nov,5.44
+Kansas,1983,Nov,6.5
+Kansas,1988,Nov,6.94
+Kansas,1993,Nov,3.5
+Kansas,1998,Nov,8.39
+Kansas,2003,Nov,5.67
+Kansas,2008,Nov,7.0
+Kansas,2013,Nov,5.17
+Kansas,2018,Nov,3.44
+Kansas,2023,Nov,
+Kentucky,1978,Nov,9.33
+Kentucky,1983,Nov,8.17
+Kentucky,1988,Nov,8.17
+Kentucky,1993,Nov,6.89
+Kentucky,1998,Nov,9.06
+Kentucky,2003,Nov,10.28
+Kentucky,2008,Nov,6.22
+Kentucky,2013,Nov,6.0
+Kentucky,2018,Nov,5.5
+Kentucky,2023,Nov,
+Louisiana,1978,Nov,16.78
+Louisiana,1983,Nov,14.5
+Louisiana,1988,Nov,16.06
+Louisiana,1993,Nov,12.44
+Louisiana,1998,Nov,16.33
+Louisiana,2003,Nov,16.61
+Louisiana,2008,Nov,13.78
+Louisiana,2013,Nov,12.78
+Louisiana,2018,Nov,12.67
+Louisiana,2023,Nov,
+Maine,1978,Nov,-0.78
+Maine,1983,Nov,1.33
+Maine,1988,Nov,1.94
+Maine,1993,Nov,0.39
+Maine,1998,Nov,0.94
+Maine,2003,Nov,1.89
+Maine,2008,Nov,1.67
+Maine,2013,Nov,0.17
+Maine,2018,Nov,-1.89
+Maine,2023,Nov,
+Maryland,1978,Nov,8.28
+Maryland,1983,Nov,8.0
+Maryland,1988,Nov,7.89
+Maryland,1993,Nov,7.56
+Maryland,1998,Nov,8.17
+Maryland,2003,Nov,10.33
+Maryland,2008,Nov,6.89
+Maryland,2013,Nov,6.28
+Maryland,2018,Nov,6.33
+Maryland,2023,Nov,
+Massachusetts,1978,Nov,4.11
+Massachusetts,1983,Nov,5.28
+Massachusetts,1988,Nov,5.17
+Massachusetts,1993,Nov,4.5
+Massachusetts,1998,Nov,4.61
+Massachusetts,2003,Nov,6.0
+Massachusetts,2008,Nov,4.39
+Massachusetts,2013,Nov,3.78
+Massachusetts,2018,Nov,3.22
+Massachusetts,2023,Nov,
+Michigan,1978,Nov,1.94
+Michigan,1983,Nov,2.56
+Michigan,1988,Nov,3.0
+Michigan,1993,Nov,1.0
+Michigan,1998,Nov,4.0
+Michigan,2003,Nov,3.17
+Michigan,2008,Nov,2.06
+Michigan,2013,Nov,1.22
+Michigan,2018,Nov,-0.67
+Michigan,2023,Nov,
+Minnesota,1978,Nov,-3.61
+Minnesota,1983,Nov,-0.83
+Minnesota,1988,Nov,-1.89
+Minnesota,1993,Nov,-3.78
+Minnesota,1998,Nov,-0.06
+Minnesota,2003,Nov,-3.0
+Minnesota,2008,Nov,-0.67
+Minnesota,2013,Nov,-2.44
+Minnesota,2018,Nov,-5.11
+Minnesota,2023,Nov,
+Mississippi,1978,Nov,15.06
+Mississippi,1983,Nov,12.28
+Mississippi,1988,Nov,14.0
+Mississippi,1993,Nov,10.89
+Mississippi,1998,Nov,14.44
+Mississippi,2003,Nov,14.78
+Mississippi,2008,Nov,11.11
+Mississippi,2013,Nov,10.61
+Mississippi,2018,Nov,10.28
+Mississippi,2023,Nov,
+Missouri,1978,Nov,7.56
+Missouri,1983,Nov,7.94
+Missouri,1988,Nov,7.39
+Missouri,1993,Nov,4.67
+Missouri,1998,Nov,9.11
+Missouri,2003,Nov,7.94
+Missouri,2008,Nov,6.5
+Missouri,2013,Nov,5.44
+Missouri,2018,Nov,3.11
+Missouri,2023,Nov,
+Montana,1978,Nov,-5.56
+Montana,1983,Nov,-0.33
+Montana,1988,Nov,-0.78
+Montana,1993,Nov,-3.78
+Montana,1998,Nov,0.61
+Montana,2003,Nov,-4.44
+Montana,2008,Nov,2.11
+Montana,2013,Nov,-0.89
+Montana,2018,Nov,-1.0
+Montana,2023,Nov,
+Nebraska,1978,Nov,0.89
+Nebraska,1983,Nov,2.61
+Nebraska,1988,Nov,3.56
+Nebraska,1993,Nov,-0.11
+Nebraska,1998,Nov,4.78
+Nebraska,2003,Nov,1.5
+Nebraska,2008,Nov,3.83
+Nebraska,2013,Nov,2.22
+Nebraska,2018,Nov,0.83
+Nebraska,2023,Nov,
+Nevada,1978,Nov,2.39
+Nevada,1983,Nov,3.89
+Nevada,1988,Nov,4.06
+Nevada,1993,Nov,1.83
+Nevada,1998,Nov,4.17
+Nevada,2003,Nov,2.17
+Nevada,2008,Nov,6.89
+Nevada,2013,Nov,5.28
+Nevada,2018,Nov,4.11
+Nevada,2023,Nov,
+New Hampshire,1978,Nov,0.83
+New Hampshire,1983,Nov,2.22
+New Hampshire,1988,Nov,2.17
+New Hampshire,1993,Nov,1.56
+New Hampshire,1998,Nov,2.28
+New Hampshire,2003,Nov,3.0
+New Hampshire,2008,Nov,1.94
+New Hampshire,2013,Nov,0.67
+New Hampshire,2018,Nov,-0.44
+New Hampshire,2023,Nov,
+New Jersey,1978,Nov,7.33
+New Jersey,1983,Nov,7.17
+New Jersey,1988,Nov,7.39
+New Jersey,1993,Nov,6.61
+New Jersey,1998,Nov,7.06
+New Jersey,2003,Nov,9.17
+New Jersey,2008,Nov,6.5
+New Jersey,2013,Nov,6.06
+New Jersey,2018,Nov,5.83
+New Jersey,2023,Nov,
+New Mexico,1978,Nov,6.5
+New Mexico,1983,Nov,6.39
+New Mexico,1988,Nov,6.56
+New Mexico,1993,Nov,4.44
+New Mexico,1998,Nov,7.61
+New Mexico,2003,Nov,7.0
+New Mexico,2008,Nov,7.0
+New Mexico,2013,Nov,5.94
+New Mexico,2018,Nov,5.11
+New Mexico,2023,Nov,
+New York,1978,Nov,2.56
+New York,1983,Nov,3.06
+New York,1988,Nov,3.94
+New York,1993,Nov,2.44
+New York,1998,Nov,3.61
+New York,2003,Nov,4.72
+New York,2008,Nov,2.44
+New York,2013,Nov,1.33
+New York,2018,Nov,0.72
+New York,2023,Nov,
+North Carolina,1978,Nov,12.0
+North Carolina,1983,Nov,9.89
+North Carolina,1988,Nov,10.39
+North Carolina,1993,Nov,10.11
+North Carolina,1998,Nov,11.0
+North Carolina,2003,Nov,13.17
+North Carolina,2008,Nov,8.44
+North Carolina,2013,Nov,8.78
+North Carolina,2018,Nov,9.11
+North Carolina,2023,Nov,
+North Dakota,1978,Nov,-6.0
+North Dakota,1983,Nov,-1.22
+North Dakota,1988,Nov,-2.83
+North Dakota,1993,Nov,-4.33
+North Dakota,1998,Nov,-1.78
+North Dakota,2003,Nov,-6.89
+North Dakota,2008,Nov,-1.39
+North Dakota,2013,Nov,-3.22
+North Dakota,2018,Nov,-5.06
+North Dakota,2023,Nov,
+Ohio,1978,Nov,6.11
+Ohio,1983,Nov,6.22
+Ohio,1988,Nov,6.0
+Ohio,1993,Nov,5.22
+Ohio,1998,Nov,6.61
+Ohio,2003,Nov,8.0
+Ohio,2008,Nov,4.39
+Ohio,2013,Nov,3.89
+Ohio,2018,Nov,3.0
+Ohio,2023,Nov,
+Oklahoma,1978,Nov,9.78
+Oklahoma,1983,Nov,10.22
+Oklahoma,1988,Nov,10.06
+Oklahoma,1993,Nov,6.61
+Oklahoma,1998,Nov,11.33
+Oklahoma,2003,Nov,10.17
+Oklahoma,2008,Nov,10.11
+Oklahoma,2013,Nov,8.11
+Oklahoma,2018,Nov,6.94
+Oklahoma,2023,Nov,
+Oregon,1978,Nov,0.78
+Oregon,1983,Nov,4.17
+Oregon,1988,Nov,3.22
+Oregon,1993,Nov,0.89
+Oregon,1998,Nov,3.61
+Oregon,2003,Nov,1.61
+Oregon,2008,Nov,5.78
+Oregon,2013,Nov,4.11
+Oregon,2018,Nov,4.06
+Oregon,2023,Nov,
+Pennsylvania,1978,Nov,4.94
+Pennsylvania,1983,Nov,5.0
+Pennsylvania,1988,Nov,5.22
+Pennsylvania,1993,Nov,4.33
+Pennsylvania,1998,Nov,5.28
+Pennsylvania,2003,Nov,7.06
+Pennsylvania,2008,Nov,3.83
+Pennsylvania,2013,Nov,3.0
+Pennsylvania,2018,Nov,2.61
+Pennsylvania,2023,Nov,
+Rhode Island,1978,Nov,5.33
+Rhode Island,1983,Nov,6.61
+Rhode Island,1988,Nov,6.5
+Rhode Island,1993,Nov,5.94
+Rhode Island,1998,Nov,5.89
+Rhode Island,2003,Nov,7.33
+Rhode Island,2008,Nov,5.56
+Rhode Island,2013,Nov,5.17
+Rhode Island,2018,Nov,5.0
+Rhode Island,2023,Nov,
+South Carolina,1978,Nov,14.56
+South Carolina,1983,Nov,11.44
+South Carolina,1988,Nov,12.78
+South Carolina,1993,Nov,12.17
+South Carolina,1998,Nov,14.06
+South Carolina,2003,Nov,14.78
+South Carolina,2008,Nov,10.17
+South Carolina,2013,Nov,10.83
+South Carolina,2018,Nov,11.06
+South Carolina,2023,Nov,
+South Dakota,1978,Nov,-2.44
+South Dakota,1983,Nov,0.17
+South Dakota,1988,Nov,0.67
+South Dakota,1993,Nov,-2.11
+South Dakota,1998,Nov,2.22
+South Dakota,2003,Nov,-2.44
+South Dakota,2008,Nov,1.22
+South Dakota,2013,Nov,0.06
+South Dakota,2018,Nov,-1.5
+South Dakota,2023,Nov,
+Tennessee,1978,Nov,11.22
+Tennessee,1983,Nov,8.83
+Tennessee,1988,Nov,9.61
+Tennessee,1993,Nov,7.83
+Tennessee,1998,Nov,10.39
+Tennessee,2003,Nov,11.56
+Tennessee,2008,Nov,7.33
+Tennessee,2013,Nov,7.11
+Tennessee,2018,Nov,6.89
+Tennessee,2023,Nov,
+Texas,1978,Nov,13.61
+Texas,1983,Nov,14.17
+Texas,1988,Nov,14.5
+Texas,1993,Nov,10.56
+Texas,1998,Nov,14.72
+Texas,2003,Nov,14.44
+Texas,2008,Nov,13.78
+Texas,2013,Nov,11.61
+Texas,2018,Nov,11.06
+Texas,2023,Nov,
+Utah,1978,Nov,1.5
+Utah,1983,Nov,2.56
+Utah,1988,Nov,2.61
+Utah,1993,Nov,0.06
+Utah,1998,Nov,3.33
+Utah,2003,Nov,1.17
+Utah,2008,Nov,4.94
+Utah,2013,Nov,3.33
+Utah,2018,Nov,1.67
+Utah,2023,Nov,
 Vermont,1978,Nov,0.39
 Vermont,1983,Nov,1.39
 Vermont,1988,Nov,1.61
@@ -219,6 +5329,66 @@ Vermont,2008,Nov,1.5
 Vermont,2013,Nov,-0.11
 Vermont,2018,Nov,-1.11
 Vermont,2023,Nov,
+Virginia,1978,Nov,9.33
+Virginia,1983,Nov,8.0
+Virginia,1988,Nov,7.94
+Virginia,1993,Nov,7.94
+Virginia,1998,Nov,8.56
+Virginia,2003,Nov,10.83
+Virginia,2008,Nov,6.72
+Virginia,2013,Nov,6.5
+Virginia,2018,Nov,6.56
+Virginia,2023,Nov,
+Washington,1978,Nov,-0.11
+Washington,1983,Nov,4.22
+Washington,1988,Nov,3.39
+Washington,1993,Nov,0.33
+Washington,1998,Nov,4.22
+Washington,2003,Nov,0.72
+Washington,2008,Nov,4.56
+Washington,2013,Nov,2.61
+Washington,2018,Nov,3.67
+Washington,2023,Nov,
+West Virginia,1978,Nov,7.39
+West Virginia,1983,Nov,6.22
+West Virginia,1988,Nov,6.39
+West Virginia,1993,Nov,6.11
+West Virginia,1998,Nov,6.67
+West Virginia,2003,Nov,8.78
+West Virginia,2008,Nov,4.44
+West Virginia,2013,Nov,4.39
+West Virginia,2018,Nov,4.44
+West Virginia,2023,Nov,
+Wisconsin,1978,Nov,-0.67
+Wisconsin,1983,Nov,1.22
+Wisconsin,1988,Nov,1.06
+Wisconsin,1993,Nov,-1.0
+Wisconsin,1998,Nov,2.89
+Wisconsin,2003,Nov,0.5
+Wisconsin,2008,Nov,0.72
+Wisconsin,2013,Nov,-0.67
+Wisconsin,2018,Nov,-2.61
+Wisconsin,2023,Nov,
+Wyoming,1978,Nov,-4.44
+Wyoming,1983,Nov,-1.94
+Wyoming,1988,Nov,-1.61
+Wyoming,1993,Nov,-4.5
+Wyoming,1998,Nov,0.61
+Wyoming,2003,Nov,-4.0
+Wyoming,2008,Nov,1.83
+Wyoming,2013,Nov,-0.39
+Wyoming,2018,Nov,-1.89
+Wyoming,2023,Nov,
+Alaska,1978,Nov,-8.33
+Alaska,1983,Nov,-8.72
+Alaska,1988,Nov,-14.83
+Alaska,1993,Nov,-9.0
+Alaska,1998,Nov,-9.44
+Alaska,2003,Nov,-9.56
+Alaska,2008,Nov,-12.44
+Alaska,2013,Nov,-10.17
+Alaska,2018,Nov,-7.17
+Alaska,2023,Nov,
 Alabama,1978,Dec,8.11
 Alabama,1983,Dec,5.44
 Alabama,1988,Dec,8.22
@@ -229,6 +5399,416 @@ Alabama,2008,Dec,9.83
 Alabama,2013,Dec,8.83
 Alabama,2018,Dec,9.44
 Alabama,2023,Dec,
+Arizona,1978,Dec,3.11
+Arizona,1983,Dec,6.72
+Arizona,1988,Dec,5.0
+Arizona,1993,Dec,5.5
+Arizona,1998,Dec,5.94
+Arizona,2003,Dec,6.11
+Arizona,2008,Dec,5.78
+Arizona,2013,Dec,5.28
+Arizona,2018,Dec,6.0
+Arizona,2023,Dec,
+Arkansas,1978,Dec,5.06
+Arkansas,1983,Dec,-1.11
+Arkansas,1988,Dec,5.94
+Arkansas,1993,Dec,5.83
+Arkansas,1998,Dec,6.61
+Arkansas,2003,Dec,5.72
+Arkansas,2008,Dec,5.0
+Arkansas,2013,Dec,4.5
+Arkansas,2018,Dec,6.78
+Arkansas,2023,Dec,
+California,1978,Dec,4.0
+California,1983,Dec,7.33
+California,1988,Dec,5.83
+California,1993,Dec,6.17
+California,1998,Dec,5.56
+California,2003,Dec,6.67
+California,2008,Dec,5.56
+California,2013,Dec,6.72
+California,2018,Dec,7.11
+California,2023,Dec,
+Colorado,1978,Dec,-7.56
+Colorado,1983,Dec,-7.28
+Colorado,1988,Dec,-3.67
+Colorado,1993,Dec,-2.89
+Colorado,1998,Dec,-3.06
+Colorado,2003,Dec,-1.89
+Colorado,2008,Dec,-3.72
+Colorado,2013,Dec,-4.61
+Colorado,2018,Dec,-3.0
+Colorado,2023,Dec,
+Connecticut,1978,Dec,-0.61
+Connecticut,1983,Dec,-1.89
+Connecticut,1988,Dec,-1.61
+Connecticut,1993,Dec,-0.89
+Connecticut,1998,Dec,2.56
+Connecticut,2003,Dec,0.22
+Connecticut,2008,Dec,0.11
+Connecticut,2013,Dec,-0.56
+Connecticut,2018,Dec,1.0
+Connecticut,2023,Dec,
+Delaware,1978,Dec,3.78
+Delaware,1983,Dec,1.67
+Delaware,1988,Dec,2.44
+Delaware,1993,Dec,2.22
+Delaware,1998,Dec,5.56
+Delaware,2003,Dec,3.22
+Delaware,2008,Dec,4.83
+Delaware,2013,Dec,4.67
+Delaware,2018,Dec,5.22
+Delaware,2023,Dec,
+Florida,1978,Dec,16.78
+Florida,1983,Dec,14.72
+Florida,1988,Dec,15.06
+Florida,1993,Dec,13.44
+Florida,1998,Dec,18.11
+Florida,2003,Dec,13.39
+Florida,2008,Dec,16.67
+Florida,2013,Dec,18.17
+Florida,2018,Dec,16.56
+Florida,2023,Dec,
+Georgia,1978,Dec,9.11
+Georgia,1983,Dec,6.78
+Georgia,1988,Dec,8.5
+Georgia,1993,Dec,7.61
+Georgia,1998,Dec,11.67
+Georgia,2003,Dec,6.83
+Georgia,2008,Dec,10.94
+Georgia,2013,Dec,10.67
+Georgia,2018,Dec,10.11
+Georgia,2023,Dec,
+Idaho,1978,Dec,-8.0
+Idaho,1983,Dec,-8.17
+Idaho,1988,Dec,-5.61
+Idaho,1993,Dec,-3.83
+Idaho,1998,Dec,-5.22
+Idaho,2003,Dec,-2.17
+Idaho,2008,Dec,-5.22
+Idaho,2013,Dec,-6.06
+Idaho,2018,Dec,-4.28
+Idaho,2023,Dec,
+Illinois,1978,Dec,-1.61
+Illinois,1983,Dec,-8.17
+Illinois,1988,Dec,-0.56
+Illinois,1993,Dec,-0.33
+Illinois,1998,Dec,1.72
+Illinois,2003,Dec,1.0
+Illinois,2008,Dec,-2.89
+Illinois,2013,Dec,-3.22
+Illinois,2018,Dec,1.33
+Illinois,2023,Dec,
+Indiana,1978,Dec,-0.11
+Indiana,1983,Dec,-6.39
+Indiana,1988,Dec,-0.72
+Indiana,1993,Dec,-0.39
+Indiana,1998,Dec,2.44
+Indiana,2003,Dec,0.83
+Indiana,2008,Dec,-1.61
+Indiana,2013,Dec,-1.44
+Indiana,2018,Dec,1.89
+Indiana,2023,Dec,
+Iowa,1978,Dec,-7.06
+Iowa,1983,Dec,-13.56
+Iowa,1988,Dec,-3.67
+Iowa,1993,Dec,-3.61
+Iowa,1998,Dec,-1.44
+Iowa,2003,Dec,-2.11
+Iowa,2008,Dec,-8.0
+Iowa,2013,Dec,-8.11
+Iowa,2018,Dec,-2.22
+Iowa,2023,Dec,
+Kansas,1978,Dec,-1.28
+Kansas,1983,Dec,-8.89
+Kansas,1988,Dec,2.39
+Kansas,1993,Dec,1.94
+Kansas,1998,Dec,1.39
+Kansas,2003,Dec,1.83
+Kansas,2008,Dec,-1.17
+Kansas,2013,Dec,-1.56
+Kansas,2018,Dec,1.28
+Kansas,2023,Dec,
+Kentucky,1978,Dec,3.0
+Kentucky,1983,Dec,-1.61
+Kentucky,1988,Dec,2.78
+Kentucky,1993,Dec,2.17
+Kentucky,1998,Dec,4.83
+Kentucky,2003,Dec,2.78
+Kentucky,2008,Dec,2.61
+Kentucky,2013,Dec,3.0
+Kentucky,2018,Dec,4.72
+Kentucky,2023,Dec,
+Louisiana,1978,Dec,10.44
+Louisiana,1983,Dec,6.67
+Louisiana,1988,Dec,10.83
+Louisiana,1993,Dec,10.28
+Louisiana,1998,Dec,12.0
+Louisiana,2003,Dec,9.67
+Louisiana,2008,Dec,11.39
+Louisiana,2013,Dec,9.78
+Louisiana,2018,Dec,11.44
+Louisiana,2023,Dec,
+Maine,1978,Dec,-7.28
+Maine,1983,Dec,-7.56
+Maine,1988,Dec,-8.22
+Maine,1993,Dec,-5.5
+Maine,1998,Dec,-3.22
+Maine,2003,Dec,-5.0
+Maine,2008,Dec,-6.56
+Maine,2013,Dec,-8.33
+Maine,2018,Dec,-6.44
+Maine,2023,Dec,
+Maryland,1978,Dec,3.33
+Maryland,1983,Dec,0.39
+Maryland,1988,Dec,2.0
+Maryland,1993,Dec,1.44
+Maryland,1998,Dec,5.39
+Maryland,2003,Dec,2.5
+Maryland,2008,Dec,3.67
+Maryland,2013,Dec,3.67
+Maryland,2018,Dec,4.0
+Maryland,2023,Dec,
+Massachusetts,1978,Dec,-1.56
+Massachusetts,1983,Dec,-2.56
+Massachusetts,1988,Dec,-2.44
+Massachusetts,1993,Dec,-1.39
+Massachusetts,1998,Dec,2.0
+Massachusetts,2003,Dec,-0.33
+Massachusetts,2008,Dec,-0.33
+Massachusetts,2013,Dec,-1.44
+Massachusetts,2018,Dec,0.06
+Massachusetts,2023,Dec,
+Michigan,1978,Dec,-5.56
+Michigan,1983,Dec,-9.06
+Michigan,1988,Dec,-4.61
+Michigan,1993,Dec,-3.83
+Michigan,1998,Dec,-1.22
+Michigan,2003,Dec,-1.89
+Michigan,2008,Dec,-6.22
+Michigan,2013,Dec,-7.06
+Michigan,2018,Dec,-1.83
+Michigan,2023,Dec,
+Minnesota,1978,Dec,-13.56
+Minnesota,1983,Dec,-18.22
+Minnesota,1988,Dec,-9.72
+Minnesota,1993,Dec,-9.0
+Minnesota,1998,Dec,-7.0
+Minnesota,2003,Dec,-6.33
+Minnesota,2008,Dec,-13.94
+Minnesota,2013,Dec,-15.0
+Minnesota,2018,Dec,-6.56
+Minnesota,2023,Dec,
+Mississippi,1978,Dec,8.17
+Mississippi,1983,Dec,4.67
+Mississippi,1988,Dec,8.39
+Mississippi,1993,Dec,7.83
+Mississippi,1998,Dec,10.06
+Mississippi,2003,Dec,7.17
+Mississippi,2008,Dec,9.06
+Mississippi,2013,Dec,8.17
+Mississippi,2018,Dec,9.44
+Mississippi,2023,Dec,
+Missouri,1978,Dec,0.44
+Missouri,1983,Dec,-7.44
+Missouri,1988,Dec,1.89
+Missouri,1993,Dec,1.78
+Missouri,1998,Dec,2.44
+Missouri,2003,Dec,2.33
+Missouri,2008,Dec,-0.56
+Missouri,2013,Dec,-0.94
+Missouri,2018,Dec,2.67
+Missouri,2023,Dec,
+Montana,1978,Dec,-10.78
+Montana,1983,Dec,-15.89
+Montana,1988,Dec,-4.94
+Montana,1993,Dec,-3.17
+Montana,1998,Dec,-6.0
+Montana,2003,Dec,-3.83
+Montana,2008,Dec,-10.0
+Montana,2013,Dec,-8.67
+Montana,2018,Dec,-3.89
+Montana,2023,Dec,
+Nebraska,1978,Dec,-7.5
+Nebraska,1983,Dec,-13.39
+Nebraska,1988,Dec,-0.83
+Nebraska,1993,Dec,-1.17
+Nebraska,1998,Dec,-1.5
+Nebraska,2003,Dec,-0.83
+Nebraska,2008,Dec,-5.94
+Nebraska,2013,Dec,-5.11
+Nebraska,2018,Dec,-2.17
+Nebraska,2023,Dec,
+Nevada,1978,Dec,-3.11
+Nevada,1983,Dec,0.61
+Nevada,1988,Dec,-1.61
+Nevada,1993,Dec,-0.39
+Nevada,1998,Dec,-0.89
+Nevada,2003,Dec,0.72
+Nevada,2008,Dec,-1.11
+Nevada,2013,Dec,-2.0
+Nevada,2018,Dec,0.0
+Nevada,2023,Dec,
+New Hampshire,1978,Dec,-5.61
+New Hampshire,1983,Dec,-6.22
+New Hampshire,1988,Dec,-6.56
+New Hampshire,1993,Dec,-4.28
+New Hampshire,1998,Dec,-1.06
+New Hampshire,2003,Dec,-4.33
+New Hampshire,2008,Dec,-4.22
+New Hampshire,2013,Dec,-5.44
+New Hampshire,2018,Dec,-4.06
+New Hampshire,2023,Dec,
+New Jersey,1978,Dec,1.94
+New Jersey,1983,Dec,-0.11
+New Jersey,1988,Dec,0.56
+New Jersey,1993,Dec,1.0
+New Jersey,1998,Dec,4.44
+New Jersey,2003,Dec,1.94
+New Jersey,2008,Dec,2.56
+New Jersey,2013,Dec,2.22
+New Jersey,2018,Dec,3.22
+New Jersey,2023,Dec,
+New Mexico,1978,Dec,-0.22
+New Mexico,1983,Dec,0.67
+New Mexico,1988,Dec,0.83
+New Mexico,1993,Dec,1.89
+New Mexico,1998,Dec,2.72
+New Mexico,2003,Dec,2.67
+New Mexico,2008,Dec,2.67
+New Mexico,2013,Dec,1.39
+New Mexico,2018,Dec,2.0
+New Mexico,2023,Dec,
+New York,1978,Dec,-3.5
+New York,1983,Dec,-5.61
+New York,1988,Dec,-4.22
+New York,1993,Dec,-4.17
+New York,1998,Dec,0.44
+New York,2003,Dec,-2.5
+New York,2008,Dec,-3.06
+New York,2013,Dec,-3.67
+New York,2018,Dec,-1.94
+New York,2023,Dec,
+North Carolina,1978,Dec,6.17
+North Carolina,1983,Dec,4.11
+North Carolina,1988,Dec,4.83
+North Carolina,1993,Dec,4.33
+North Carolina,1998,Dec,8.33
+North Carolina,2003,Dec,4.61
+North Carolina,2008,Dec,7.83
+North Carolina,2013,Dec,7.44
+North Carolina,2018,Dec,7.22
+North Carolina,2023,Dec,
+North Dakota,1978,Dec,-13.94
+North Dakota,1983,Dec,-19.22
+North Dakota,1988,Dec,-9.0
+North Dakota,1993,Dec,-8.72
+North Dakota,1998,Dec,-8.11
+North Dakota,2003,Dec,-6.5
+North Dakota,2008,Dec,-15.0
+North Dakota,2013,Dec,-15.0
+North Dakota,2018,Dec,-6.22
+North Dakota,2023,Dec,
+Ohio,1978,Dec,0.0
+Ohio,1983,Dec,-4.56
+Ohio,1988,Dec,-0.72
+Ohio,1993,Dec,-0.61
+Ohio,1998,Dec,2.72
+Ohio,2003,Dec,0.44
+Ohio,2008,Dec,-0.56
+Ohio,2013,Dec,0.0
+Ohio,2018,Dec,1.72
+Ohio,2023,Dec,
+Oklahoma,1978,Dec,2.83
+Oklahoma,1983,Dec,-3.5
+Oklahoma,1988,Dec,5.44
+Oklahoma,1993,Dec,5.33
+Oklahoma,1998,Dec,4.78
+Oklahoma,2003,Dec,5.67
+Oklahoma,2008,Dec,3.67
+Oklahoma,2013,Dec,1.78
+Oklahoma,2018,Dec,4.89
+Oklahoma,2023,Dec,
+Oregon,1978,Dec,-2.72
+Oregon,1983,Dec,-2.28
+Oregon,1988,Dec,-0.33
+Oregon,1993,Dec,0.72
+Oregon,1998,Dec,-1.06
+Oregon,2003,Dec,1.17
+Oregon,2008,Dec,-1.0
+Oregon,2013,Dec,-1.28
+Oregon,2018,Dec,0.17
+Oregon,2023,Dec,
+Pennsylvania,1978,Dec,-0.94
+Pennsylvania,1983,Dec,-3.78
+Pennsylvania,1988,Dec,-1.56
+Pennsylvania,1993,Dec,-1.78
+Pennsylvania,1998,Dec,2.22
+Pennsylvania,2003,Dec,-0.72
+Pennsylvania,2008,Dec,-0.72
+Pennsylvania,2013,Dec,-0.67
+Pennsylvania,2018,Dec,0.83
+Pennsylvania,2023,Dec,
+Rhode Island,1978,Dec,0.44
+Rhode Island,1983,Dec,-0.56
+Rhode Island,1988,Dec,-0.5
+Rhode Island,1993,Dec,0.11
+Rhode Island,1998,Dec,3.17
+Rhode Island,2003,Dec,1.5
+Rhode Island,2008,Dec,1.56
+Rhode Island,2013,Dec,0.56
+Rhode Island,2018,Dec,1.83
+Rhode Island,2023,Dec,
+South Carolina,1978,Dec,8.44
+South Carolina,1983,Dec,6.56
+South Carolina,1988,Dec,7.28
+South Carolina,1993,Dec,6.72
+South Carolina,1998,Dec,10.89
+South Carolina,2003,Dec,6.11
+South Carolina,2008,Dec,10.56
+South Carolina,2013,Dec,9.94
+South Carolina,2018,Dec,9.22
+South Carolina,2023,Dec,
+South Dakota,1978,Dec,-10.06
+South Dakota,1983,Dec,-16.67
+South Dakota,1988,Dec,-4.44
+South Dakota,1993,Dec,-4.67
+South Dakota,1998,Dec,-3.56
+South Dakota,2003,Dec,-3.0
+South Dakota,2008,Dec,-9.94
+South Dakota,2013,Dec,-10.28
+South Dakota,2018,Dec,-3.72
+South Dakota,2023,Dec,
+Tennessee,1978,Dec,4.33
+Tennessee,1983,Dec,0.5
+Tennessee,1988,Dec,4.22
+Tennessee,1993,Dec,4.0
+Tennessee,1998,Dec,6.28
+Tennessee,2003,Dec,3.83
+Tennessee,2008,Dec,4.67
+Tennessee,2013,Dec,4.67
+Tennessee,2018,Dec,5.94
+Tennessee,2023,Dec,
+Texas,1978,Dec,7.56
+Texas,1983,Dec,3.56
+Texas,1988,Dec,9.17
+Texas,1993,Dec,9.56
+Texas,1998,Dec,9.0
+Texas,2003,Dec,9.5
+Texas,2008,Dec,9.0
+Texas,2013,Dec,7.11
+Texas,2018,Dec,9.06
+Texas,2023,Dec,
+Utah,1978,Dec,-6.17
+Utah,1983,Dec,-2.67
+Utah,1988,Dec,-3.56
+Utah,1993,Dec,-2.39
+Utah,1998,Dec,-2.78
+Utah,2003,Dec,-0.94
+Utah,2008,Dec,-2.78
+Utah,2013,Dec,-4.94
+Utah,2018,Dec,-2.56
+Utah,2023,Dec,
 Vermont,1978,Dec,-6.0
 Vermont,1983,Dec,-7.39
 Vermont,1988,Dec,-7.22
@@ -239,3 +5819,63 @@ Vermont,2008,Dec,-5.06
 Vermont,2013,Dec,-5.89
 Vermont,2018,Dec,-5.0
 Vermont,2023,Dec,
+Virginia,1978,Dec,4.0
+Virginia,1983,Dec,1.17
+Virginia,1988,Dec,2.5
+Virginia,1993,Dec,1.89
+Virginia,1998,Dec,5.89
+Virginia,2003,Dec,2.67
+Virginia,2008,Dec,4.56
+Virginia,2013,Dec,4.61
+Virginia,2018,Dec,4.28
+Virginia,2023,Dec,
+Washington,1978,Dec,-3.44
+Washington,1983,Dec,-5.17
+Washington,1988,Dec,-0.44
+Washington,1993,Dec,0.28
+Washington,1998,Dec,-1.0
+Washington,2003,Dec,-0.22
+Washington,2008,Dec,-3.22
+Washington,2013,Dec,-2.11
+Washington,2018,Dec,0.61
+Washington,2023,Dec,
+West Virginia,1978,Dec,1.44
+West Virginia,1983,Dec,-1.56
+West Virginia,1988,Dec,0.56
+West Virginia,1993,Dec,0.39
+West Virginia,1998,Dec,3.56
+West Virginia,2003,Dec,0.44
+West Virginia,2008,Dec,1.78
+West Virginia,2013,Dec,2.22
+West Virginia,2018,Dec,2.61
+West Virginia,2023,Dec,
+Wisconsin,1978,Dec,-9.78
+Wisconsin,1983,Dec,-13.94
+Wisconsin,1988,Dec,-7.33
+Wisconsin,1993,Dec,-5.78
+Wisconsin,1998,Dec,-3.67
+Wisconsin,2003,Dec,-4.0
+Wisconsin,2008,Dec,-10.72
+Wisconsin,2013,Dec,-11.17
+Wisconsin,2018,Dec,-3.83
+Wisconsin,2023,Dec,
+Wyoming,1978,Dec,-11.67
+Wyoming,1983,Dec,-12.72
+Wyoming,1988,Dec,-5.94
+Wyoming,1993,Dec,-5.06
+Wyoming,1998,Dec,-5.94
+Wyoming,2003,Dec,-4.0
+Wyoming,2008,Dec,-7.28
+Wyoming,2013,Dec,-7.72
+Wyoming,2018,Dec,-5.83
+Wyoming,2023,Dec,
+Alaska,1978,Dec,-12.11
+Alaska,1983,Dec,-12.22
+Alaska,1988,Dec,-12.33
+Alaska,1993,Dec,-11.17
+Alaska,1998,Dec,-15.67
+Alaska,2003,Dec,-15.22
+Alaska,2008,Dec,-14.44
+Alaska,2013,Dec,-13.89
+Alaska,2018,Dec,-12.72
+Alaska,2023,Dec,
