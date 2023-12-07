@@ -46,13 +46,13 @@
     }
     
     .dot-run {
-      fill: #B06600;
+      fill: #181750;
     }
     
     .runs {
-      fill: #B06600;
+      fill: #181750;
       fill-opacity: 0.35;
-      stroke: #B06600;
+      stroke: #181750;
       stroke-width: 1px;
     }
     
@@ -67,7 +67,7 @@
     Visualise
     <select class="visualise">
       <option value="runs">temperature</option>
-      <option value="time">temperature 2</option>
+   <!--   <option value="time">temperature 2</option> -->
     </select>
   </div>
   <script>
@@ -94,7 +94,7 @@
     
     var center = svg.append("g")
     	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-    
+    /*
     center.on("click", function() {
       if (mode == "runs") {
         mode = "time";
@@ -104,7 +104,7 @@
         change();
       }
     })
-    
+    */
     var radius = Math.min(width, height) / 2 + 10;
     var radiusTextSpacing = 50;
     
@@ -136,18 +136,18 @@
     	.outerRadius(function(d) { return y(d.temperature)})
     	.curve(d3.curveCatmullRomClosed);
     
-    var areaTime = d3.lineRadial()
-    	.angle(function(d) { return x(d.month); })
-    	.radius(function(d) { return z(d.temperature_2); })
-    	.curve(d3.curveCatmullRomClosed);
+    //var areaTime = d3.lineRadial()
+   // 	.angle(function(d) { return x(d.month); })
+    //	.radius(function(d) { return z(d.temperature_2); })
+    //	.curve(d3.curveCatmullRomClosed);
     
     var runs, hoverCirclesRuns, labels;
     var yTick, yAxis;
     
     d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/SPIDER_selection_avg_temperatures.csv", function(d) {
-			d.temperature_2 = parseTime(d.temperature_2.slice(-5))     
-      d.best_gender_position = +d.best_gender_position;
-      d.best_position_overall = +d.best_position_overall;
+			//d.temperature_2 = parseTime(d.temperature_2.slice(-5))     
+      //d.best_gender_position = +d.best_gender_position;
+      //d.best_position_overall = +d.best_position_overall;
       d.temperature = +d.temperature;
       return d;
     }, function(error, data) {
@@ -161,15 +161,20 @@
         return d.month;
       }));
       
-      y.domain([0, d3.max(data, function(d) {
+      y.domain([d3.min(data, function(d) {
+        return d.temperature;
+      }), d3.max(data, function(d) {
         return d.temperature;
       })]);
       
-      var slowestTime = "24:00";
+      //var slowestTime = "24:00";
       
       z.domain([d3.min(data, function(d) {
-        return d.temperature_2;
-      }), parseTime(slowestTime)]);
+        return d.temperature;
+      }), d3.max(data, function(d) {
+        return d.temperature;//parseTime(slowestTime)
+      })
+    ]);
       
       var xAxis = center.append("g")
       	.attr("text-anchor", "middle");
@@ -246,7 +251,7 @@
             
       hoverCirclesRuns = center.append("g");
       
-      hoverCirclesRuns.selectAll("circle")
+      /*hoverCirclesRuns.selectAll("circle")
         .data(data)
       .enter().append("circle")
       	.attr("class", "hover-dot")	
@@ -277,7 +282,7 @@
         	d3.select(this.parentNode).select("text").remove();
       	});
       
-  
+  */
     });
     
     function change() {
@@ -285,26 +290,26 @@
           .transition()
           .duration(1000)
           .attr("d", function(d) {
-          	return mode == "time" ? areaTime(d) : areaRuns(d);
+            return areaRuns(d);
         	})
           .style("fill", function() {
-          	return mode == "time" ? "none" : "#B06600";
+            "18-1750";
         	});
       
         runs.selectAll("circle")
           .transition()
           .duration(1000)
           .attr("cy", function(d) {
-            return mode == "time" ? z(d.temperature_2) : y(d.temperature);
+            return y(d.temperature);
           })
           .style("fill", function() {
-          	return mode == "time" ? "#bfbd00" : "#B06600";
+            return "18-1750";
         	});
         
         hoverCirclesRuns
           .selectAll("circle")
           .attr("cy", function(d) {
-             return mode == "time" ? z(d.temperature_2) : y(d.temperature);
+             return y(d.temperature);
           });
         
         yTick.selectAll("circle")
@@ -325,7 +330,7 @@
     function addAxis(time) {
         yTick = yAxis.selectAll("g")
           .data(function() {
-          	return mode == "runs" ? y.ticks(5).slice(1) : z.ticks(5).slice(0, -1);
+            return y.ticks(5).slice(1);
         	})
         .enter().append("g")
           .attr("class", "y-tick");
@@ -334,18 +339,18 @@
           .transition()
           .duration(time * 3)
           .attr("r", function(d) {
-          	return mode == "runs" ? y(d) : z(d);
+            return y(d);
           });
 
         yTick.append("text")
           .transition()
           .duration(time * 3)
           .attr("y", function(d) {
-          	return mode == "runs" ? -y(d) : -z(d);
+            return -y(d);
           })
           .attr("dy", "0.35em")
           .text(function(d) {
-          	return mode == "runs" ? d : formatTime(d);
+            return (d);
           });
     }
 
