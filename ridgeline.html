@@ -25,7 +25,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //read data
-d3.csv("https://raw.githubusercontent.com/zonination/perceptions/master/probly.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data) {
 
   // Get the different categories and count them
   var categories = data.columns
