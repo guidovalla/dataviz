@@ -25,15 +25,18 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //read data
-d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data) {
-
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data_cold) {
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_max_temperatures.csv", function(data_hot) {
   // Get the different categories and count them
-  var categories = data.columns
+  var categories = data_cold.columns
+  var categories_1 = data_hot.columns
+
   var n = categories.length
+  var n_1 = categories_1.length
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([-10, 140])
+    .domain([-25, 50])
     .range([ 0, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -55,11 +58,20 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
   // Compute kernel density estimation for each column:
   var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40)) // increase this 40 for more accurate density.
   var allDensity = []
+  var allDensity_1 = []
   for (i = 0; i < n; i++) {
       key = categories[i]
-      density = kde( data.map(function(d){  return d[key]; }) )
+      density = kde( data_cold.map(function(d){  return d[key]; }) )
       allDensity.push({key: key, density: density})
   }
+
+  for (i = 0; i < n; i++) {
+      key = categories[i]
+      density = kde( data_hot.map(function(d){  return d[key]; }) )
+      allDensity_1.push({key: key, density: density})
+  }
+
+
 
   // Add areas
   svg.selectAll("areas")
@@ -68,7 +80,7 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
     .append("path")
       .attr("transform", function(d){return("translate(0," + (yName(d.key)-height) +")" )})
       .datum(function(d){return(d.density)})
-      .attr("fill", "#69b3a2")
+      .attr("fill", "#55c3d9")
       .attr("stroke", "#000")
       .attr("stroke-width", 1)
       .attr("d",  d3.line()
@@ -76,7 +88,23 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
           .x(function(d) { return x(d[0]); })
           .y(function(d) { return y(d[1]); })
       )
+  //now i plot in red also the max temperatures
 
+  svg.selectAll("areas")
+    .data(allDensity_1)
+    .enter()
+    .append("path")
+      .attr("transform", function(d){return("translate(0," + (yName(d.key)-height) +")" )})
+      .datum(function(d){return(d.density)})
+      .attr("fill", "#e83a3a")
+      .attr("stroke", "#000")
+      .attr("stroke-width", 1)
+      .attr("d",  d3.line()
+          .curve(d3.curveBasis)
+          .x(function(d) { return x(d[0]); })
+          .y(function(d) { return y(d[1]); })
+      )
+})
 })
 
 // This is what I need to compute kernel density estimation
