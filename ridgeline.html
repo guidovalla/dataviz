@@ -14,9 +14,9 @@
 
     // set the dimensions and margins of the graph
 
-var margin = {top: 60, right: 30, bottom: 20, left:110},
+var margin = {top: 80, right: 30, bottom: 20, left:110},
     width = 460 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    height = 600 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -28,18 +28,15 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //read data
-//d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data_cold) {
-//d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_max_temperatures.csv", function(data_hot) {
-d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures_2state.csv", function(data_cold) {
-d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_max_temperatures_2state.csv", function(data_hot) {
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data_cold) {
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_max_temperatures.csv", function(data_hot) {
+//d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures_2state.csv", function(data_cold) {
+//d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_max_temperatures_2state.csv", function(data_hot) {
   // Get the different categories and count them
 
 
-  console.log("data", data_cold)
         //List of States
   var allStates = d3.map(data_cold, function(d){return(d.state)}).keys()
-
-  console.log("all states", allStates)
 
   d3.select("#statesButton")
           .selectAll('myOptions')
@@ -51,16 +48,14 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
 
 
   var categories = data_cold.columns
-  console.log("categories with state", categories)
+
   //select in cateogires only the after the third
   categories = categories.slice(2, categories.length)
-  console.log("categories", categories)
   var categories_1 = data_hot.columns
   categories_1 = categories_1.slice(2, categories_1.length)
 
 
   var n = categories.length
-  console.log("n", n)
   var n_1 = categories_1.length
 
 
@@ -75,7 +70,7 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
 
   // Create a Y scale for densities
   var y = d3.scaleLinear()
-    .domain([0, 0.4])
+    .domain([0, 0.65])
     .range([ height, 0]);
 
   // Create the Y axis for names
@@ -84,15 +79,13 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
     .range([0, height])
     .paddingInner(1)
   svg.append("g")
-    .call(d3.axisLeft(yName));
+    .call(d3.axisLeft(yName))
+    //.attr("transform", "translate(0,-100)");
 
   var Pippo = "Alabama"
 
   var cold_dataFilter = data_cold.filter(function(d){return d.state==Pippo})
-  console.log("cold_dataFilter main", cold_dataFilter) 
   var hot_dataFilter= data_hot.filter(function(d){return d.state==Pippo})
-  console.log("hot_dataFilter main", hot_dataFilter)
-
   // Compute kernel density estimation for each column:
   var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40)) // increase this 40 for more accurate density.
   var allDensity = []
@@ -116,7 +109,8 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
     .data(allDensity)
     .enter()
     .append("path")
-      .attr("transform", function(d){return("translate(0," + (yName(d.key)-height) +")" )})
+      .attr("transform", function(d)
+      {return("translate(0," + (yName(d.key)-height) +")" )})
       .datum(function(d){return(d.density)})
       .attr("fill", "#55c3d9")
       .attr("opacity", 0.6)
@@ -178,13 +172,11 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
     
     // Create new data with the selection?
     var cold_dataFilter = data_cold.filter(function(d){return d.state==selectedState})
-    var hot_dataFilter= data_hot.filter(function(d){return d.state==selectedState})
-    // Give these new data to update line
-    console.log(selectedState)
     console.log("cold_dataFilter", cold_dataFilter)
-    
-    console.log("data_cold", data_cold)
-    
+    var hot_dataFilter= data_hot.filter(function(d){return d.state==selectedState})
+    console.log("hot_dataFilter", hot_dataFilter)
+    // Give these new data to update line
+  
   var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40)) // increase this 40 for more accurate density.
   var allDensity = []
   var allDensity_1 = []
@@ -219,15 +211,14 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
           .y(function(d) { return y(d[1]); })
       )
 
-      svg.selectAll(".hot_areas").remove();
 
-      svg.selectAll(".hot_areas")
+      svg.selectAll("areas")
     .data(allDensity_1)
     .enter()
     .append("path")
-    .attr("class", "hot_areas")
+    //.attr("class", "hot_areas")
       .attr("transform", function(d){return("translate(0," + (yName(d.key)-height) +")" )})
-      .datum(function(d){return(d.density)})
+      .datum(function(d){return(d.density_1)})
       .attr("fill", "#e83a3a")
       .attr("opacity", 0.6)
       .attr("stroke", "#000")
