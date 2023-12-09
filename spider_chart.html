@@ -49,10 +49,22 @@
       fill: #181750;
     }
     
-    .runs {
+    .mins {
       fill: #181750;
-      fill-opacity: 0.35;
+      fill-opacity: 0.6;
       stroke: #181750;
+      stroke-width: 1px;
+    }
+    .avg {
+      fill: #0fdd21;
+      fill-opacity: 0.001;
+      stroke: #0fdd21;
+      stroke-width: 1px;
+    }
+    .maxs {
+      fill: #501d17;
+      fill-opacity: 0.3;
+      stroke: #501d17;
       stroke-width: 1px;
     }
     
@@ -64,24 +76,88 @@
 
 <body>
   <div class="menu">
-    Visualise
-    <select class="visualise">
-      <option value="runs">temperature</option>
-   <!--   <option value="time">temperature 2</option> -->
+    States
+    <select class="States">
+      <option value="Alabama">Alabama</option>
+      <option value="Arizona">Arizona</option>
+      <option value="Arkansas">Arkansas</option>
+      <option value="California">California</option>
+      <option value="Colorado">Colorado</option>
+      <option value="Connecticut">Connecticut</option>
+      <option value="Delaware">Delaware</option>
+      <option value="Florida">Florida</option>
+      <option value="Georgia">Georgia</option>
+      <option value="Idaho">Idaho</option>
+      <option value="Illinois">Illinois</option>
+      <option value="Indiana">Indiana</option>
+      <option value="Iowa">Iowa</option>
+      <option value="Kansas">Kansas</option>
+      <option value="Kentucky">Kentucky</option>
+      <option value="Louisiana">Louisiana</option>
+      <option value="Maine">Maine</option>
+      <option value="Maryland">Maryland</option>
+      <option value="Massachusetts">Massachusetts</option>
+      <option value="Michigan">Michigan</option>
+      <option value="Minnesota">Minnesota</option>
+      <option value="Mississippi">Mississippi</option>
+      <option value="Missouri">Missouri</option>
+      <option value="Montana">Montana</option>
+      <option value="Nebraska">Nebraska</option>
+      <option value="Nevada">Nevada</option>
+      <option value="New Hampshire">New Hampshire</option>
+      <option value="New Jersey">New Jersey</option>
+      <option value="New Mexico">New Mexico</option>
+      <option value="New York">New York</option>
+      <option value="North Carolina">North Carolina</option>
+      <option value="North Dakota">North Dakota</option>
+      <option value="Ohio">Ohio</option>
+      <option value="Oklahoma">Oklahoma</option>
+      <option value="Oregon">Oregon</option>
+      <option value="Pennsylvania">Pennsylvania</option>
+      <option value="Rhode Island">Rhode Island</option>
+      <option value="South Carolina">South Carolina</option>
+      <option value="South Dakota">South Dakota</option>
+      <option value="Tennessee">Tennessee</option>
+      <option value="Texas">Texas</option>
+      <option value="Utah">Utah</option>
+      <option value="Vermont">Vermont</option>
+      <option value="Virginia">Virginia</option>
+      <option value="Washington">Washington</option>
+      <option value="West Virginia">West Virginia</option>
+      <option value="Wisconsin">Wisconsin</option>
+      <option value="Wyoming">Wyoming</option>
+      <option value="Alaska">Alaska</option>
+
+      
     </select>
+    <div class="menu">
+      Years
+      <select class="Years">
+        <option value="1978">1978</option>
+        <option value="1983">1983</option>
+        <option value="1988">1988</option>
+        <option value="1993">1993</option>
+        <option value="1998">1998</option>
+        <option value="2003">2003</option>
+        <option value="2008">2008</option>
+        <option value="2013">2013</option>
+        <option value="2018">2018</option>
+        <option value="2023">2023</option>
+      </select>
   </div>
+  
   <script>
+    var state = "Alaska";
+    var year= "1978"
     
-    d3.select(".visualise")
-    	.on("change", function() {
-      	var attribute = d3.select(this).property("value");
-      	mode = attribute;
-      	change();
-    	})
-        
-    var mode = "runs";
-    
-		var margin = {top: 100, right: 100, bottom: 100, left: 100};
+    var patha="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/spider_data_avg/"
+    var pathm="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/spider_data_min/"
+    var pathM="https://raw.githubusercontent.com/guidovalla/dataviz/main/data/spider_data_max/"
+    var path2="min_temperatures.csv"
+    var path3="avg_temperatures.csv"
+    var path4="max_temperatures.csv"
+    var cippa=patha+state+year+path3
+    var margin = {top: 100, right: 100, bottom: 100, left: 100};
     
     var width = 960 - margin.left - margin.right,
     		height = 500 - margin.top - margin.bottom;
@@ -94,22 +170,9 @@
     
     var center = svg.append("g")
     	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-    /*
-    center.on("click", function() {
-      if (mode == "runs") {
-        mode = "time";
-        change();
-      } else {
-        mode = "runs";
-        change();
-      }
-    })
-    */
+
     var radius = Math.min(width, height) / 2 + 10;
     var radiusTextSpacing = 50;
-    
-    var parseTime = d3.timeParse("%M:%S"),
-        formatTime = d3.timeFormat("%M:%S");
     
     var fullCircle = 2 * Math.PI;
     
@@ -136,18 +199,40 @@
     	.outerRadius(function(d) { return y(d.temperature)})
     	.curve(d3.curveCatmullRomClosed);
     
-    //var areaTime = d3.lineRadial()
-   // 	.angle(function(d) { return x(d.month); })
-    //	.radius(function(d) { return z(d.temperature_2); })
-    //	.curve(d3.curveCatmullRomClosed);
-    
-    var runs, hoverCirclesRuns, labels;
+    var avg, mins, maxs, hoverCirclesRuns, labels;
     var yTick, yAxis;
-    
-    d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/SPIDER_selection_avg_temperatures.csv", function(d) {
-			//d.temperature_2 = parseTime(d.temperature_2.slice(-5))     
-      //d.best_gender_position = +d.best_gender_position;
-      //d.best_position_overall = +d.best_position_overall;
+    //makeradar(pathm,state,year,path2)
+    //makeradar(patha,state,year,path3)
+    //makeradar(pathM,state,year,path4)
+    d3.select(".States")
+    	.on("change", function(d) {
+      	var attribute = d3.select(this).property("value");
+      	state = attribute;
+      	//change();
+        d3.selectAll('svg > g >*').remove();
+      center = svg.append("g")
+    	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+        makeradar(pathm,state,year,path2)
+        makeradar(patha,state,year,path3)
+        makeradar(pathM,state,year,path4)
+    	});
+    d3.select(".Years")
+    	.on("change", function(d) {
+      	var attribute = d3.select(this).property("value");
+      	year = attribute;
+      	//change();
+        //ADD: destroy old chart
+      d3.selectAll('svg > g >*').remove();
+      center = svg.append("g")
+    	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+        makeradar(pathm,state,year,path2)
+        makeradar(patha,state,year,path3)
+        makeradar(pathM,state,year,path4)
+    	});
+        
+    function makeradar(set,State,Year,pathos){
+	
+    d3.csv(set+State+Year+pathos, function(d) {
       d.temperature = +d.temperature;
       return d;
     }, function(error, data) {
@@ -161,24 +246,19 @@
         return d.month;
       }));
       
-      y.domain([d3.min(data, function(d) {
-        return d.temperature;
-      }), d3.max(data, function(d) {
-        return d.temperature;
-      })]);
+      y.domain([-20,40]);
       
-      //var slowestTime = "24:00";
       
       z.domain([d3.min(data, function(d) {
         return d.temperature;
       }), d3.max(data, function(d) {
-        return d.temperature;//parseTime(slowestTime)
+        return d.temperature;
       })
     ]);
       
       var xAxis = center.append("g")
       	.attr("text-anchor", "middle");
-      
+        
       var xTick = xAxis.selectAll("g")
       	.data(data)
       .enter().append("g");
@@ -218,12 +298,12 @@
       	.text(function(d) {
           return d.month;
         });
+      if (set==patha){
+      avg = center.append("g");
       
-      runs = center.append("g");
-      
-      runs.append("path")
+      avg.append("path")
       	.datum(data)
-      	.attr("class", "runs")
+      	.attr("class", "avg")
       	.attr("d", areaRuns)
       	.attr("transform", "rotate(180)")
       	.style("filter" , "url(#glow)")
@@ -236,7 +316,7 @@
             .style("fill-opacity", 0.35);
       	});
             
-      runs.selectAll("circle")
+      avg.selectAll("circle")
       	.data(data)
       .enter().append("circle")
       	.attr("class", "dot-run")	
@@ -250,40 +330,75 @@
       	.style("filter" , "url(#glow)");
             
       hoverCirclesRuns = center.append("g");
+      }
+      if (set==pathm){
+      mins = center.append("g");
       
-      /*hoverCirclesRuns.selectAll("circle")
-        .data(data)
+      mins.append("path")
+      	.datum(data)
+      	.attr("class", "mins")
+      	.attr("d", areaRuns)
+      	.attr("transform", "rotate(180)")
+      	.style("filter" , "url(#glow)")
+        .on("mouseover", function() {
+        	d3.select(".times").transition()
+            .style("fill-opacity", 0.05);
+      	})
+      	.on("mouseout", function() {
+        	d3.select(".times").transition()
+            .style("fill-opacity", 0.35);
+      	});
+            
+      mins.selectAll("circle")
+      	.data(data)
       .enter().append("circle")
-      	.attr("class", "hover-dot")	
+      	.attr("class", "dot-run")	
      		.attr("cy", function(d) {
           return y(d.temperature);
         })
-      	.attr("r", dotRadius * 3)
+      	.attr("r", dotRadius)
       	.attr("transform", function(d) {
           return "rotate(" + (x(d.month)) / fullCircle * 360 + ")";
         })
-      	.on("mouseover", function(d) {
-        	var multiplier = mode == "runs" ? y(d.temperature) : z(d.temperature_2);
-        	var unit = d.temperature == 1 ? " run" : "runs";
-        	var labelText = mode == "runs" ? d.temperature + unit : formatTime(d.temperature_2);
-        
-        	d3.select(this.parentNode).append("text")
-            .attr("x", function() {
-              return Math.cos(x(d.month) + Math.PI / 2) * multiplier;
-            })
-            .attr("y", function() {
-              return Math.sin(x(d.month) + Math.PI / 2) * multiplier;
-            })
-          	.attr("dy", "-1em")
-          	.attr("text-anchor", "middle")
-          	.text(labelText);
-      	})
-      	.on("mouseout", function(d) {
-        	d3.select(this.parentNode).select("text").remove();
-      	});
+      	.style("filter" , "url(#glow)");
+            
+      hoverCirclesRuns = center.append("g");
+      }
+      if (set==pathM){
+      maxs = center.append("g");
       
-  */
+      maxs.append("path")
+      	.datum(data)
+      	.attr("class", "maxs")
+      	.attr("d", areaRuns)
+      	.attr("transform", "rotate(180)")
+      	.style("filter" , "url(#glow)")
+        .on("mouseover", function() {
+        	d3.select(".times").transition()
+            .style("fill-opacity", 0.05);
+      	})
+      	.on("mouseout", function() {
+        	d3.select(".times").transition()
+            .style("fill-opacity", 0.35);
+      	});
+            
+      maxs.selectAll("circle")
+      	.data(data)
+      .enter().append("circle")
+      	.attr("class", "dot-run")	
+     		.attr("cy", function(d) {
+          return y(d.temperature);
+        })
+      	.attr("r", dotRadius)
+      	.attr("transform", function(d) {
+          return "rotate(" + (x(d.month)) / fullCircle * 360 + ")";
+        })
+      	.style("filter" , "url(#glow)");
+            
+      hoverCirclesRuns = center.append("g");
+      }
     });
+};
     
     function change() {
         runs.select("path")
@@ -293,7 +408,7 @@
             return areaRuns(d);
         	})
           .style("fill", function() {
-            "18-1750";
+            "#181750";
         	});
       
         runs.selectAll("circle")
@@ -303,7 +418,7 @@
             return y(d.temperature);
           })
           .style("fill", function() {
-            return "18-1750";
+            return "#181750";
         	});
         
         hoverCirclesRuns
