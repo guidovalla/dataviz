@@ -5,7 +5,7 @@
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <!-- Initialize a select button -->
-<select id="selectButton"></select>
+<select multiple id="selectButton"></select>
 <!-- Initialize a states button -->
 <select id="statesButton"></select>
 
@@ -60,8 +60,9 @@
              .data(allGroup)
           .enter()
             .append('option')
-          .text(function (d) { return d; }) // text showed in the menu
-          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+          .text(function (d)
+           {return d; }) // text showed in the menu
+          .attr("value", function (d) { console.log('d',d) ;return d; }) // corresponding value returned by the button
     
    
     
