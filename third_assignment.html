@@ -142,18 +142,23 @@ p{
          <div id="safariMessage" style="display: none; color: red;">
           <p>Please use a different browser (e.g. Chrome), as Safari does not support some features of this visualisation</p>
         </div>
+<p class="explain">For this third assignment we created 3 different visualizations: a linechart, a radarchart and a ridgeline chart. For our data we selected the measured average, maximum and minimum temperature in the United States in the last 50 years, to see if it's possible to appreciate a difference in the registered temperatures due to climate change. For both the linechart and radarchart we implemented two buttons to change both the visualized year and the selected state. We believe it's best to not have multiple years visualized at the same time for these two charts as it makes them look extremely messy and hard to understand, and we were unable to find a real effective solution to this problem that satisfied us, so we opted out of that. The ridgeline chart only has one button to select the state due to the nature of the chart. </p>
+<p class="explain">The data for novmeber and december 2023 was missing as the data was taken mid-november 2023, as such their value was set to a default 0.
+</p>
 
 
+	<p class="explain">In this linechart we plot the registered minimum (in blue), maximum (in red) and average (in green) temperatures (in Celsius degrees on the Y axis) for each state during each month (x axis) in every year we considered. The points for minimum and maximum temperatures are joined in a namesake line to visualize their trend during the year. By using the two buttons it's possible to choose which year for which state to visualize. It's noticeable how in some states (eg: Alaska), by changing the years moving from 50 years ago to today, the temperatures during the summer increased slightly while the temperatures during winter slightly decreased. For many states, however, there is not an appreciable difference beyond normal variations year to year, due to the fact that global warming effects are mostly visible on a larger scale. </p>
     <div class="container">
       <div id="data-visualization">
               <object data="line_chart.html" class="box"></object>
       </div>
-
+<p class="explain">In the spider chart we plot the same data as the linechart, but on a radial scale. The farther each point is from the center, the higher the temperature registered. The blue line joins all the minimmum temperature points, the red line joins the maximum temperature ones and the green line the average temperature ones. As above, two buttons enable to change the year and state selected to be represented. With this chart it's easier to see how different the temperatures are between each state, as the changes in the area of the chart are very evident.
+ </p>
       <div class="container">
         <div id="data-visualization">
                 <object data="spider_chart.html" class="box"></object>
         </div>
-
+<p class="explain">In the ridgeline chart we plot once again the data as before, but on a distributive scale. Here only the minimum (blue ridge) and maximum (red ridge) temperatures are plotted. The x axis represents the temperature in celsius degrees, while the y axis indicates how often that temperature value was measured, with each baseline and ridge representing a different year. It's possible to see here how in some states the overall chart moved to the right, indicating an overall higher average temperature in recent years, and how the ridges tend to become steeper towards two peaks, indicating colder winters and hotter summers. </p>
 	<div class="container">
         <div id="data-visualization">
                 <object data="ridgeline.html" class="box_ridgeline"></object>
