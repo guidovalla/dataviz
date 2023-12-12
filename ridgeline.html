@@ -19,15 +19,16 @@ var margin = {top: 80, right: 30, bottom: 20, left:110},
     height = 700 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
-        //center the svg
-        .attr("class", "centered")
-  .append("svg")
+
+
+          var svg = d3.select("#my_dataviz")
+    .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .attr("class", "centered_ridgeline")
+    .append("g")
     .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
+        "translate(" + margin.left + "," + margin.top + ")");
 
 //read data
 d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline_min_temperatures.csv", function(data_cold) {
