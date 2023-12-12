@@ -8,18 +8,20 @@
 <select id="statesButton"></select>
 
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz">
+<div id="my_dataviz" class="centered_ridgeline"></div>
 
 <script>
 
     // set the dimensions and margins of the graph
 
 var margin = {top: 80, right: 30, bottom: 20, left:110},
-    width = 460 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+    width = 600 - margin.left - margin.right,
+    height = 700 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
+        //center the svg
+        .attr("class", "centered")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -62,7 +64,7 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([-25, 50])
+    .domain([-35, 50])
     .range([ 0, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -152,7 +154,7 @@ d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/ridgeline
 
       // Add X axis
       var x = d3.scaleLinear()
-      .domain([-25, 50])
+      .domain([-35, 50])
       .range([ 0, width ]);
        svg.append("g")
         .attr("transform", "translate(0," + height + ")")

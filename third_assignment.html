@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>temperatures</title>
+    <title>USA Temperatures</title>
 
     <link rel="stylesheet" href="custom.css">
     <link rel="icon" href="icon.png" type="image/x-icon"/>
@@ -15,7 +15,7 @@
         var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
         
         if (isSafari) {
-          // Se è Safari, mostra un messaggio di errore
+          // if it is safari, show the error message 
           document.getElementById("safariMessage").style.display = "block";
         }
       };
@@ -48,6 +48,19 @@
             align-items: center;
             flex-direction: column;
         }
+
+
+          .box_ridgeline{
+              width: 1000px; 
+              height: 1500px;
+          }
+
+          .centered_ridgeline{
+            display: flex;
+            justify-content: center;
+             align-items: center;
+
+          }
 
         
 
@@ -125,7 +138,7 @@ p{
         <h1>Section 3: Timelines and Distributions</h1>
     </header>
 
-         <!-- Error massage for Safari -->
+         <!-- Error message for Safari -->
          <div id="safariMessage" style="display: none; color: red;">
           <p>Please use a different browser (e.g. Chrome), as Safari does not support some features of this visualisation</p>
         </div>
@@ -143,7 +156,7 @@ p{
 
 	<div class="container">
         <div id="data-visualization">
-                <object data="ridgeline.html" class="box"></object>
+                <object data="ridgeline.html" class="box_ridgeline"></object>
         </div>
 <script>
 	
