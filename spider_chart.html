@@ -36,7 +36,7 @@
     }
     
     .y-tick circle {
-      fill: rgb(177, 171, 171);
+      fill: #b1abab;
       font-size: 10px;
       opacity: 0.1;
     }
@@ -55,9 +55,9 @@
     }
     
     .mins {
-      fill: rgb(10, 134, 229);
+      fill:#0a86e5;
       fill-opacity: 0.001;
-      stroke: rgb(10, 134, 229);
+      stroke: #0a86e5;
       stroke-width: 1px;
     }
     .avg {
@@ -226,8 +226,8 @@
       	var attribute = d3.select(this).property("value");
       	year = attribute;
       	//change();
-        //ADD: destroy old chart
-      d3.selectAll('svg > g >*').remove();
+        //destroy old chart
+      d3.selectAll('svg > g > *').remove();
       center = svg.append("g")
     	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
         makeradar(pathm,state,year,path2)
@@ -323,7 +323,7 @@
             
       avg.selectAll("circle")
       	.data(data)
-      .enter().append("circle")
+        .enter().append("circle")
       	.attr("class", "dot-run")	
      		.attr("cy", function(d) {
           return y(d.temperature);
