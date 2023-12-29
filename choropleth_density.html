@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link href="./d3-geomap/d3-geomap.css" rel="stylesheet">    
+        <link href="https://github.com/guidovalla/dataviz/blob/main/d3-geomap/d3-geomap.css" rel="stylesheet">    
     </head>
     <body>
 
@@ -9,12 +9,12 @@
     </body>
     <script src="https://unpkg.com/d3@5/dist/d3.min.js"></script>
     <script src="https://unpkg.com/topojson@3/dist/topojson.min.js"></script>
-    <script src="./d3-geomap/d3-geomap.min.js"></script>
+    <script src="https://github.com/guidovalla/dataviz/blob/main/d3-geomap/d3-geomap.min.js"></script>
 
 
 <script>
 var map = d3.choropleth()
-    .geofile('./d3-geomap/topojson/countries/USA.json')
+    .geofile('https://github.com/guidovalla/dataviz/blob/main/d3-geomap/d3-geomap/topojson/countries/USA.json')
     //.colors(["#f7fcf5","#e8f6e3","#d3eecd","#b7e2b1","#97d494","#73c378","#4daf62","#2f984f","#157f3b","#036429","#00441b"])
     //.colors(["#cacaca","#f5fbfc","#f2fafc","#eff9fb","#ebf7fa","#eaf7f9","#e6f5f7","#e5f5f7","#e4f5f7","#e2f4f6","#e0f3f4","#d3eeec","#d2eeeb","#d1eeeb","#cbebe6","#caebe6","#004e1f","#00451c","#00441b"])
     .colors(["#f7fcfd","#f6fcfd","#f6fcfd","#f5fbfd","#f5fbfc","#f4fbfc","#f4fbfc","#f3fafc","#f2fafc","#f2fafc","#f1fafc","#f1fafc","#f0f9fb","#f0f9fb","#eff9fb","#eef9fb","#eef8fb","#edf8fa","#edf8fa","#ecf8fa","#ebf8fa","#ebf7fa","#eaf7f9","#eaf7f9","#e9f7f9","#e8f6f9","#e8f6f8","#e7f6f8","#e6f6f8","#e6f5f7","#e5f5f7","#e4f5f7","#e4f5f6","#e3f4f6","#e2f4f6","#e2f4f5","#e1f4f5","#e0f3f4","#e0f3f4","#dff3f4","#def3f3","#ddf2f3","#ddf2f2","#dcf2f2","#dbf1f1","#daf1f1","#d9f1f0","#d9f0ef","#d8f0ef","#d7f0ee","#d6f0ee","#d5efed","#d4efec","#d3eeec","#d2eeeb","#d1eeeb","#d0edea","#cfede9","#ceede8","#cdece8","#ccece7","#cbebe6","#caebe6","#c9ebe5","#c7eae4","#c6eae3","#c5e9e3","#c4e9e2","#c2e8e1","#c1e8e0","#c0e7df","#bee7df","#bde6de","#bce6dd","#bae5dc","#b9e4db","#b7e4da","#b6e3da","#b4e3d9","#b3e2d8","#b1e2d7","#b0e1d6","#aee0d5","#ade0d4","#abdfd3","#aadfd2","#a8ded1","#a7ddd0","#a5ddcf","#a4dcce","#a2dbcd","#a0dbcc","#9fdacb","#9dd9ca","#9cd9c9","#9ad8c8","#98d7c7","#97d7c6","#95d6c5","#94d5c4","#92d5c3","#90d4c2","#8fd3c1","#8dd3c0","#8cd2bf","#8ad1be","#88d1bc","#87d0bb","#85cfba","#84cfb9","#82ceb8","#81cdb7","#7fcdb6","#7eccb4","#7ccbb3","#7bcbb2","#79cab1","#78c9b0","#76c9ae","#75c8ad","#73c7ac","#72c7ab","#70c6aa","#6fc5a8","#6dc5a7","#6cc4a6","#6ac3a4","#69c3a3","#68c2a2","#66c1a1","#65c19f","#64c09e","#62bf9d","#61bf9b","#60be9a","#5ebd98","#5dbd97","#5cbc96","#5bbb94","#59bb93","#58ba92","#57b990","#56b98f","#54b88d","#53b78c","#52b78b","#51b689","#50b588","#4fb486","#4db485","#4cb383","#4bb282","#4ab180","#49b17f","#48b07d","#47af7c","#46ae7b","#45ae79","#44ad78","#43ac76","#42ab75","#40aa73","#3fa972","#3ea870","#3da76f","#3ca66d","#3ba56c","#3aa56a","#39a469","#38a367","#37a266","#36a164","#35a063","#349f61","#339e60","#329d5e","#319c5d","#309b5c","#2f9a5a","#2e9959","#2d9757","#2c9656","#2b9555","#2a9453","#299352","#289251","#27914f","#26904e","#258f4d","#248e4c","#238d4a","#228c49","#218b48","#208a47","#1f8946","#1e8845","#1d8744","#1c8643","#1b8542","#1a8441","#198340","#18823f","#17813e","#16803d","#157f3c","#147e3b","#137d3a","#127c39","#117b38","#107a38","#107937","#0f7836","#0e7735","#0d7634","#0c7534","#0b7433","#0b7332","#0a7232","#097131","#087030","#086f2f","#076e2f","#066c2e","#066b2d","#056a2d","#05692c","#04682b","#04672b","#04662a","#03642a","#036329","#026228","#026128","#026027","#025e27","#015d26","#015c25","#015b25","#015a24","#015824","#015723","#005623","#005522","#005321","#005221","#005120","#005020","#004e1f","#004d1f","#004c1e","#004a1e","#00491d","#00481d","#00471c","#00451c","#00441b"])
