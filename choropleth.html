@@ -22,7 +22,7 @@ var map = d3.choropleth()
     .column('abundance')
     .unitId('fips')
     .scale(1000)
-    .legend(false);
+    .legend(true);
 
 d3.csv('https://raw.githubusercontent.com/guidovalla/dataviz/main/data/abundance.csv').then(data => {
     map.draw(d3.select('#map').datum(data));
