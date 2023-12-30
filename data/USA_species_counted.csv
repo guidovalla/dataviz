@@ -1,0 +1,419 @@
+scientific_name,city,long,lat,count
+Acer platanoides,Aurora,-105.0,40.0,4745
+Acer platanoides,Baltimore,-77.0,39.0,3717
+Acer platanoides,Buffalo,-79.0,43.0,13265
+Acer platanoides,Colorado Springs,-105.0,39.0,495
+Acer platanoides,Columbus,-83.0,40.0,4549
+Acer platanoides,Coon Rapids,-95.0,42.0,88
+Acer platanoides,Dallas Center,-94.0,42.0,83
+Acer platanoides,Denver,-105.0,40.0,7945
+Acer platanoides,Glendale,-88.0,43.0,175
+Acer platanoides,Madison,-90.0,43.0,20918
+Acer platanoides,Milwaukee,-88.0,43.0,912
+Acer platanoides,Minneapolis,-96.0,41.0,20191
+Acer platanoides,New Berlin,-88.0,43.0,478
+Acer platanoides,New York,-74.0,40.0,40112
+Acer platanoides,Overland Park,-95.0,39.0,563
+Acer platanoides,Pittsburgh,-80.0,40.0,3715
+Acer platanoides,Portland,-122.0,46.0,19209
+Acer platanoides,Providence,-72.0,42.0,2849
+Acer platanoides,Sacramento,-121.0,39.0,79
+Acer platanoides,San Jose,-122.0,37.0,2868
+Acer platanoides,Seattle,-122.0,48.0,6304
+Acer platanoides,Sioux Falls,-97.0,44.0,5701
+Acer platanoides,St. Louis,-90.0,39.0,1127
+Acer platanoides,Stockton,-116.0,38.0,123
+Acer platanoides,Stuart,-94.0,42.0,50
+Acer platanoides,Washington DC,-77.0,39.0,3403
+Acer platanoides,Watertown,-89.0,43.0,976
+Acer platanoides,Wauwatosa,-88.0,43.0,171
+Acer platanoides,Woodward,-94.0,42.0,81
+Acer rubrum,Arlington,-97.0,33.0,50
+Acer rubrum,Atlanta,-84.0,34.0,1263
+Acer rubrum,Aurora,-105.0,40.0,133
+Acer rubrum,Baltimore,-77.0,39.0,12910
+Acer rubrum,Buffalo,-79.0,43.0,2601
+Acer rubrum,Cape Coral,-82.0,27.0,138
+Acer rubrum,Columbus,-83.0,40.0,8657
+Acer rubrum,Denver,-105.0,40.0,3084
+Acer rubrum,Detroit,-83.0,42.0,1183
+Acer rubrum,Durham,-79.0,36.0,718
+Acer rubrum,Houston,-90.0,33.0,963
+Acer rubrum,Knoxville,-84.0,36.0,683
+Acer rubrum,Louisville,-86.0,38.0,1538
+Acer rubrum,Madison,-90.0,43.0,261
+Acer rubrum,Minneapolis,-96.0,41.0,4196
+Acer rubrum,Nashville,-87.0,36.0,51
+Acer rubrum,New York,-74.0,40.0,17246
+Acer rubrum,Newton,-93.0,42.0,55
+Acer rubrum,Oakland,-122.0,38.0,76
+Acer rubrum,Overland Park,-99.0,39.0,13289
+Acer rubrum,Pittsburgh,-80.0,40.0,3422
+Acer rubrum,Portland,-122.0,46.0,15475
+Acer rubrum,Providence,-71.0,42.0,1306
+Acer rubrum,Rochester,-76.0,42.0,1995
+Acer rubrum,Sacramento,-122.0,38.0,1920
+Acer rubrum,San Francisco,-122.0,38.0,968
+Acer rubrum,San Jose,-122.0,37.0,1282
+Acer rubrum,Seattle,-122.0,48.0,7543
+Acer rubrum,Sioux Falls,-97.0,44.0,989
+Acer rubrum,St. Louis,-90.0,39.0,8575
+Acer rubrum,Stockton,-114.0,38.0,1812
+Acer rubrum,Tampa,-82.0,28.0,309
+Acer rubrum,Washington DC,-77.0,39.0,12711
+Fraxinus pennsylvanica,Adair,-95.0,42.0,53
+Fraxinus pennsylvanica,Adel,-94.0,42.0,97
+Fraxinus pennsylvanica,Arlington,-97.0,33.0,128
+Fraxinus pennsylvanica,Atlanta,-84.0,34.0,117
+Fraxinus pennsylvanica,Aurora,-105.0,40.0,5465
+Fraxinus pennsylvanica,Baltimore,-77.0,39.0,1111
+Fraxinus pennsylvanica,Brown Deer,-88.0,43.0,122
+Fraxinus pennsylvanica,Buffalo,-79.0,43.0,718
+Fraxinus pennsylvanica,Colorado Springs,-105.0,39.0,1844
+Fraxinus pennsylvanica,Columbus,-83.0,40.0,9402
+Fraxinus pennsylvanica,Coon Rapids,-95.0,42.0,159
+Fraxinus pennsylvanica,Dallas Center,-94.0,42.0,148
+Fraxinus pennsylvanica,Denver,-105.0,40.0,25736
+Fraxinus pennsylvanica,Durham,-79.0,36.0,66
+Fraxinus pennsylvanica,Earlham,-94.0,41.0,54
+Fraxinus pennsylvanica,Glendale,-88.0,43.0,442
+Fraxinus pennsylvanica,Houston,-95.0,31.0,1154
+Fraxinus pennsylvanica,Louisville,-86.0,38.0,1404
+Fraxinus pennsylvanica,Madison,-90.0,43.0,17377
+Fraxinus pennsylvanica,Milwaukee,-88.0,43.0,1356
+Fraxinus pennsylvanica,Minneapolis,-96.0,41.0,28206
+Fraxinus pennsylvanica,New Berlin,-88.0,43.0,639
+Fraxinus pennsylvanica,New York,-74.0,40.0,16251
+Fraxinus pennsylvanica,Newton,-93.0,42.0,205
+Fraxinus pennsylvanica,Oklahoma City,-98.0,36.0,97
+Fraxinus pennsylvanica,Overland Park,-95.0,39.0,1929
+Fraxinus pennsylvanica,Pittsburgh,-80.0,40.0,248
+Fraxinus pennsylvanica,Providence,-71.0,42.0,1651
+Fraxinus pennsylvanica,Rochester,-76.0,42.0,2495
+Fraxinus pennsylvanica,Seattle,-122.0,48.0,1835
+Fraxinus pennsylvanica,Sioux Falls,-97.0,44.0,21430
+Fraxinus pennsylvanica,St. Louis,-90.0,39.0,7761
+Fraxinus pennsylvanica,Stuart,-94.0,42.0,94
+Fraxinus pennsylvanica,Washington DC,-77.0,39.0,55
+Fraxinus pennsylvanica,Watertown,-89.0,43.0,259
+Fraxinus pennsylvanica,Waukee,-94.0,42.0,218
+Fraxinus pennsylvanica,Wauwatosa,-88.0,43.0,265
+Fraxinus pennsylvanica,West Allis,-88.0,43.0,144
+Gleditsia triacanthos,Albuquerque,-107.0,35.0,159
+Gleditsia triacanthos,Anaheim,-118.0,34.0,249
+Gleditsia triacanthos,Aurora,-105.0,40.0,10428
+Gleditsia triacanthos,Baltimore,-77.0,39.0,3289
+Gleditsia triacanthos,Buffalo,-79.0,43.0,2347
+Gleditsia triacanthos,Colorado Springs,-105.0,39.0,559
+Gleditsia triacanthos,Columbus,-83.0,40.0,7090
+Gleditsia triacanthos,Cudahy,-88.0,43.0,63
+Gleditsia triacanthos,Denver,-105.0,40.0,24176
+Gleditsia triacanthos,Houston,-89.0,33.0,69
+Gleditsia triacanthos,Knoxville,-84.0,36.0,53
+Gleditsia triacanthos,Las Vegas,-115.0,36.0,204
+Gleditsia triacanthos,Los Angeles,-118.0,34.0,265
+Gleditsia triacanthos,Louisville,-86.0,38.0,179
+Gleditsia triacanthos,Madison,-90.0,43.0,3390
+Gleditsia triacanthos,Milwaukee,-88.0,43.0,1411
+Gleditsia triacanthos,Minneapolis,-96.0,41.0,12676
+Gleditsia triacanthos,New Berlin,-88.0,43.0,285
+Gleditsia triacanthos,New York,-74.0,40.0,64264
+Gleditsia triacanthos,Newton,-93.0,42.0,85
+Gleditsia triacanthos,Oakland,-114.0,40.0,224
+Gleditsia triacanthos,Oklahoma City,-98.0,36.0,118
+Gleditsia triacanthos,Ontario,-118.0,34.0,107
+Gleditsia triacanthos,Overland Park,-95.0,39.0,964
+Gleditsia triacanthos,Pittsburgh,-80.0,40.0,2120
+Gleditsia triacanthos,Portland,-122.0,46.0,1412
+Gleditsia triacanthos,Providence,-72.0,42.0,1926
+Gleditsia triacanthos,Rochester,-76.0,42.0,6305
+Gleditsia triacanthos,San Francisco,-122.0,38.0,117
+Gleditsia triacanthos,San Jose,-122.0,37.0,4037
+Gleditsia triacanthos,Seattle,-122.0,48.0,1404
+Gleditsia triacanthos,Sioux Falls,-97.0,44.0,2322
+Gleditsia triacanthos,St. Louis,-90.0,39.0,3013
+Gleditsia triacanthos,Stockton,-116.0,37.0,324
+Gleditsia triacanthos,Washington DC,-77.0,39.0,1911
+Gleditsia triacanthos,Watertown,-89.0,43.0,385
+Gleditsia triacanthos,Waukee,-94.0,42.0,103
+Gleditsia triacanthos,Wauwatosa,-88.0,43.0,157
+Gleditsia triacanthos,West Allis,-88.0,43.0,238
+Lagerstroemia indica,Anaheim,-118.0,34.0,3407
+Lagerstroemia indica,Arlington,-97.0,33.0,1195
+Lagerstroemia indica,Atlanta,-84.0,34.0,1612
+Lagerstroemia indica,Austin,-98.0,30.0,609
+Lagerstroemia indica,Baltimore,-77.0,39.0,1584
+Lagerstroemia indica,Cape Coral,-82.0,27.0,503
+Lagerstroemia indica,Garden Grove,-118.0,34.0,2358
+Lagerstroemia indica,Houston,-92.0,33.0,44320
+Lagerstroemia indica,Huntington Beach,-118.0,34.0,3892
+Lagerstroemia indica,Kaneohe,-158.0,21.0,129
+Lagerstroemia indica,Knoxville,-84.0,36.0,516
+Lagerstroemia indica,Las Vegas,-115.0,36.0,77
+Lagerstroemia indica,Los Angeles,-118.0,34.0,28054
+Lagerstroemia indica,Oakland,-95.0,39.0,1953
+Lagerstroemia indica,Oklahoma City,-98.0,36.0,689
+Lagerstroemia indica,Ontario,-115.0,37.0,4630
+Lagerstroemia indica,Portland,-122.0,46.0,852
+Lagerstroemia indica,Rancho Cucamonga,-118.0,34.0,12889
+Lagerstroemia indica,Sacramento,-121.0,38.0,4144
+Lagerstroemia indica,San Diego,-117.0,33.0,2207
+Lagerstroemia indica,San Francisco,-122.0,38.0,102
+Lagerstroemia indica,San Jose,-122.0,37.0,21636
+Lagerstroemia indica,Seattle,-122.0,48.0,406
+Lagerstroemia indica,Stockton,-116.0,36.0,7354
+Lagerstroemia indica,Tampa,-82.0,28.0,2851
+Lagerstroemia indica,Washington DC,-77.0,39.0,4325
+Liquidambar styraciflua,Anaheim,-118.0,34.0,1455
+Liquidambar styraciflua,Arlington,-97.0,33.0,91
+Liquidambar styraciflua,Baltimore,-77.0,39.0,2505
+Liquidambar styraciflua,Buffalo,-79.0,43.0,214
+Liquidambar styraciflua,Columbus,-83.0,40.0,1679
+Liquidambar styraciflua,Denver,-105.0,40.0,84
+Liquidambar styraciflua,Detroit,-83.0,42.0,180
+Liquidambar styraciflua,Durham,-79.0,36.0,163
+Liquidambar styraciflua,Garden Grove,-118.0,34.0,365
+Liquidambar styraciflua,Houston,-92.0,32.0,1352
+Liquidambar styraciflua,Huntington Beach,-118.0,34.0,170
+Liquidambar styraciflua,Knoxville,-84.0,36.0,96
+Liquidambar styraciflua,Los Angeles,-118.0,34.0,24928
+Liquidambar styraciflua,Louisville,-86.0,38.0,834
+Liquidambar styraciflua,Nashville,-87.0,36.0,131
+Liquidambar styraciflua,New York,-74.0,40.0,10657
+Liquidambar styraciflua,Oakland,-102.0,38.0,3312
+Liquidambar styraciflua,Oklahoma City,-98.0,36.0,55
+Liquidambar styraciflua,Ontario,-116.0,36.0,4392
+Liquidambar styraciflua,Overland Park,-95.0,39.0,1983
+Liquidambar styraciflua,Pittsburgh,-80.0,40.0,892
+Liquidambar styraciflua,Providence,-71.0,42.0,265
+Liquidambar styraciflua,Rancho Cucamonga,-118.0,34.0,3727
+Liquidambar styraciflua,Rochester,-76.0,42.0,786
+Liquidambar styraciflua,Sacramento,-122.0,38.0,1933
+Liquidambar styraciflua,San Diego,-117.0,33.0,10323
+Liquidambar styraciflua,San Francisco,-122.0,38.0,1561
+Liquidambar styraciflua,San Jose,-122.0,37.0,14644
+Liquidambar styraciflua,Seattle,-122.0,48.0,3377
+Liquidambar styraciflua,St. Louis,-90.0,39.0,2140
+Liquidambar styraciflua,Stockton,-115.0,37.0,4110
+Liquidambar styraciflua,Washington DC,-77.0,39.0,2839
+Others,Adair,-95.0,42.0,231
+Others,Adel,-94.0,42.0,377
+Others,Albuquerque,-107.0,35.0,2067
+Others,Anaheim,-118.0,34.0,43501
+Others,Arlington,-97.0,33.0,11865
+Others,Atlanta,-84.0,34.0,32540
+Others,Aurora,-105.0,40.0,33069
+Others,Austin,-98.0,30.0,4507
+Others,AvondaleEstates,-84.0,34.0,282
+Others,Baltimore,-77.0,39.0,78761
+Others,Baxter,-93.0,42.0,249
+Others,Bondurant,-93.0,42.0,424
+Others,Bouton,-94.0,42.0,98
+Others,Brookhaven,-84.0,34.0,101
+Others,Brown Deer,-88.0,43.0,404
+Others,Buffalo,-79.0,43.0,42748
+Others,Cape Coral,-82.0,27.0,23497
+Others,Carlisle,-93.0,42.0,481
+Others,Chamblee,-84.0,34.0,104
+Others,Clarkston,-84.0,34.0,216
+Others,Colfax,-93.0,42.0,250
+Others,CollegePark,-84.0,34.0,92
+Others,Colorado Springs,-105.0,39.0,11747
+Others,Columbus,-83.0,40.0,86771
+Others,Coon Rapids,-95.0,42.0,361
+Others,Cudahy,-88.0,43.0,304
+Others,Dallas Center,-94.0,42.0,529
+Others,De Soto,-94.0,42.0,146
+Others,Decatur,-84.0,34.0,1786
+Others,Denver,-105.0,40.0,201416
+Others,Detroit,-83.0,42.0,17245
+Others,Dexter,-94.0,42.0,151
+Others,Doraville,-84.0,34.0,121
+Others,Dunwoody,-84.0,34.0,894
+Others,Durham,-79.0,36.0,14630
+Others,Earlham,-94.0,41.0,433
+Others,EastPoint,-84.0,34.0,521
+Others,Elkhart,-94.0,42.0,94
+Others,Fox Point,-88.0,43.0,138
+Others,Franklin,-88.0,43.0,273
+Others,Garden Grove,-118.0,34.0,13593
+Others,Glendale,-88.0,43.0,1023
+Others,Granger,-94.0,42.0,151
+Others,Greendale,-88.0,43.0,217
+Others,Greenfield,-88.0,43.0,290
+Others,Guthrie Center,-94.0,42.0,158
+Others,Hales Corners,-88.0,43.0,320
+Others,Hapeville,-84.0,34.0,212
+Others,Honolulu,-158.0,21.0,7140
+Others,Houston,-94.0,31.0,117143
+Others,Huntington Beach,-118.0,34.0,39183
+Others,Kailua,-158.0,21.0,5393
+Others,Kaneohe,-158.0,21.0,1929
+Others,Kellogg,-93.0,42.0,91
+Others,Knoxville,-84.0,36.0,6854
+Others,Las Vegas,-115.0,36.0,31147
+Others,Los Angeles,-118.0,34.0,320017
+Others,Louisville,-86.0,38.0,28084
+Others,Madison,-89.0,43.0,37798
+Others,Marietta,-85.0,34.0,75
+Others,Milo,-93.0,41.0,299
+Others,Milwaukee,-88.0,43.0,7151
+Others,Minneapolis,-95.0,42.0,110915
+Others,Mitchellville,-93.0,42.0,177
+Others,Monroe,-93.0,42.0,342
+Others,Nashville,-87.0,36.0,1447
+Others,New Berlin,-88.0,43.0,4660
+Others,New York,-74.0,41.0,327952
+Others,Newton,-93.0,42.0,2674
+Others,Oak Creek,-88.0,43.0,152
+Others,Oakland,-111.0,39.0,23532
+Others,Oklahoma City,-98.0,35.0,7460
+Others,Ontario,-117.0,35.0,43278
+Others,Overland Park,-95.0,39.0,23289
+Others,Panora,-94.0,42.0,136
+Others,Pittsburgh,-80.0,40.0,20900
+Others,Pleasant Hill,-94.0,42.0,1271
+Others,Polk City,-94.0,42.0,93
+Others,Portland,-123.0,46.0,179803
+Others,Prairie City,-93.0,42.0,277
+Others,Providence,-71.0,42.0,9128
+Others,Rancho Cucamonga,-118.0,34.0,52659
+Others,Redfield,-94.0,42.0,111
+Others,Rochester,-76.0,42.0,27020
+Others,Sacramento,-121.0,38.0,57659
+Others,San Diego,-117.0,33.0,195797
+Others,San Francisco,-122.0,38.0,154806
+Others,San Jose,-122.0,37.0,181081
+Others,SandySprings,-84.0,34.0,208
+Others,Santa Rosa,-123.0,38.0,1125
+Others,Seattle,-122.0,48.0,135069
+Others,Shorewood,-88.0,43.0,82
+Others,Sioux Falls,-97.0,44.0,27058
+Others,South Milwaukee,-88.0,43.0,365
+Others,St. Louis,-90.0,39.0,47564
+Others,Stockton,-116.0,37.0,70083
+Others,Stuart,-94.0,42.0,267
+Others,Sully,-93.0,42.0,108
+Others,Tampa,-82.0,28.0,15097
+Others,Tucker,-84.0,34.0,55
+Others,Unincorporated,-84.0,34.0,406
+Others,Union,-93.0,42.0,137
+Others,Washington DC,-77.0,39.0,133356
+Others,Watertown,-89.0,43.0,3685
+Others,Waukee,-94.0,42.0,1414
+Others,Wauwatosa,-88.0,43.0,1250
+Others,West Allis,-88.0,43.0,989
+Others,West Milwaukee,-88.0,43.0,89
+Others,Windsor Heights,-94.0,42.0,305
+Others,Woodward,-94.0,42.0,345
+Platanus acerifolia,Albuquerque,-107.0,35.0,186
+Platanus acerifolia,Anaheim,-118.0,34.0,1095
+Platanus acerifolia,Baltimore,-77.0,39.0,6056
+Platanus acerifolia,Buffalo,-79.0,43.0,1897
+Platanus acerifolia,Columbus,-83.0,40.0,3916
+Platanus acerifolia,Denver,-105.0,40.0,1814
+Platanus acerifolia,Detroit,-83.0,42.0,980
+Platanus acerifolia,Durham,-79.0,36.0,54
+Platanus acerifolia,Garden Grove,-118.0,34.0,593
+Platanus acerifolia,Huntington Beach,-118.0,34.0,574
+Platanus acerifolia,Los Angeles,-118.0,34.0,8070
+Platanus acerifolia,Louisville,-86.0,38.0,131
+Platanus acerifolia,Madison,-90.0,43.0,119
+Platanus acerifolia,Nashville,-87.0,36.0,281
+Platanus acerifolia,New York,-74.0,41.0,87014
+Platanus acerifolia,Oakland,-102.0,38.0,3788
+Platanus acerifolia,Oklahoma City,-98.0,36.0,90
+Platanus acerifolia,Ontario,-116.0,36.0,3328
+Platanus acerifolia,Overland Park,-95.0,39.0,492
+Platanus acerifolia,Pittsburgh,-80.0,40.0,3224
+Platanus acerifolia,Providence,-71.0,42.0,1702
+Platanus acerifolia,Rancho Cucamonga,-118.0,34.0,5698
+Platanus acerifolia,Rochester,-76.0,42.0,2969
+Platanus acerifolia,Sacramento,-121.0,38.0,14085
+Platanus acerifolia,San Diego,-117.0,33.0,1907
+Platanus acerifolia,San Francisco,-122.0,38.0,11876
+Platanus acerifolia,San Jose,-122.0,37.0,26291
+Platanus acerifolia,Santa Rosa,-123.0,38.0,87
+Platanus acerifolia,Seattle,-122.0,48.0,1769
+Platanus acerifolia,St. Louis,-90.0,39.0,2358
+Platanus acerifolia,Stockton,-114.0,38.0,7552
+Platanus acerifolia,Washington DC,-77.0,39.0,5745
+Pyrus calleryana,Anaheim,-118.0,34.0,280
+Pyrus calleryana,Arlington,-97.0,33.0,241
+Pyrus calleryana,Aurora,-105.0,40.0,1490
+Pyrus calleryana,Austin,-98.0,30.0,62
+Pyrus calleryana,Baltimore,-77.0,39.0,4747
+Pyrus calleryana,Buffalo,-79.0,43.0,1443
+Pyrus calleryana,Columbus,-83.0,40.0,9245
+Pyrus calleryana,Denver,-105.0,40.0,7133
+Pyrus calleryana,Detroit,-83.0,42.0,190
+Pyrus calleryana,Durham,-79.0,36.0,237
+Pyrus calleryana,Garden Grove,-118.0,34.0,467
+Pyrus calleryana,Houston,-94.0,32.0,2621
+Pyrus calleryana,Huntington Beach,-118.0,34.0,1233
+Pyrus calleryana,Knoxville,-84.0,36.0,58
+Pyrus calleryana,Los Angeles,-118.0,34.0,4742
+Pyrus calleryana,Louisville,-86.0,38.0,387
+Pyrus calleryana,New Berlin,-88.0,43.0,72
+Pyrus calleryana,New York,-74.0,40.0,58931
+Pyrus calleryana,Oakland,-98.0,38.0,2683
+Pyrus calleryana,Oklahoma City,-98.0,36.0,263
+Pyrus calleryana,Ontario,-117.0,36.0,2793
+Pyrus calleryana,Overland Park,-98.0,39.0,1357
+Pyrus calleryana,Pittsburgh,-80.0,40.0,2969
+Pyrus calleryana,Providence,-71.0,42.0,2597
+Pyrus calleryana,Rancho Cucamonga,-118.0,34.0,4941
+Pyrus calleryana,Rochester,-76.0,42.0,683
+Pyrus calleryana,Sacramento,-121.0,38.0,4266
+Pyrus calleryana,San Diego,-117.0,33.0,1986
+Pyrus calleryana,San Francisco,-122.0,38.0,4029
+Pyrus calleryana,San Jose,-122.0,37.0,9631
+Pyrus calleryana,Seattle,-122.0,48.0,4467
+Pyrus calleryana,St. Louis,-91.0,38.0,7210
+Pyrus calleryana,Stockton,-114.0,38.0,5296
+Pyrus calleryana,Washington DC,-77.0,39.0,953
+Pyrus calleryana,Watertown,-89.0,43.0,397
+Quercus virginiana,Anaheim,-118.0,34.0,99
+Quercus virginiana,Arlington,-97.0,33.0,1081
+Quercus virginiana,Atlanta,-84.0,34.0,97
+Quercus virginiana,Austin,-98.0,30.0,790
+Quercus virginiana,Cape Coral,-82.0,27.0,5727
+Quercus virginiana,Durham,-79.0,36.0,92
+Quercus virginiana,Houston,-92.0,33.0,44059
+Quercus virginiana,Las Vegas,-115.0,36.0,393
+Quercus virginiana,Los Angeles,-118.0,34.0,132
+Quercus virginiana,Oklahoma City,-98.0,36.0,56
+Quercus virginiana,Rancho Cucamonga,-118.0,34.0,351
+Quercus virginiana,San Francisco,-122.0,38.0,58
+Quercus virginiana,San Jose,-122.0,37.0,2947
+Quercus virginiana,Stockton,-116.0,37.0,137
+Quercus virginiana,Tampa,-82.0,28.0,5379
+Tilia cordata,Aurora,-105.0,40.0,280
+Tilia cordata,Baltimore,-77.0,39.0,5932
+Tilia cordata,Buffalo,-79.0,43.0,9156
+Tilia cordata,Colorado Springs,-105.0,39.0,199
+Tilia cordata,Columbus,-83.0,40.0,4102
+Tilia cordata,Denver,-105.0,40.0,12961
+Tilia cordata,Detroit,-83.0,42.0,571
+Tilia cordata,Durham,-79.0,36.0,52
+Tilia cordata,Knoxville,-84.0,36.0,78
+Tilia cordata,Louisville,-86.0,38.0,122
+Tilia cordata,Madison,-90.0,43.0,3894
+Tilia cordata,Milwaukee,-88.0,43.0,267
+Tilia cordata,Minneapolis,-96.0,41.0,12687
+Tilia cordata,New Berlin,-88.0,43.0,118
+Tilia cordata,New York,-74.0,40.0,29742
+Tilia cordata,Newton,-93.0,42.0,54
+Tilia cordata,Overland Park,-95.0,39.0,900
+Tilia cordata,Pittsburgh,-80.0,40.0,2413
+Tilia cordata,Providence,-72.0,42.0,904
+Tilia cordata,Rochester,-76.0,42.0,3329
+Tilia cordata,San Francisco,-122.0,38.0,131
+Tilia cordata,San Jose,-122.0,37.0,358
+Tilia cordata,Seattle,-122.0,48.0,2718
+Tilia cordata,Sioux Falls,-97.0,44.0,3090
+Tilia cordata,St. Louis,-90.0,39.0,3682
+Tilia cordata,Stockton,-114.0,38.0,895
+Tilia cordata,Washington DC,-77.0,39.0,2705
+Tilia cordata,Watertown,-89.0,43.0,401
+Tilia cordata,Waukee,-94.0,42.0,122
