@@ -8,26 +8,30 @@
     <link rel="icon" href="icon.png" type="image/x-icon"/>
 </head>
 <body>
-        <p class="explain">Something on the dot USA map
+        <p class="explain">In this fourth assignment we made 4 visualizations: two dot maps, one with the overall abundance of trees in our USA trees dataset and one with the top 10 species in the whole set highligthed, and two choropleth maps, one with the overall abundance of trees and one with the relative density of trees per kilometer squared.
+IN CASE THE DOTS DO NOT APPEAR, PLEASE REFRESH THE PAGE
     </p>
+
+    <p class="explain">In the first dot map we visualize the trees as green circles on the map of the US. The circle dimension is indicative of the amount of trees present in each area. All trees are considered together here, with no distinction whatsoever. A tootip appears when hovering a specific circle, indicating the city it represents and the amount of trees included
+        </p>
          <div class="container">
            <div id="data-visualization">
                    <object data="dotty_usa.html" class="box"></object>
            </div>
-           <p class="explain">Something on the dot color usa map with the most abundant species
+           <p class="explain">In the second dot map we visualize again all the trees in the dataset, but this time the top 10 species are eachrepresented individually and given a specific colour for their circle, as seen on the legend by the side of the chart. The trees not belonging to the top 10 species are given a separated generic categorization as "other". By hovering a circle a tooltip appears, indicating the tree species the circle represents, the amount of trees and the city they belong to
         </p>
              <div class="container">
                <div id="data-visualization">
                        <object data="dotty_species.html" class="box"></object>
                </div>
-    <p class="explain">Something on the choropleth map
+    <p class="explain">In the first choropleth map we visualize the amount of trees each state has, represented by their colour on the map, as the legend on the side of the chart. Sadly most of the states have a very low amount of trees in the dataset, as such their representation here is misleading, as they are given the colour indicating the lowest possible amount of trees. A tootip appears when hovering a state, indicating its name and the number of trees contained inside
     </p>
          <div class="container">
            <div id="data-visualization">
                    <object data="choropleth.html" class="box"></object>
            </div>
    <p class="explain"> 
-         Something on the choropleth map with density
+         In the second choropleth map we visualize the density of trees each state has by sqaure kilometer, represented again by their colour on the map followin a new legend visible on the side. The chart doesn't change significantly from the absolute value one, but there are still some minor changes in some states. Once again a tooltip appears when hovering a state, indicating its name and its tree density per kilometer squared
    </p>
        <div class="container">
            <div id="data-visualization">
