@@ -4,6 +4,7 @@
 <!-- Load d3.js and the geo projection plugin -->
 <script src="https://d3js.org/d3.v4.js"></script>
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
 <!-- Create an element where the map will take place -->
 <div id="my_dataviz"></div>
@@ -20,17 +21,17 @@ var width = 1000
 var height = 1000
 
 const speciesColors = {
-            "Acer platanoides": "#FF5733",       // Reddish-orange
-            "Acer rubrum": "#8B0000",                    // Dark red
-            "Fraxinus pennsylvanica": "#FFA500",   // Orange
-            "Gleditsia triacanthos": "#FF0000",               // Pure red
-            "Lagerstroemia indica": "#00FF00",     // Green
+            "Acer platanoides": "#0061A0",       // Reddish-orange
+            "Acer rubrum": "#00A7B5",                    // Dark red
+            "Fraxinus pennsylvanica": "#F1C400",   // Orange
+            "Gleditsia triacanthos": "#F4633A",               // Pure red
+            "Lagerstroemia indica": "#EF3340",     // Green
             "Liquidambar styraciflua": "#2101FF",      // Pure blue
-            "Platanus acerifolia": "#00CED1",          // Blue-green
-            "Pyrus calleryana": "#8A2BE2",             // Blue-violet
-            "Quercus virginiana": "#FFFF00",          // Yellow
-            "Tilia cordata": "#FF00FF",    // Fuchsia
-            "Others": "#A9A9A9"                     // Dark gray
+            "Platanus acerifolia": "#9B3259",          // Blue-green
+            "Pyrus calleryana": "#574676",             // Blue-violet
+            "Quercus virginiana": "#E0A4A1",          // Yellow
+            "Tilia cordata": "#199BFC",    // Fuchsia
+            "Others": "#A4BCC2"                     // Dark gray
         };
 
 
@@ -40,7 +41,14 @@ var svg = d3.select("#my_dataviz")
   .attr("width", width)
   .attr("height", height)
 
-// Map and projection
+  var keys = ["Acer platanoides", "Acer rubrum", "Fraxinus pennsylvanica", "Gleditsia triacanthos", "Lagerstroemia indica", "Liquidambar styraciflua", "Platanus acerifolia", "Pyrus calleryana", "Quercus virginiana", "Tilia cordata", "Others"]
+  
+  var color = d3.scaleOrdinal()
+  .domain(keys)
+  .range(["#0061A0", "#00A7B5", "#F1C400", "#F4633A", "#EF3340", "#2101FF", "#9B3259", "#574676", "#E0A4A1", "#199BFC", "#A4BCC2"]);
+  //var color = ["#FF5733", "#8B0000", "#FFA500", "#FF0000", "#00FF00", "#2101FF", "#00CED1", "#8A2BE2", "#FFFF00", "#FF00FF", "#A9A9A9"]
+
+  // Map and projection
 var projection = d3.geoAlbersUsa()      
     .scale(1100)                       // This is like the zoom
     .translate([ width/2, height/2 ])
@@ -150,6 +158,28 @@ d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/w
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave)
+
+
+      svg.selectAll("mydots")
+  .data(keys)
+  .enter()
+  .append("circle")
+    .attr("cx", 840)
+    .attr("cy", function(d,i){ return 500 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    .attr("r", 7)
+    .style("fill", function(d){ return color(d)})
+
+// Add one dot in the legend for each name.
+svg.selectAll("mylabels")
+  .data(keys)
+  .enter()
+  .append("text")
+    .attr("x", 850)
+    .attr("y", function(d,i){ return 500 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    .style("fill", function(d){ return color(d)})
+    .text(function(d){ return d})
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle")
 
 })
 
