@@ -60,9 +60,9 @@ console.log("marker", markers)
 */
 // variables as markers taken from a csv
 var marker_2= []
-d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/USA_counted_trees.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/guidovalla/dataviz/main/data/USA_species_counted.csv", function(data) {
   for ( i in data ) {
-    marker_2.push( {long:data[i].long, lat:data[i].lat, count:data[i].count, city:data[i].city} )
+    marker_2.push( {long:data[i].long, lat:data[i].lat, count:data[i].count, city:data[i].city, scientific_name:data[i].scientific_name} )
   }
   //erase the last element of the array
   marker_2.pop()
@@ -106,7 +106,7 @@ d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/w
     }
     var mousemove = function(d) {
       Tooltip
-        .html("Trees:"+ d.count + "<br>" + "City:" + d.city) //CHNAGE TOOLTIP
+        .html("Scientific name:"+ d.scientific_name+ "<br>" + "Trees:"+ d.count + "<br>" + "City:" + d.city) //CHNAGE TOOLTIP
         .style("left", (d3.mouse(this)[0]+10) + "px")
         .style("top", (d3.mouse(this)[1]) + "px")
     }
