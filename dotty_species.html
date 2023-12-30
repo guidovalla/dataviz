@@ -14,7 +14,8 @@
   stroke: black;
   stroke-width: 1px;
 }
-</style><script>
+</style>
+<script>
 
 // Size ?
 var width = 1000
@@ -165,7 +166,7 @@ d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/w
   .enter()
   .append("circle")
     .attr("cx", 840)
-    .attr("cy", function(d,i){ return 500 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    .attr("cy", function(d,i){ return 260 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
     .attr("r", 7)
     .style("fill", function(d){ return color(d)})
 
@@ -174,8 +175,8 @@ svg.selectAll("mylabels")
   .data(keys)
   .enter()
   .append("text")
-    .attr("x", 850)
-    .attr("y", function(d,i){ return 500 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    .attr("x", 855)
+    .attr("y", function(d,i){ return 260 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
     .style("fill", function(d){ return color(d)})
     .text(function(d){ return d})
     .attr("text-anchor", "left")
